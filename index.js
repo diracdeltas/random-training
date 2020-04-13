@@ -9,13 +9,21 @@ const KEY = window.location.hostname === 'localhost'
   ? 'AIzaSyBdMbfcLElXZVEhjIgHdfCoOaetzGjbMVY'
   : 'AIzaSyAIuKK4Gwa081NEzODhO2kkvFlH-VKz_DA'
 
+const cachedSearchJson = {}
+
 const setBackground = (exercise) => {
   const searchTerm = exercise === 'Rest' ? 'resting' : `${exercise.replace(/ /g, '+')}+exercise`
   const url = `https://www.googleapis.com/customsearch/v1?key=${KEY}&cx=${CX}&q=${searchTerm}&searchType=image&fileType=jpg&alt=json`
-  window.fetch(url).then(async (response) => {
-    const json = await response.json()
-    pickRandomImage(json)
-  })
+  if (!cachedSearchJson[exercise]) {
+    window.fetch(url).then(async (response) => {
+      const json = await response.json()
+      cachedSearchJson[exercise] = json
+      pickRandomImage(json)
+    })
+  } else {
+    console.log('using cached images')
+    pickRandomImage(cachedSearchJson[exercise])
+  }
 }
 
 const pickRandomImage = (json) => {
