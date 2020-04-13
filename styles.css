@@ -21,11 +21,16 @@ img {
 
 #circleTimer {
   text-align: center;
+  color: #263665;
   display: none;
   position: relative;
   top: 30px;
   width: 300px;
   margin: 0 auto;
+}
+
+h1 {
+  color: #924e96;
 }
 
 button[data-setter] {
@@ -37,7 +42,7 @@ button[data-setter] {
   font-size: 18px;
   width: 25px;
   height: 30px;
-  color: #F7958E;
+  color: #75cc7b;
   cursor: pointer;
 }
 
@@ -67,7 +72,7 @@ button[data-setter]:hover { opacity: 0.5; }
   font-family: 'Roboto';
   font-weight: 100;
   font-size: 65px;
-  color: #F7958E;
+  color: #75cc7b;
 }
 
 #pause {
@@ -88,7 +93,7 @@ button[data-setter]:hover { opacity: 0.5; }
   left: 16px;
   border-top: 15px solid transparent;
   border-bottom: 15px solid transparent;
-  border-left: 22px solid #F7958E;
+  border-left: 22px solid #75cc7b;
 }
 
 .pause::after {
@@ -100,7 +105,7 @@ button[data-setter]:hover { opacity: 0.5; }
   height: 30px;
   background-color: transparent;
   border-radius: 1px;
-  border: 5px solid #F7958E;
+  border: 5px solid #75cc7b;
   border-top: none;
   border-bottom: none;
 }
@@ -115,14 +120,14 @@ button[data-setter]:hover { opacity: 0.5; }
 
 .e-c-progress {
   fill: none;
-  stroke: #F7958E;
+  stroke: #75cc7b;
   stroke-width: 4px;
   transition: stroke-dashoffset 0.7s;
 }
 
 .e-c-pointer {
   fill: #FFF;
-  stroke: #F7958E;
+  stroke: #75cc7b;
   stroke-width: 2px;
 }
 

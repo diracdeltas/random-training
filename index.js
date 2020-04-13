@@ -31,6 +31,8 @@ const exercises = {
 }
 
 start.onclick = () => {
+  const totalMinutes = parseInt(document.querySelector('#minutes').value) || 20
+  let totalSecondsLeft = 60 * totalMinutes
   circleTimer.style.display = 'block'
 
   // circle start
@@ -57,7 +59,7 @@ start.onclick = () => {
   let isStarted = false
 
   update(wholeTime, wholeTime) // refreshes progress bar
-  displayTimeLeft(wholeTime)
+  displayTimeLeft(wholeTime, true)
 
   function timer (seconds) {
     let remainTime = Date.now() + (seconds * 1000)
@@ -67,12 +69,13 @@ start.onclick = () => {
       if (timeLeft < 0) {
         clearInterval(intervalTimer)
         isStarted = false
+        totalSecondsLeft = 0
         displayTimeLeft(wholeTime)
         pauseBtn.classList.remove('pause')
         pauseBtn.classList.add('play')
         return
       }
-      displayTimeLeft(timeLeft)
+      displayTimeLeft(timeLeft, true)
     }, 1000)
   }
   function pauseTimer (event) {
@@ -94,7 +97,18 @@ start.onclick = () => {
     }
   }
 
-  function displayTimeLeft (timeLeft) {
+  function displayTimeLeft (timeLeft, tick) {
+    if (tick) {
+      const totalMinutesLeft = Math.floor(totalSecondsLeft / 60)
+      let remainderSeconds = String(totalSecondsLeft - totalMinutesLeft * 60)
+      if (remainderSeconds.length < 2) {
+        remainderSeconds = '0' + remainderSeconds
+      }
+      timeRemaining.innerText = `${totalMinutesLeft}:${remainderSeconds}`
+      if (totalSecondsLeft > 0) {
+        totalSecondsLeft = totalSecondsLeft - 1
+      }
+    }
     let minutes = Math.floor(timeLeft / 60)
     let seconds = timeLeft % 60
     let displayString = `${minutes < 10 ? '0' : ''}${minutes}:${seconds < 10 ? '0' : ''}${seconds}`
