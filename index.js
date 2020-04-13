@@ -10,6 +10,17 @@ const KEY = window.location.hostname === 'localhost'
   : 'AIzaSyAIuKK4Gwa081NEzODhO2kkvFlH-VKz_DA'
 
 const cachedSearchJson = {}
+const synth = window.speechSynthesis
+
+const sayExercise = (seconds, exercise) => {
+  const phrase = new window.SpeechSynthesisUtterance(`${exercise}, ${seconds} seconds`)
+  synth.speak(phrase)
+}
+
+const sayCountdown = (number) => {
+  const phrase = new window.SpeechSynthesisUtterance(`${number}`)
+  synth.speak(phrase)
+}
 
 const setBackground = (exercise) => {
   const searchTerm = exercise === 'Rest' ? 'resting' : `${exercise.replace(/ /g, '+')}+exercise`
@@ -144,6 +155,7 @@ function initTimer () {
     wholeTime = uniform(exerciseSeconds)
     exerciseType = (exerciseType + 1) % 3
   }
+  sayExercise(wholeTime, exercise)
   try {
     setBackground(exercise)
   } catch (e) {
@@ -170,6 +182,9 @@ function initTimer () {
       if (timeLeft < 0 && totalSecondsLeft > 0) {
         initTimer()
       } else {
+        if (timeLeft < 4) {
+          sayCountdown(timeLeft)
+        }
         displayTimeLeft()
       }
     }, 1000)
