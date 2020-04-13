@@ -1,113 +1,149 @@
 'use strict'
 
-const exerciseSeconds = [30, 30, 30, 30, 60, 60, 60, 90, 90, 120]
+let exerciseSeconds = [20, 20, 20, 20, 30, 30, 30, 30, 30, 60, 60, 90]
+
 const restSeconds = [5, 5, 5, 5, 10, 10, 10, 10, 10, 20, 20, 30, 60]
 
-const exercises = {
-  lower: [
+const exercises = [
+  [
     'forward lunges',
     'side lunges',
     'high knees',
+    'jump knee tucks',
     'climbers',
     'squats',
-    'jump squats',
+    'jumping squats',
     'bridges'
   ],
-  core: [
+  [
     'sit-ups',
-    'bicycle crunches',
+    'crunches',
     'flutter kicks',
-    'plank',
+    'high plank',
+    'elbow plank',
     'leg raises'
   ],
-  arms: [
-    'close-grip push ups',
-    'alternating arm/leg plank',
+  [
+    'alt arm/leg plank',
     'superman',
     'push ups',
     'shoulder taps',
     'plank rotations'
   ]
+]
+
+// Picks an item at random from an array
+function uniform (array) {
+  return array[Math.floor(Math.random() * array.length)]
 }
 
-start.onclick = () => {
-  const totalMinutes = parseInt(document.querySelector('#minutes').value) || 20
-  let totalSecondsLeft = 60 * totalMinutes
-  circleTimer.style.display = 'block'
+let totalSecondsLeft = 0
+let isRest = false
+let exerciseType = uniform([0, 1, 2])
 
+function done () {
+  document.querySelector('h1').innerText = 'Done!'
+  document.querySelector('.circle').style.display = 'none'
+  document.querySelector('.controlls').style.display = 'none'
+  document.querySelector('#remaining').style.display = 'none'
+}
+let intervalTimer
+let timeLeft
+let wholeTime
+let exercise
+let isPaused
+let isStarted = false
+const progressBar = document.querySelector('.e-c-progress')
+const pointer = document.getElementById('e-pointer')
+
+const length = Math.PI * 2 * 100
+function update (value, timePercent) {
+  const offset = -length - length * value / (timePercent)
+  progressBar.style.strokeDashoffset = offset
+  pointer.style.transform = `rotate(${360 * value / (timePercent)}deg)`
+}
+
+function initTimer () {
+  const pauseBtn = document.getElementById('pause')
   // circle start
-  let progressBar = document.querySelector('.e-c-progress')
-  let pointer = document.getElementById('e-pointer')
-  let length = Math.PI * 2 * 100
-
   progressBar.style.strokeDasharray = length
-
-  function update (value, timePercent) {
-    var offset = -length - length * value / (timePercent)
-    progressBar.style.strokeDashoffset = offset
-    pointer.style.transform = `rotate(${360 * value / (timePercent)}deg)`
-  }
 
   // circle ends
   const displayOutput = document.querySelector('.display-remain-time')
-  const pauseBtn = document.getElementById('pause')
 
-  let intervalTimer
-  let timeLeft
-  let wholeTime = 0.5 * 60 // manage this to set the whole time
-  let isPaused = false
-  let isStarted = false
+  isPaused = false
+
+  if (totalSecondsLeft <= 0) {
+    done()
+    return
+  }
+
+  if (isRest) {
+    exercise = 'Rest'
+    wholeTime = uniform(restSeconds)
+  } else {
+    exercise = uniform(exercises[exerciseType])
+    wholeTime = uniform(exerciseSeconds)
+    exerciseType = (exerciseType + 1) % 3
+  }
+  isRest = !isRest
+
+  if (wholeTime > totalSecondsLeft) {
+    wholeTime = totalSecondsLeft
+  }
+  timeLeft = wholeTime
+
+  document.querySelector('h1').innerText = exercise
 
   update(wholeTime, wholeTime) // refreshes progress bar
-  displayTimeLeft(wholeTime, true)
 
-  function timer (seconds) {
-    let remainTime = Date.now() + (seconds * 1000)
-    displayTimeLeft(seconds)
+  function timer () {
+    if (intervalTimer) {
+      clearInterval(intervalTimer)
+    }
+    displayTimeLeft()
     intervalTimer = setInterval(function () {
-      timeLeft = Math.round((remainTime - Date.now()) / 1000)
-      if (timeLeft < 0) {
-        clearInterval(intervalTimer)
-        isStarted = false
-        totalSecondsLeft = 0
-        displayTimeLeft(wholeTime)
-        pauseBtn.classList.remove('pause')
-        pauseBtn.classList.add('play')
-        return
+      timeLeft = timeLeft - 1
+      if (timeLeft < 0 && totalSecondsLeft > 0) {
+        initTimer()
+      } else {
+        displayTimeLeft()
       }
-      displayTimeLeft(timeLeft, true)
     }, 1000)
   }
-  function pauseTimer (event) {
+  function pauseTimer (restart) {
     if (isStarted === false) {
-      timer(wholeTime)
+      timer()
       isStarted = true
-      this.classList.remove('play')
-      this.classList.add('pause')
-    } else if (isPaused) {
-      this.classList.remove('play')
-      this.classList.add('pause')
-      timer(timeLeft)
-      isPaused = !isPaused
+      pauseBtn.classList.remove('play')
+      pauseBtn.classList.add('pause')
+      isPaused = false
+    } else if (isPaused || restart) {
+      pauseBtn.classList.remove('play')
+      pauseBtn.classList.add('pause')
+      timer()
+      isPaused = false
     } else {
-      this.classList.remove('pause')
-      this.classList.add('play')
+      pauseBtn.classList.remove('pause')
+      pauseBtn.classList.add('play')
       clearInterval(intervalTimer)
-      isPaused = !isPaused
+      isPaused = true
     }
   }
 
-  function displayTimeLeft (timeLeft, tick) {
-    if (tick) {
-      const totalMinutesLeft = Math.floor(totalSecondsLeft / 60)
-      let remainderSeconds = String(totalSecondsLeft - totalMinutesLeft * 60)
-      if (remainderSeconds.length < 2) {
-        remainderSeconds = '0' + remainderSeconds
-      }
-      timeRemaining.innerText = `${totalMinutesLeft}:${remainderSeconds}`
-      if (totalSecondsLeft > 0) {
-        totalSecondsLeft = totalSecondsLeft - 1
-      }
+  function displayTimeLeft () {
+    const totalMinutesLeft = Math.floor(totalSecondsLeft / 60)
+    let remainderSeconds = String(totalSecondsLeft % 60)
+    if (remainderSeconds.length < 2) {
+      remainderSeconds = '0' + remainderSeconds
+    }
+    timeRemaining.innerText = `${totalMinutesLeft}:${remainderSeconds}`
+    if (totalSecondsLeft > 0) {
+      totalSecondsLeft = totalSecondsLeft - 1
+    } else {
+      // show that we are done
+      done()
+      return
     }
     let minutes = Math.floor(timeLeft / 60)
     let seconds = timeLeft % 60
@@ -115,6 +151,35 @@ start.onclick = () => {
     displayOutput.textContent = displayString
     update(timeLeft, wholeTime)
   }
+  pauseBtn.onclick = (e) => { pauseTimer() }
+  document.body.onkeydown = (e) => {
+    if (e.keyCode === 32) {
+      e.preventDefault()
+      e.stopPropagation()
+      pauseTimer()
+    }
+  }
+  pauseTimer(true)
+}
 
-  pauseBtn.addEventListener('click', pauseTimer)
+start.onclick = () => {
+  const input = document.querySelector('input')
+  const totalMinutes = parseInt(input.value) || 20
+  totalSecondsLeft = 60 * totalMinutes
+  circleTimer.style.display = 'block'
+  input.value = totalMinutes
+  start.style.display = 'none'
+  document.querySelector('input').disabled = true
+  initTimer()
+}
+
+window.onload = () => {
+  const input = document.querySelector('input')
+  input.focus()
+  input.select()
+  input.onkeydown = (e) => {
+    if (e.key === 'Enter') {
+      start.onclick()
+    }
+  }
 }
