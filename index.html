@@ -4,10 +4,34 @@
     <meta name="viewport" content="width=device-width"/>
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
     <link rel="stylesheet" href="styles.css">
-    <title>Accountable Triage</title>
+    <title>random exercise generator</title>
   </head>
   <body>
-    hello world
+    <div>how many minutes do you want to work out? (rests included)</div>
+    <input id='minutes' value='20' />
+    <button id='start'>start!</button>
+    <div id='circleTimer'>
+      <h1>exercise</h1>
+			<div class="circle"> <svg width="300" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+				<g transform="translate(110,110)">
+					<circle r="100" class="e-c-base"/>
+					<g transform="rotate(-90)">
+						<circle r="100" class="e-c-progress"/>
+						<g id="e-pointer">
+							<circle cx="100" cy="0" r="8" class="e-c-pointer"/>
+						</g>
+					</g>
+				</g>
+				</svg> </div>
+			<div class="controlls">
+				<div class="display-remain-time">00:30</div>
+				<button class="play" id="pause"></button>
+			</div>
+      <div id='remaining'>time remaining:</div>
+    </div>
     <script src='index.js'></script>
+    <div id='chart'>
+      <img src='img/chart.jpg' alt='how to do each exercise' />
+    </div>
   </body>
 </html>
