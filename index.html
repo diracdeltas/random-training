@@ -7,9 +7,13 @@
     <title>random exercise generator</title>
   </head>
   <body>
-    <div>how many minutes do you want to work out? (rests included)</div>
-    <input id='minutes' value='20' />
-    <button id='start'>start!</button>
+    <div id='head'>
+      <div id='intro' class='center'>Enter total workout time (rests included):</div>
+      <div class='center'>
+        <input id='minutes' value='20' />
+        <button id='start'>Start!</button>
+      </div>
+    </div>
     <div id='circleTimer'>
       <h1>exercise</h1>
 			<div class="circle"> <svg width="300" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
@@ -32,6 +36,7 @@
         <span id='timeRemaining'></span>
       </div>
     </div>
+    <button id='restart'>Restart</button>
     <script src="https://w.soundcloud.com/player/api.js" type="text/javascript"></script>
     <script src='index.js'></script>
     <div id='soundcloud'>

@@ -1,4 +1,5 @@
 'use strict'
+/* global SC */
 
 let exerciseSeconds = [20, 20, 20, 20, 30, 30, 30, 30, 30, 60, 60, 90]
 
@@ -81,7 +82,7 @@ function trySoundcloudLoad () {
 
 function initSoundcloud () {
   const iframe = document.querySelector('iframe')
-  soundcloud.style.display = 'block'
+  document.querySelector('#soundcloud').style.display = 'block'
   const id = Math.ceil(Math.random() * 786759307)
   iframe.src = `https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/${id}&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true`
   widget = SC.Widget(iframe)
@@ -170,7 +171,8 @@ function initTimer () {
     if (remainderSeconds.length < 2) {
       remainderSeconds = '0' + remainderSeconds
     }
-    timeRemaining.innerText = `${totalMinutesLeft}:${remainderSeconds}`
+    document.querySelector('#timeRemaining').innerText =
+      `${totalMinutesLeft}:${remainderSeconds}`
     if (totalSecondsLeft > 0) {
       totalSecondsLeft = totalSecondsLeft - 1
     } else {
@@ -196,14 +198,21 @@ function initTimer () {
   pauseTimer(true)
 }
 
+const start = document.querySelector('#start')
+const restart = document.querySelector('#restart')
+let totalMinutes = 20
 start.onclick = () => {
   const input = document.querySelector('input')
-  const totalMinutes = parseInt(input.value) || 20
+  totalMinutes = parseInt(input.value) || totalMinutes
   totalSecondsLeft = 60 * totalMinutes
-  circleTimer.style.display = 'block'
-  input.value = totalMinutes
-  start.style.display = 'none'
-  document.querySelector('input').disabled = true
+  document.querySelector('#circleTimer').style.display = 'block'
+  document.querySelector('#head').style.display = 'none'
+  restart.style.display = 'block'
+  initTimer()
+}
+restart.onclick = () => {
+  totalSecondsLeft = 60 * totalMinutes
+  restart.style.display = 'block'
   initTimer()
 }
 

@@ -5,7 +5,9 @@ body {
 
 input {
   margin-top: 20px;
-  font-size: 18px;
+  font-size: 20px;
+  display: inline;
+  width: 60px;
 }
 
 img {
@@ -15,21 +17,18 @@ img {
   display: block;
 }
 
-#soundcloud {
-  margin-top: 100px;
-  display: none;
+#intro {
+  margin-top: 50px;
 }
 
-#start {
-  display: block;
-  margin-top: 20px;
-  margin-bottom: 15px;
-  font-size: 13px;
+#soundcloud {
+  margin-top: 30px;
+  display: none;
 }
 
 #circleTimer {
   text-align: center;
-  color: #263665;
+  color: #546fbd;
   display: none;
   position: relative;
   top: 30px;
@@ -37,24 +36,33 @@ img {
   margin: 0 auto;
 }
 
+#restart {
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  display: none;
+  color: #546fbd;
+}
+
 h1 {
   color: #924e96;
+  margin-top: 0;
 }
 
-button[data-setter] {
-  outline: none;
-  background: transparent;
-  border: none;
-  font-family: 'Roboto';
-  font-weight: 300;
-  font-size: 18px;
-  width: 25px;
-  height: 30px;
+button {
+  font-size: 20px;
   color: #75cc7b;
+  height: 30px;
   cursor: pointer;
+  display: inline;
+  margin: 10px;
 }
 
-button[data-setter]:hover { opacity: 0.5; }
+button:hover { opacity: 0.5; }
+
+.center {
+  text-align: center;
+}
 
 .setters {
   position: absolute;
