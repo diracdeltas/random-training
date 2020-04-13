@@ -63,7 +63,38 @@ function update (value, timePercent) {
   pointer.style.transform = `rotate(${360 * value / (timePercent)}deg)`
 }
 
+let widget
+function trySoundcloudLoad () {
+  if (!widget) { return }
+  const id = Math.ceil(Math.random() * 786759307)
+  const url = `https://api.soundcloud.com/tracks/${id}`
+  widget.load(url, {
+    show_artwork: true,
+    show_comments: true,
+    show_user: true,
+    auto_play: true
+  })
+  widget.bind(SC.Widget.Events.ERROR, () => {
+    trySoundcloudLoad(widget)
+  })
+}
+
+function initSoundcloud () {
+  const iframe = document.querySelector('iframe')
+  soundcloud.style.display = 'block'
+  const id = Math.ceil(Math.random() * 786759307)
+  iframe.src = `https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/${id}&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true`
+  widget = SC.Widget(iframe)
+  widget.bind(SC.Widget.Events.ERROR, () => {
+    trySoundcloudLoad()
+  })
+  widget.bind(SC.Widget.Events.FINISH, () => {
+    trySoundcloudLoad()
+  })
+}
+
 function initTimer () {
+  initSoundcloud()
   const pauseBtn = document.getElementById('pause')
   // circle start
   progressBar.style.strokeDasharray = length
@@ -123,11 +154,13 @@ function initTimer () {
       pauseBtn.classList.add('pause')
       timer()
       isPaused = false
+      if (widget) { widget.play() }
     } else {
       pauseBtn.classList.remove('pause')
       pauseBtn.classList.add('play')
       clearInterval(intervalTimer)
       isPaused = true
+      if (widget) { widget.pause() }
     }
   }
 
@@ -154,6 +187,7 @@ function initTimer () {
   pauseBtn.onclick = (e) => { pauseTimer() }
   document.body.onkeydown = (e) => {
     if (e.keyCode === 32) {
+      // spacebar was hit
       e.preventDefault()
       e.stopPropagation()
       pauseTimer()
