@@ -1,0 +1,27 @@
+body {
+  font-size: 20px;
+  padding: 20px;
+}
+
+li {
+  margin: 10px;
+}
+
+input {
+  width: 200px;
+  font-size: 18px;
+}
+
+button {
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 13px;
+}
+
+#results {
+  display: none;
+  background-color: lavender;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
