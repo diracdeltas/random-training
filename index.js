@@ -4,28 +4,46 @@
 let exerciseSeconds = [20, 20, 20, 20, 30, 30, 30, 30, 30, 60, 60, 90]
 
 const restSeconds = [5, 5, 5, 5, 10, 10, 10, 10, 10, 20, 20, 30, 60]
+const CX = '016260358267380303853:hhm1wdid5ti'
+const KEY = window.location.hostname === 'localhost'
+  ? 'AIzaSyBdMbfcLElXZVEhjIgHdfCoOaetzGjbMVY'
+  : 'AIzaSyAIuKK4Gwa081NEzODhO2kkvFlH-VKz_DA'
+
+const setBackground = (exercise) => {
+  const searchTerm = exercise === 'Rest' ? 'resting' : `${exercise.replace(/ /g, '+')}+exercise`
+  const url = `https://www.googleapis.com/customsearch/v1?key=${KEY}&cx=${CX}&q=${searchTerm}&searchType=image&fileType=jpg&alt=json`
+  window.fetch(url).then(async (response) => {
+    const json = await response.json()
+    pickRandomImage(json)
+  })
+}
+
+const pickRandomImage = (json) => {
+  const item = uniform(json.items)
+  const url = item.link
+  document.body.style.backgroundImage = `url("${url}")`
+}
 
 const exercises = [
   [
     'forward lunges',
     'side lunges',
     'high knees',
-    'jump knee tucks',
     'climbers',
     'squats',
     'jumping squats',
-    'bridges'
+    'glute bridges'
   ],
   [
     'sit-ups',
     'crunches',
     'flutter kicks',
+    'scissor kicks',
     'high plank',
     'elbow plank',
     'leg raises'
   ],
   [
-    'alt arm/leg plank',
     'superman',
     'push ups',
     'shoulder taps',
@@ -118,6 +136,7 @@ function initTimer () {
     wholeTime = uniform(exerciseSeconds)
     exerciseType = (exerciseType + 1) % 3
   }
+  setBackground(exercise)
   isRest = !isRest
 
   if (wholeTime > totalSecondsLeft) {

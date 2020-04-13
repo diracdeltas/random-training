@@ -46,7 +46,15 @@ img {
 
 h1 {
   color: #924e96;
+  -webkit-text-stroke: 1px white;
+  font-family: sans-serif;
+  font-style: italic;
   margin-top: 0;
+}
+
+#remaining {
+  -webkit-text-stroke: 0px;
+  background-color: white;
 }
 
 button {
@@ -78,6 +86,9 @@ button:hover { opacity: 0.5; }
 .seconds-set { float: right; }
 
 .controlls {
+  -webkit-text-stroke: 1px white;
+  font-family: sans-serif;
+  font-weight: bolder;
   position: absolute;
   left: 75px;
   top: 160px;
