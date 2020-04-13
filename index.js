@@ -144,7 +144,11 @@ function initTimer () {
     wholeTime = uniform(exerciseSeconds)
     exerciseType = (exerciseType + 1) % 3
   }
-  setBackground(exercise)
+  try {
+    setBackground(exercise)
+  } catch (e) {
+    console.log('could not set background', e)
+  }
   isRest = !isRest
 
   if (wholeTime > totalSecondsLeft) {
