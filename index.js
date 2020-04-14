@@ -37,16 +37,18 @@ const exercises = [
     'forward lunges',
     'side lunges',
     'high knees',
-    'climbers',
     'squats',
     'jump squats',
-    'glute bridges'
+    'glute bridges',
+    'butt kicks'
   ],
   [
-    'sit-ups',
+    'climbers',
+    'jumping jacks',
     'crunches',
     'flutter kicks',
     'scissor kicks',
+    'russian twist',
     'leg raises'
   ],
   [
@@ -177,7 +179,7 @@ function initTimer () {
       if (timeLeft < 0 && totalSecondsLeft > 0) {
         initTimer()
       } else {
-        if (timeLeft === -1) {
+        if (timeLeft < 0) {
           sayCountdown('You are now done. How about a snack?')
           clearInterval(intervalTimer)
           return
@@ -254,14 +256,14 @@ let totalMinutes = 20
 start.onclick = () => {
   const input = document.querySelector('input')
   totalMinutes = parseFloat(input.value) || totalMinutes
-  totalSecondsLeft = 60 * totalMinutes
+  totalSecondsLeft = Math.ceil(60 * totalMinutes)
   document.querySelector('#circleTimer').style.display = 'block'
   document.querySelector('#head').style.display = 'none'
   restart.style.display = 'block'
   initTimer()
 }
 restart.onclick = () => {
-  totalSecondsLeft = 60 * totalMinutes
+  totalSecondsLeft = Math.ceil(60 * totalMinutes)
   restart.style.display = 'block'
   exerciseType = uniform([0, 1, 2])
   initTimer()

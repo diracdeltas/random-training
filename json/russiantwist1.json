@@ -1,0 +1,264 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - russian twist exercise",
+        "totalResults": "295000000",
+        "searchTerms": "russian twist exercise",
+        "count": 10,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - russian twist exercise",
+        "totalResults": "295000000",
+        "searchTerms": "russian twist exercise",
+        "count": 10,
+        "startIndex": 10,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - russian twist exercise",
+        "totalResults": "295000000",
+        "searchTerms": "russian twist exercise",
+        "count": 10,
+        "startIndex": 20,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 1.068701,
+    "formattedSearchTime": "1.07",
+    "totalResults": "295000000",
+    "formattedTotalResults": "295,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "How to do Russian Twist (Dumbbell) | Joanna Soh - YouTube",
+      "htmlTitle": "How to do \u003cb\u003eRussian Twist\u003c/b\u003e (Dumbbell) | Joanna Soh - YouTube",
+      "link": "https://i.ytimg.com/vi/itL2xqQYlgk/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "How to do Russian Twist (Dumbbell) | Joanna Soh - YouTube",
+      "htmlSnippet": "How to do \u003cb\u003eRussian Twist\u003c/b\u003e (Dumbbell) | Joanna Soh - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=itL2xqQYlgk",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 58060,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe6yuHm8QSUo3WV-YDqtIBXdQ8dXOX5KJCXXk5Gu1qatCJhyyMK-u3xuao&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Russian+twist Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eRussian\u003c/b\u003e+\u003cb\u003etwist\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-vector/woman-doing-russian-twist-exercise-260nw-1316827436.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Russian+twist Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eRussian\u003c/b\u003e+\u003cb\u003etwist\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/russian%2Btwist",
+        "height": 280,
+        "width": 387,
+        "byteSize": 10540,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp6DfLMCJD7m_PYzlu2DzX4zlPfzAI8fbunJ7G1pxTgKEJOX8gBoVilw&s",
+        "thumbnailHeight": 89,
+        "thumbnailWidth": 123
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "russian twist exercise - Yahoo Image Search Results | Abs workout ...",
+      "htmlTitle": "\u003cb\u003erussian twist exercise\u003c/b\u003e - Yahoo Image Search Results | Abs \u003cb\u003eworkout\u003c/b\u003e ...",
+      "link": "https://i.pinimg.com/originals/dc/af/70/dcaf7082a1da716fcdd89ec6799fd72d.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "russian twist exercise - Yahoo Image Search Results | Abs workout ...",
+      "htmlSnippet": "\u003cb\u003erussian twist exercise\u003c/b\u003e - Yahoo Image Search Results | Abs \u003cb\u003eworkout\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/551972498058217673/",
+        "height": 480,
+        "width": 476,
+        "byteSize": 30151,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc2XcFd85YtREAEmswKyYWrE7l_qHQNl1SvL6dmAGUkuIK7U9-Ofzn61BzA&s",
+        "thumbnailHeight": 129,
+        "thumbnailWidth": 128
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Russian Twist Variations | POPSUGAR Fitness",
+      "htmlTitle": "\u003cb\u003eRussian Twist\u003c/b\u003e Variations | POPSUGAR Fitness",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/iHRY_G5qQ0WF5L0zEdUfG7A7WWo/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/08/24/876/n/1922729/9550fdc8_Seated-Russian-Twist/i/Beginning-Seated-Russian-Twist.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Russian Twist Variations | POPSUGAR Fitness",
+      "htmlSnippet": "\u003cb\u003eRussian Twist\u003c/b\u003e Variations | POPSUGAR Fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/Russian-Twist-Variations-43896958",
+        "height": 1024,
+        "width": 1024,
+        "byteSize": 52258,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAleJqfqvED9gDEB3PpoDOocEuUOKW2OOPpJWAUk3pXpimCKThFQdkzEbr&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Russian Twist | Love handle workout, Strength workout, Russian twist",
+      "htmlTitle": "\u003cb\u003eRussian Twist\u003c/b\u003e | Love handle \u003cb\u003eworkout\u003c/b\u003e, Strength \u003cb\u003eworkout\u003c/b\u003e, \u003cb\u003eRussian twist\u003c/b\u003e",
+      "link": "https://i.pinimg.com/originals/a5/4c/c8/a54cc821b88f47e6cf14787dffde963e.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Russian Twist | Love handle workout, Strength workout, Russian twist",
+      "htmlSnippet": "\u003cb\u003eRussian Twist\u003c/b\u003e | Love handle \u003cb\u003eworkout\u003c/b\u003e, Strength \u003cb\u003eworkout\u003c/b\u003e, \u003cb\u003eRussian twist\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/515802963558846917/",
+        "height": 600,
+        "width": 333,
+        "byteSize": 22570,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfsbEzuIjLSAQTnpH6C2nc1LKcK8JLba_38uF3fT016EzQVfDm5NLNFbP&s",
+        "thumbnailHeight": 135,
+        "thumbnailWidth": 75
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Woman Doing Russian Twist Exercise 2 Stock Vector (Royalty Free ...",
+      "htmlTitle": "Woman Doing \u003cb\u003eRussian Twist Exercise\u003c/b\u003e 2 Stock Vector (Royalty Free ...",
+      "link": "https://image.shutterstock.com/image-vector/woman-doing-russian-twist-exercise-600w-1312978856.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Woman Doing Russian Twist Exercise 2 Stock Vector (Royalty Free ...",
+      "htmlSnippet": "Woman Doing \u003cb\u003eRussian Twist Exercise\u003c/b\u003e 2 Stock Vector (Royalty Free ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-vector/woman-doing-russian-twist-exercise-2-1312978856",
+        "height": 423,
+        "width": 600,
+        "byteSize": 27150,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBeg4ZtwtWEjrHaO1om8F2isxqUiOkbsPUz7WLfDvRrpdy3pSaNOnWovk&s",
+        "thumbnailHeight": 95,
+        "thumbnailWidth": 135
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Dumbbell Russian Twist - Beginner - YouTube",
+      "htmlTitle": "Dumbbell \u003cb\u003eRussian Twist\u003c/b\u003e - Beginner - YouTube",
+      "link": "https://i.ytimg.com/vi/FGRersnu9AU/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Dumbbell Russian Twist - Beginner - YouTube",
+      "htmlSnippet": "Dumbbell \u003cb\u003eRussian Twist\u003c/b\u003e - Beginner - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=FGRersnu9AU",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 85615,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZdeh5mrphO0MqtJQEG9Mhme5VJcL1cYTEJ1DZDOUTWwZboXwlMkOAYMV&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Weighted Russian Twists “Hold the a dumbbell (start with five to ...",
+      "htmlTitle": "Weighted \u003cb\u003eRussian Twists\u003c/b\u003e “Hold the a dumbbell (start with five to ...",
+      "link": "https://i.pinimg.com/originals/20/de/e5/20dee5d0c3e6fc7f893f5bc50878298b.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Weighted Russian Twists “Hold the a dumbbell (start with five to ...",
+      "htmlSnippet": "Weighted \u003cb\u003eRussian Twists\u003c/b\u003e “Hold the a dumbbell (start with five to ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/388928117817057159/",
+        "height": 721,
+        "width": 500,
+        "byteSize": 31342,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6mlwxM8zc7jG3sRZ0ly07AVBq10Wxdpx0SEGj51J5jnwtUTDRDqNk3xc&s",
+        "thumbnailHeight": 140,
+        "thumbnailWidth": 97
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Russian Twist - YouTube",
+      "htmlTitle": "\u003cb\u003eRussian Twist\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/JyUqwkVpsi8/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Russian Twist - YouTube",
+      "htmlSnippet": "\u003cb\u003eRussian Twist\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=JyUqwkVpsi8",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 15737,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjigzm8mr0XlifbnlFvDrrrco14L94ElsGieVWI4RNpahSqza5W3b4v5ov&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Russian Twist Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eRussian Twist\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-photo/russian-twist-young-man-doing-260nw-570574084.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Russian Twist Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eRussian Twist\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/russian+twist",
+        "height": 280,
+        "width": 693,
+        "byteSize": 21888,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIJzm7_LLQ9KE_elRKGt1cS4aFjx3Q9mI654PUkD4jLuyHzD3y4rgyluRm&s",
+        "thumbnailHeight": 56,
+        "thumbnailWidth": 139
+      }
+    }
+  ]
+}
