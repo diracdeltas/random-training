@@ -73,6 +73,10 @@ a:visited {
   -webkit-text-stroke: 0px;
   background-color: white;
   margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  font-weight: bold;
 }
 
 button {
@@ -113,7 +117,7 @@ button:hover { opacity: 0.5; }
 }
 
 .display-remain-time {
-  font-family: Roboto;
+  font-family: serif;
   font-weight: 700;
   font-size: 65px;
   color: #75cc7b;
@@ -122,8 +126,6 @@ button:hover { opacity: 0.5; }
 
 #pause {
   outline: none;
-  background: transparent;
-  border: none;
   margin-top: 10px;
   width: 50px;
   height: 50px;
@@ -183,4 +185,14 @@ iframe {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+footer {
+  position: fixed;
+  background-color: white;
+  padding: 3px;
+  right: 7px;
+  bottom: 7px;
+  text-align: center;
+  font-size: 15px;
 }
