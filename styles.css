@@ -162,7 +162,7 @@ button:hover { opacity: 0.5; }
 #e-pointer { transition: transform 0.7s; }
 
 iframe {
-  margin-top: 40px;
+  margin-top: 30px;
   display: block;
   margin-left: auto;
   margin-right: auto;
