@@ -75,6 +75,7 @@ function done () {
   document.querySelector('.circle').style.display = 'none'
   document.querySelector('.controlls').style.display = 'none'
   document.querySelector('#remaining').style.display = 'none'
+  restart.style.display = 'none'
 }
 let intervalTimer
 let timeLeft
