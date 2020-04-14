@@ -93,22 +93,41 @@ function update (value, timePercent) {
 }
 
 let widget
+let tries = 0
+const playlists = [
+  {
+    url: 'https://api.soundcloud.com/playlists/730118454',
+    length: 50
+  },
+  {
+    url: 'https://api.soundcloud.com/playlists/728631420',
+    length: 120
+  }
+]
+
 function trySoundcloudLoad () {
   if (!widget) { return }
-  const id = Math.ceil(Math.random() * 786759307)
-  const url = `https://api.soundcloud.com/tracks/${id}`
+  let url
+  let startTrack = 0
+  if (tries > 3) {
+    // just load a track that definitely works from a playlist
+    const playlist = uniform(playlists)
+    url = playlist.url
+    startTrack = Math.floor(Math.random() * playlist.length)
+  } else {
+    tries = tries + 1
+    const id = Math.ceil(Math.random() * 786759307)
+    url = `https://api.soundcloud.com/tracks/${id}`
+  }
   widget.load(url, {
+    start_track: startTrack,
     show_artwork: true,
-    show_comments: true,
-    show_user: true,
     auto_play: true
-  })
-  widget.bind(SC.Widget.Events.ERROR, () => {
-    trySoundcloudLoad(widget)
   })
 }
 
 function initSoundcloud () {
+  tries = 0
   const iframe = document.querySelector('iframe')
   document.querySelector('#soundcloud').style.display = 'block'
   const id = Math.ceil(Math.random() * 786759307)
@@ -118,6 +137,7 @@ function initSoundcloud () {
     trySoundcloudLoad()
   })
   widget.bind(SC.Widget.Events.FINISH, () => {
+    tries = 0
     trySoundcloudLoad()
   })
 }
@@ -186,13 +206,17 @@ function initTimer () {
       pauseBtn.classList.add('pause')
       timer()
       isPaused = false
-      if (widget) { widget.play() }
+      try {
+        widget.play()
+      } catch (e) {}
     } else {
       pauseBtn.classList.remove('pause')
       pauseBtn.classList.add('play')
       clearInterval(intervalTimer)
       isPaused = true
-      if (widget) { widget.pause() }
+      try {
+        widget.pause()
+      } catch (e) {}
     }
   }
 
