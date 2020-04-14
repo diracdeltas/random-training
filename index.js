@@ -1,9 +1,9 @@
 'use strict'
 /* global SC */
 
-let exerciseSeconds = [20, 20, 20, 20, 30, 30, 30, 30, 30, 60, 60, 90]
+let exerciseSeconds = [20, 20, 20, 20, 30, 30, 30, 30, 30, 60, 60, 60, 90, 90]
 
-const restSeconds = [5, 5, 5, 5, 10, 10, 10, 10, 10, 20, 20, 30, 60]
+const restSeconds = [10, 10, 10, 10, 20, 20, 20, 30]
 
 const synth = window.speechSynthesis
 
@@ -56,6 +56,9 @@ const exercises = [
     'push ups',
     'shoulder taps',
     'plank rotations'
+  ],
+  [
+    'rest'
   ]
 ]
 
@@ -65,7 +68,6 @@ function uniform (array) {
 }
 
 let totalSecondsLeft = 0
-let isRest = false
 let exerciseType = uniform([0, 1, 2])
 
 function done () {
@@ -136,21 +138,15 @@ function initTimer () {
     return
   }
 
-  if (isRest) {
-    exercise = 'Rest'
-    wholeTime = uniform(restSeconds)
-  } else {
-    exercise = uniform(exercises[exerciseType])
-    wholeTime = uniform(exerciseSeconds)
-    exerciseType = (exerciseType + 1) % 3
-  }
+  exercise = uniform(exercises[exerciseType])
+  wholeTime = uniform(exercise === 'rest' ? restSeconds : exerciseSeconds)
+  exerciseType = (exerciseType + 1) % 4
   sayExercise(wholeTime, exercise)
   try {
     setBackground(exercise)
   } catch (e) {
     console.log('could not set background', e)
   }
-  isRest = !isRest
 
   if (wholeTime > totalSecondsLeft) {
     wholeTime = totalSecondsLeft
@@ -248,6 +244,7 @@ start.onclick = () => {
 restart.onclick = () => {
   totalSecondsLeft = 60 * totalMinutes
   restart.style.display = 'block'
+  exerciseType = uniform([0, 1, 2])
   initTimer()
 }
 
