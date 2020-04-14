@@ -47,15 +47,15 @@ const exercises = [
     'crunches',
     'flutter kicks',
     'scissor kicks',
-    'high plank',
-    'elbow plank',
     'leg raises'
   ],
   [
     'superman',
     'push ups',
     'shoulder taps',
-    'plank rotations'
+    'plank rotations',
+    'high plank',
+    'elbow plank'
   ],
   [
     'Rest'
