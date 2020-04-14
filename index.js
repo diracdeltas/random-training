@@ -93,36 +93,16 @@ function update (value, timePercent) {
 }
 
 let widget
-let tries = 0
-const playlists = [
-  {
-    url: 'https://api.soundcloud.com/playlists/730118454',
-    length: 50
-  },
-  {
-    url: 'https://api.soundcloud.com/playlists/728631420',
-    length: 120
-  }
-]
 
 function trySoundcloudLoad (iframe) {
   let url
   let startTrack = 0
-  if (tries > 3) {
-    // just load a track that definitely works from a playlist
-    const playlist = uniform(playlists)
-    url = playlist.url
-    startTrack = Math.floor(Math.random() * playlist.length)
-  } else {
-    tries = tries + 1
-    const id = Math.ceil(Math.random() * 786759307)
-    url = `https://api.soundcloud.com/tracks/${id}`
-  }
+  const id = Math.ceil(Math.random() * 786759307)
+  url = `https://api.soundcloud.com/tracks/${id}`
   iframe.src = `https://w.soundcloud.com/player/?url=${url}&color=%23ff5500&auto_play=true&show_reposts=false&show_teaser=true&visual=true&start_track=${startTrack}`
 }
 
 function initSoundcloud () {
-  tries = 0
   const iframe = document.querySelector('iframe')
   document.querySelector('#soundcloud').style.display = 'block'
   trySoundcloudLoad(iframe)
@@ -131,7 +111,6 @@ function initSoundcloud () {
     trySoundcloudLoad(iframe)
   })
   widget.bind(SC.Widget.Events.FINISH, () => {
-    tries = 0
     trySoundcloudLoad(iframe)
   })
 }
