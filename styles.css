@@ -23,8 +23,12 @@ img {
 }
 
 #soundcloud {
+  opacity: 0.75;
   margin-top: 30px;
   display: none;
+}
+#soundcloud:hover {
+  opacity: 1;
 }
 
 #circleTimer {
