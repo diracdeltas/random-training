@@ -105,8 +105,7 @@ const playlists = [
   }
 ]
 
-function trySoundcloudLoad () {
-  if (!widget) { return }
+function trySoundcloudLoad (iframe) {
   let url
   let startTrack = 0
   if (tries > 3) {
@@ -119,26 +118,21 @@ function trySoundcloudLoad () {
     const id = Math.ceil(Math.random() * 786759307)
     url = `https://api.soundcloud.com/tracks/${id}`
   }
-  widget.load(url, {
-    start_track: startTrack,
-    show_artwork: true,
-    auto_play: true
-  })
+  iframe.src = `https://w.soundcloud.com/player/?url=${url}&color=%23ff5500&auto_play=true&show_reposts=false&show_teaser=true&visual=true&start_track=${startTrack}`
 }
 
 function initSoundcloud () {
   tries = 0
   const iframe = document.querySelector('iframe')
   document.querySelector('#soundcloud').style.display = 'block'
-  const id = Math.ceil(Math.random() * 786759307)
-  iframe.src = `https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/${id}&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true`
+  trySoundcloudLoad(iframe)
   widget = SC.Widget(iframe)
   widget.bind(SC.Widget.Events.ERROR, () => {
-    trySoundcloudLoad()
+    trySoundcloudLoad(iframe)
   })
   widget.bind(SC.Widget.Events.FINISH, () => {
     tries = 0
-    trySoundcloudLoad()
+    trySoundcloudLoad(iframe)
   })
 }
 
