@@ -76,7 +76,7 @@ function uniform (array) {
 }
 
 let totalSecondsLeft = 0
-let exerciseType = uniform([0, 1, 2])
+let exerciseType = 0
 
 function done () {
   const h1 = document.querySelector('h1')
@@ -264,8 +264,8 @@ start.onclick = () => {
 }
 restart.onclick = () => {
   totalSecondsLeft = Math.ceil(60 * totalMinutes)
+  exerciseType = 0
   restart.style.display = 'block'
-  exerciseType = uniform([0, 1, 2])
   initTimer()
 }
 
