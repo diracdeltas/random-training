@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - scissor kicks exercise",
+        "totalResults": "106000000",
+        "searchTerms": "scissor kicks exercise",
+        "count": 10,
+        "startIndex": 40,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - scissor kicks exercise",
+        "totalResults": "106000000",
+        "searchTerms": "scissor kicks exercise",
+        "count": 10,
+        "startIndex": 50,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - scissor kicks exercise",
+        "totalResults": "106000000",
+        "searchTerms": "scissor kicks exercise",
+        "count": 10,
+        "startIndex": 60,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.333584,
+    "formattedSearchTime": "0.33",
+    "totalResults": "106000000",
+    "formattedTotalResults": "106,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Abdominal flutter kicks are a common exercise you see in the ...",
+      "htmlTitle": "Abdominal \u003cb\u003eflutter kicks\u003c/b\u003e are a common \u003cb\u003eexercise\u003c/b\u003e you see in the ...",
+      "link": "https://i.pinimg.com/originals/5d/6d/f6/5d6df64628d19a70151d71f5c84c54dc.jpg",
+      "displayLink": "cz.pinterest.com",
+      "snippet": "Abdominal flutter kicks are a common exercise you see in the ...",
+      "htmlSnippet": "Abdominal \u003cb\u003eflutter kicks\u003c/b\u003e are a common \u003cb\u003eexercise\u003c/b\u003e you see in the ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://cz.pinterest.com/pin/461478293050482381/",
+        "height": 336,
+        "width": 702,
+        "byteSize": 56165,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJJ2a1Kl30ErHKSWGqLCz5fFVdmx-ZRStnp6J4tcP1Xf8-lINkAFCXLoTy&s",
+        "thumbnailHeight": 67,
+        "thumbnailWidth": 140
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Scissor Kicks | This Trainer Says These 10 Easy At-Home Exercises ...",
+      "htmlTitle": "\u003cb\u003eScissor Kicks\u003c/b\u003e | This Trainer Says These 10 Easy At-Home \u003cb\u003eExercises\u003c/b\u003e ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/VfMXCvqGuHVJA9u3DLZaqI_cNoU/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2018/07/09/726/n/40863086/bbf7336f95dc43d7_Scissor-Abs/i/Scissor-Kicks.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Scissor Kicks | This Trainer Says These 10 Easy At-Home Exercises ...",
+      "htmlSnippet": "\u003cb\u003eScissor Kicks\u003c/b\u003e | This Trainer Says These 10 Easy At-Home \u003cb\u003eExercises\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/45021096/image/45021113/Scissor-Kicks",
+        "height": 630,
+        "width": 1200,
+        "byteSize": 29631,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66rFiAZdHk_yb26QzVecYQGEU09lrr5zWO_qI-LLgpBFWbMhoa0TxIOX0&s",
+        "thumbnailHeight": 79,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pin by Kylie Seesholtz on Fitness | Scissor kicks, Bikini body ...",
+      "htmlTitle": "Pin by Kylie Seesholtz on Fitness | \u003cb\u003eScissor kicks\u003c/b\u003e, Bikini body ...",
+      "link": "https://i.pinimg.com/originals/e4/ac/58/e4ac5838629521ccba245b6df2c0fe91.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Pin by Kylie Seesholtz on Fitness | Scissor kicks, Bikini body ...",
+      "htmlSnippet": "Pin by Kylie Seesholtz on Fitness | \u003cb\u003eScissor kicks\u003c/b\u003e, Bikini body ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/282108364139572522/",
+        "height": 945,
+        "width": 750,
+        "byteSize": 52757,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjiHJr-EqKs-z2ijSY1KoDPOtmf2ZRT9RlKZdKVJ2KQ4mOo1iOUMl8nV8j&s",
+        "thumbnailHeight": 148,
+        "thumbnailWidth": 117
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Do Scissors | Ab Workout - YouTube",
+      "htmlTitle": "How to Do \u003cb\u003eScissors\u003c/b\u003e | Ab \u003cb\u003eWorkout\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/WoNCIBVLbgY/hqdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "How to Do Scissors | Ab Workout - YouTube",
+      "htmlSnippet": "How to Do \u003cb\u003eScissors\u003c/b\u003e | Ab \u003cb\u003eWorkout\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=WoNCIBVLbgY",
+        "height": 360,
+        "width": 480,
+        "byteSize": 13229,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqMUmfNdkFJ9wMLxbrz8GQO2snbxUNNjYHv3Qg3Vs8HSbVCzsJIz-GpMVS&s",
+        "thumbnailHeight": 97,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "11 Best Scissor kicks images | Scissors, Embroidery scissors ...",
+      "htmlTitle": "11 Best \u003cb\u003eScissor kicks\u003c/b\u003e images | \u003cb\u003eScissors\u003c/b\u003e, Embroidery \u003cb\u003escissors\u003c/b\u003e ...",
+      "link": "https://i.pinimg.com/236x/72/19/30/721930696a7de38024f24911e231346a--scissor-kicks-calories-burned.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "11 Best Scissor kicks images | Scissors, Embroidery scissors ...",
+      "htmlSnippet": "11 Best \u003cb\u003eScissor kicks\u003c/b\u003e images | \u003cb\u003eScissors\u003c/b\u003e, Embroidery \u003cb\u003escissors\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/sjaym/scissor-kicks/",
+        "height": 157,
+        "width": 236,
+        "byteSize": 3885,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREbjgxyumHWox6QQrSw9mACCCHIVC4OPdc0rZADMxCxGOx-RVafcZ48ws&s",
+        "thumbnailHeight": 73,
+        "thumbnailWidth": 109
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Adrian James 6 Pack Abs Workout - Flutter Kicks - YouTube",
+      "htmlTitle": "Adrian James 6 Pack Abs \u003cb\u003eWorkout\u003c/b\u003e - \u003cb\u003eFlutter Kicks\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/_EzCB25HG5c/hqdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Adrian James 6 Pack Abs Workout - Flutter Kicks - YouTube",
+      "htmlSnippet": "Adrian James 6 Pack Abs \u003cb\u003eWorkout\u003c/b\u003e - \u003cb\u003eFlutter Kicks\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=_EzCB25HG5c",
+        "height": 360,
+        "width": 480,
+        "byteSize": 18010,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ-2BIxMXGWPvUlv4vXMl3iYO0EN-YFGsef13K_4_9I6mymA2qicEJpQEB&s",
+        "thumbnailHeight": 97,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Scissor Kicks - Great ab workout | Abs workout, Abs workout ...",
+      "htmlTitle": "\u003cb\u003eScissor Kicks\u003c/b\u003e - Great ab \u003cb\u003eworkout\u003c/b\u003e | Abs \u003cb\u003eworkout\u003c/b\u003e, Abs \u003cb\u003eworkout\u003c/b\u003e ...",
+      "link": "https://i.pinimg.com/originals/26/3f/42/263f4292b57980d98d32d2adcd0f0f15.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Scissor Kicks - Great ab workout | Abs workout, Abs workout ...",
+      "htmlSnippet": "\u003cb\u003eScissor Kicks\u003c/b\u003e - Great ab \u003cb\u003eworkout\u003c/b\u003e | Abs \u003cb\u003eworkout\u003c/b\u003e, Abs \u003cb\u003eworkout\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/7529524349501875/",
+        "height": 720,
+        "width": 622,
+        "byteSize": 48245,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjq8czql_gT9wcSoT4HikVuixpLil4HMh8hb5bKroC-xvvsUO8yAWNMVbr&s",
+        "thumbnailHeight": 140,
+        "thumbnailWidth": 121
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Weighted Scissor Kicks - YouTube",
+      "htmlTitle": "Weighted \u003cb\u003eScissor Kicks\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/qnkyqjdPxy8/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Weighted Scissor Kicks - YouTube",
+      "htmlSnippet": "Weighted \u003cb\u003eScissor Kicks\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=qnkyqjdPxy8",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 96118,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFSxEM-6Xy4K0X1rES50Q1hFHc6XW2s6WM_a0S3VpLHcng5RxUk3IGvR1z&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Scissor Kicks | Abs workout, Exercise, Transverse abdominal exercises",
+      "htmlTitle": "\u003cb\u003eScissor Kicks\u003c/b\u003e | Abs \u003cb\u003eworkout\u003c/b\u003e, \u003cb\u003eExercise\u003c/b\u003e, Transverse abdominal \u003cb\u003eexercises\u003c/b\u003e",
+      "link": "https://i.pinimg.com/originals/4e/27/0a/4e270ab4472dbcb59a05cb87bb143dac.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Scissor Kicks | Abs workout, Exercise, Transverse abdominal exercises",
+      "htmlSnippet": "\u003cb\u003eScissor Kicks\u003c/b\u003e | Abs \u003cb\u003eworkout\u003c/b\u003e, \u003cb\u003eExercise\u003c/b\u003e, Transverse abdominal \u003cb\u003eexercises\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/425801339759046416/",
+        "height": 287,
+        "width": 300,
+        "byteSize": 13197,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXf3GMvZUBVp438TTY36LMBKRdivLbyOSuLGMTgShUzKa6Mv1kxKgF0w&s",
+        "thumbnailHeight": 111,
+        "thumbnailWidth": 116
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Hardest Abs Moves | Women's Health",
+      "htmlTitle": "Hardest Abs Moves | Women&#39;s Health",
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/766/these-are-the-hardest-abs-moves-youll-ever-do-ss-flutter-kicks-1508878279.jpg?resize=480:*",
+      "displayLink": "www.womenshealthmag.com",
+      "snippet": "Hardest Abs Moves | Women's Health",
+      "htmlSnippet": "Hardest Abs Moves | Women&#39;s Health",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.womenshealthmag.com/fitness/a19974191/hardest-ab-moves/",
+        "height": 305,
+        "width": 480,
+        "byteSize": 13753,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZ-Gk3GwDRLvROzcRqXbB28GRuuVq5BZfQAf38dVr7yGX-QE_9WpFbfax&s",
+        "thumbnailHeight": 82,
+        "thumbnailWidth": 129
+      }
+    }
+  ]
+}

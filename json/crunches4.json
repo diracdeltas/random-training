@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - crunches exercise",
+        "totalResults": "404000000",
+        "searchTerms": "crunches exercise",
+        "count": 10,
+        "startIndex": 30,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - crunches exercise",
+        "totalResults": "404000000",
+        "searchTerms": "crunches exercise",
+        "count": 10,
+        "startIndex": 40,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - crunches exercise",
+        "totalResults": "404000000",
+        "searchTerms": "crunches exercise",
+        "count": 10,
+        "startIndex": 50,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.282195,
+    "formattedSearchTime": "0.28",
+    "totalResults": "404000000",
+    "formattedTotalResults": "404,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Tone Your Abs Without Crunches | POPSUGAR Fitness",
+      "htmlTitle": "Tone Your Abs Without \u003cb\u003eCrunches\u003c/b\u003e | POPSUGAR Fitness",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/OoM056Kg6uKO_eOh-9Lf0mSSMBU/fit-in/1024x1024/filters:strip_icc-!!-/2018/09/14/737/n/1922729/68d81cd8fad3229d_PS18_09_21_NB_Pinterest_Teaser_Fitness_Tone-Abs-01/i/Tone-Your-Abs-Without-Crunches.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Tone Your Abs Without Crunches | POPSUGAR Fitness",
+      "htmlSnippet": "Tone Your Abs Without \u003cb\u003eCrunches\u003c/b\u003e | POPSUGAR Fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/Tone-Your-Abs-Without-Crunches-7859508",
+        "height": 1024,
+        "width": 683,
+        "byteSize": 37771,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHnpm7nUtHkoeSkx0MgqrvwhsPXzRpy59-ZiFglYAgBPHWriE-NxwZJQY&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 100
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "4 Ways to Do Crunches - wikiHow",
+      "htmlTitle": "4 Ways to Do \u003cb\u003eCrunches\u003c/b\u003e - wikiHow",
+      "link": "https://www.wikihow.com/images/thumb/9/9d/Do-Crunches-Step-9-preview-Version-2.jpg/550px-nowatermark-Do-Crunches-Step-9-preview-Version-2.jpg",
+      "displayLink": "www.wikihow.com",
+      "snippet": "4 Ways to Do Crunches - wikiHow",
+      "htmlSnippet": "4 Ways to Do \u003cb\u003eCrunches\u003c/b\u003e - wikiHow",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.wikihow.com/Do-Crunches",
+        "height": 309,
+        "width": 550,
+        "byteSize": 27258,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkJCL8W_sXkP6g32hWhI_OweryI9wlWahVjQNtTz_oEdMmLjPYU6E8q6aO&s",
+        "thumbnailHeight": 75,
+        "thumbnailWidth": 133
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Woman Doing Crunches In The Gym. Belly Burn Workout. Girl Make ...",
+      "htmlTitle": "Woman Doing \u003cb\u003eCrunches\u003c/b\u003e In The Gym. Belly Burn \u003cb\u003eWorkout\u003c/b\u003e. Girl Make ...",
+      "link": "https://previews.123rf.com/images/artinspiring/artinspiring1811/artinspiring181100512/127688415-woman-doing-crunches-in-the-gym-belly-burn-workout-girl-make-exercise-abs-workout-healthy-and-active.jpg",
+      "displayLink": "www.123rf.com",
+      "snippet": "Woman Doing Crunches In The Gym. Belly Burn Workout. Girl Make ...",
+      "htmlSnippet": "Woman Doing \u003cb\u003eCrunches\u003c/b\u003e In The Gym. Belly Burn \u003cb\u003eWorkout\u003c/b\u003e. Girl Make ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.123rf.com/photo_127688415_stock-vector-woman-doing-crunches-in-the-gym-belly-burn-workout-girl-make-exercise-abs-workout-healthy-and-active.html",
+        "height": 1300,
+        "width": 1300,
+        "byteSize": 68050,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8YtyTrG3J8RTNdCBT-egL0pR8N7sKJUYIkl1MkuvmtuYFhT-iZ4Q-ckk&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How To Do Bicycle Crunches For Great Abs-Sculpting Benefits",
+      "htmlTitle": "How To Do Bicycle \u003cb\u003eCrunches\u003c/b\u003e For Great Abs-Sculpting Benefits",
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bicycle-crunch-1548880579.jpg?crop=0.986xw:0.975xh;0.0138xw,0.0248xh&resize=480:*",
+      "displayLink": "www.womenshealthmag.com",
+      "snippet": "How To Do Bicycle Crunches For Great Abs-Sculpting Benefits",
+      "htmlSnippet": "How To Do Bicycle \u003cb\u003eCrunches\u003c/b\u003e For Great Abs-Sculpting Benefits",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.womenshealthmag.com/fitness/a26090261/bicycle-crunches/",
+        "height": 264,
+        "width": 480,
+        "byteSize": 12892,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAA711MoaZ2Q5dkZsfZ3_B2e1lz735Rg2xzpILptsBby61yJ9GN9tVxsgY&s",
+        "thumbnailHeight": 71,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Do Bicycle Crunches | POPSUGAR Fitness",
+      "htmlTitle": "How to Do Bicycle \u003cb\u003eCrunches\u003c/b\u003e | POPSUGAR Fitness",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/PS7px-zLs6TeYKGt6-r-c6tNHig/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/01/05/028/n/1922398/9f869e895152330b_Bicycle1.JPG",
+      "displayLink": "www.popsugar.com",
+      "snippet": "How to Do Bicycle Crunches | POPSUGAR Fitness",
+      "htmlSnippet": "How to Do Bicycle \u003cb\u003eCrunches\u003c/b\u003e | POPSUGAR Fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/How-Do-Bicycle-Crunches-958400",
+        "height": 1365,
+        "width": 2048,
+        "byteSize": 70648,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyM48I-Sh70H7RjIPMJnKFBlgmM8WBb6WrIFo3D2Yw8KzZIPJ7_PoudZc&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Do Crunches - YouTube",
+      "htmlTitle": "How to Do \u003cb\u003eCrunches\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/Xyd_fa5zoEU/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "How to Do Crunches - YouTube",
+      "htmlSnippet": "How to Do \u003cb\u003eCrunches\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=Xyd_fa5zoEU",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 49694,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL1sYlcok1HYpIiYaq-s6cet3_Ok_1wjyhRQ0UuxdlOWkezr4ebsJB2Ldw&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Do a Bicycle Crunch: Techniques, Benefits, Variations",
+      "htmlTitle": "How to Do a Bicycle \u003cb\u003eCrunch\u003c/b\u003e: Techniques, Benefits, Variations",
+      "link": "https://www.verywellfit.com/thmb/TViHPaz6ofg6Ko8FTwlUU1L_dOM=/1500x1000/filters:fill(FFDB5D,1)/BicycleCrunches_annotated-b90ca5400452440282721a7d33d75b39.jpg",
+      "displayLink": "www.verywellfit.com",
+      "snippet": "How to Do a Bicycle Crunch: Techniques, Benefits, Variations",
+      "htmlSnippet": "How to Do a Bicycle \u003cb\u003eCrunch\u003c/b\u003e: Techniques, Benefits, Variations",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.verywellfit.com/bicycle-crunch-exercise-3120058",
+        "height": 1000,
+        "width": 1500,
+        "byteSize": 85847,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4ligXP8n2qAL8G2XIhwk820RiCotjdQty8961TNeRt_BeVwK35sbCBUS&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "4 Ways to Do Crunches - wikiHow",
+      "htmlTitle": "4 Ways to Do \u003cb\u003eCrunches\u003c/b\u003e - wikiHow",
+      "link": "https://www.wikihow.com/images/c/c6/Do-Crunches-Step-2-preview.jpg",
+      "displayLink": "www.wikihow.com",
+      "snippet": "4 Ways to Do Crunches - wikiHow",
+      "htmlSnippet": "4 Ways to Do \u003cb\u003eCrunches\u003c/b\u003e - wikiHow",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.wikihow.com/Do-Crunches",
+        "height": 1080,
+        "width": 1920,
+        "byteSize": 64049,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQumtMXMGfkoTLy9R-_1WekyPklK59bGAJsQXsSZ5-o4jdS4fT5ieTCn88&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Raised Knee Crunches: Upper Ab Workout - YouTube",
+      "htmlTitle": "Raised Knee \u003cb\u003eCrunches\u003c/b\u003e: Upper Ab \u003cb\u003eWorkout\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/BEUwx8lsZ9Y/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Raised Knee Crunches: Upper Ab Workout - YouTube",
+      "htmlSnippet": "Raised Knee \u003cb\u003eCrunches\u003c/b\u003e: Upper Ab \u003cb\u003eWorkout\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=BEUwx8lsZ9Y",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 46481,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbyxXAoY7OJJpCC0CGRpAdFFiBP6p0Ndriaw5NRXu92v3iN0iwxNP8w34&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Do Side Plank Crunches | POPSUGAR Fitness",
+      "htmlTitle": "How to Do Side Plank \u003cb\u003eCrunches\u003c/b\u003e | POPSUGAR Fitness",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/f00mtqRzQ47Z9m3a3Ko8-qm489o/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2015/03/27/026/n/1922398/c7281ba3_Side-Plank-Crunch_1_.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "How to Do Side Plank Crunches | POPSUGAR Fitness",
+      "htmlSnippet": "How to Do Side Plank \u003cb\u003eCrunches\u003c/b\u003e | POPSUGAR Fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/How-Do-Side-Plank-Crunches-37169683",
+        "height": 2048,
+        "width": 1751,
+        "byteSize": 221680,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4o40wpuJzgIEMOOkAuoewgzLLTcTLreW4lonoNnL60q_J6U7UpY8UZv-&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 128
+      }
+    }
+  ]
+}

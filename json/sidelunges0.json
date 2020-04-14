@@ -1,0 +1,250 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - side lunges exercise",
+        "totalResults": "146000000",
+        "searchTerms": "side lunges exercise",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - side lunges exercise",
+        "totalResults": "146000000",
+        "searchTerms": "side lunges exercise",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.234322,
+    "formattedSearchTime": "0.23",
+    "totalResults": "146000000",
+    "formattedTotalResults": "146,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Epi. #88: How to do Side Lunges/Leg Workout by Vicky - YouTube",
+      "htmlTitle": "Epi. #88: How to do \u003cb\u003eSide Lunges\u003c/b\u003e/Leg \u003cb\u003eWorkout\u003c/b\u003e by Vicky - YouTube",
+      "link": "https://i.ytimg.com/vi/koOIMPoa9SE/hqdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Epi. #88: How to do Side Lunges/Leg Workout by Vicky - YouTube",
+      "htmlSnippet": "Epi. #88: How to do \u003cb\u003eSide Lunges\u003c/b\u003e/Leg \u003cb\u003eWorkout\u003c/b\u003e by Vicky - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=koOIMPoa9SE",
+        "height": 360,
+        "width": 480,
+        "byteSize": 16484,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT115ERMZVXaduQW8RMsKqPHp0VZv40PjgJKBw7lw4B-apvBSxloHlfkiY&s",
+        "thumbnailHeight": 97,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Side Lunges Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eSide Lunges\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-vector/lunges-exercise-legs-on-white-260nw-557254609.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Side Lunges Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eSide Lunges\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/side+lunges",
+        "height": 280,
+        "width": 481,
+        "byteSize": 11359,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5h3AHHDHgVCreGLu8CDxxiT3gRsSdXhdeov20vhFQJ3GV02u-x9DhY_cv&s",
+        "thumbnailHeight": 75,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How To Do A Side Lunge - YouTube",
+      "htmlTitle": "How To Do A \u003cb\u003eSide Lunge\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/6ftkR-Zcl0A/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "How To Do A Side Lunge - YouTube",
+      "htmlSnippet": "How To Do A \u003cb\u003eSide Lunge\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=6ftkR-Zcl0A",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 74947,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF9SgRmnVxh6PQzE-4iDYM6_8-C1GQ4HmEMxOOsJ-5KPtamubE6ln-Csjx&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "side lunges | Exercise to reduce thighs, Small waist workout ...",
+      "htmlTitle": "\u003cb\u003eside lunges\u003c/b\u003e | \u003cb\u003eExercise\u003c/b\u003e to reduce thighs, Small waist \u003cb\u003eworkout\u003c/b\u003e ...",
+      "link": "https://i.pinimg.com/originals/25/0d/86/250d861d8a4d5fadedf93f1a6db92d2b.jpg",
+      "displayLink": "br.pinterest.com",
+      "snippet": "side lunges | Exercise to reduce thighs, Small waist workout ...",
+      "htmlSnippet": "\u003cb\u003eside lunges\u003c/b\u003e | \u003cb\u003eExercise\u003c/b\u003e to reduce thighs, Small waist \u003cb\u003eworkout\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://br.pinterest.com/pin/497858933790069234/",
+        "height": 800,
+        "width": 800,
+        "byteSize": 38381,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETaIi-7EeJpyyHaO5bXgLadVev0jJV0Tnd51PMSb3P6sbw_AH8yWYMs2BZg&s",
+        "thumbnailHeight": 143,
+        "thumbnailWidth": 143
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How To Do Side Lunges",
+      "htmlTitle": "How To Do \u003cb\u003eSide Lunges\u003c/b\u003e",
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/side-lunge-1543424933.jpg",
+      "displayLink": "www.womenshealthmag.com",
+      "snippet": "How To Do Side Lunges",
+      "htmlSnippet": "How To Do \u003cb\u003eSide Lunges\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.womenshealthmag.com/fitness/a19895809/side-lunges/",
+        "height": 1333,
+        "width": 2000,
+        "byteSize": 118895,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp4kei4s7kHLWlnyNhzhNGV3Ty3ynGCmCIZMdICEu4LyIWZEQanbO0SUc&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Side Lunges Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eSide Lunges\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-photo/plyo-side-lunge-switch-touchdown-260nw-501242476.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Side Lunges Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eSide Lunges\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/side+lunges",
+        "height": 280,
+        "width": 463,
+        "byteSize": 8788,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUMA21wzDLVDz2p-olRCB-Dv6US9ciPxqlisJtPzdE9JRr0h90uISwTK34&s",
+        "thumbnailHeight": 77,
+        "thumbnailWidth": 128
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Do Side Lunges for Lean Legs | Health - YouTube",
+      "htmlTitle": "How to Do \u003cb\u003eSide Lunges\u003c/b\u003e for Lean Legs | Health - YouTube",
+      "link": "https://i.ytimg.com/vi/rvqLVxYqEvo/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "How to Do Side Lunges for Lean Legs | Health - YouTube",
+      "htmlSnippet": "How to Do \u003cb\u003eSide Lunges\u003c/b\u003e for Lean Legs | Health - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=rvqLVxYqEvo",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 52047,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCeM_oxOCFMB8IkeJ0ANqshReo2bOjS8Lv8tB6JC5safrS-vyyk1JtrY&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Dumbbell Side Lunges - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Dumbbell \u003cb\u003eSide Lunges\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1209639/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Dumbbell Side Lunges - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Dumbbell \u003cb\u003eSide Lunges\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/14939-dumbbell-side-lunges-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 25736,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMypdRDH-9Ub4Qq1qE8s2NiLvfPhx8taVDLoDnQ1FkIMZCcgzfZ5w93QnkyQ&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Exercise Library: Side-to-Side Lunges - YouTube",
+      "htmlTitle": "\u003cb\u003eExercise\u003c/b\u003e Library: \u003cb\u003eSide\u003c/b\u003e-to-\u003cb\u003eSide Lunges\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/KXoVm0WXcfE/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Exercise Library: Side-to-Side Lunges - YouTube",
+      "htmlSnippet": "\u003cb\u003eExercise\u003c/b\u003e Library: \u003cb\u003eSide\u003c/b\u003e-to-\u003cb\u003eSide Lunges\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=KXoVm0WXcfE",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 35951,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTddTit4C9CPdcd8iXJD9S0JO8mcijaq56C9P21RWHgqd4o4PoSkF0-uBU&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Alternating Side Lunge | The 53 Best Leg Exercises Out There ...",
+      "htmlTitle": "Alternating \u003cb\u003eSide Lunge\u003c/b\u003e | The 53 Best Leg \u003cb\u003eExercises\u003c/b\u003e Out There ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/eOGUtjqg_nhfrEk11e9d5IruYiI/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2013/12/26/731/n/1922729/8a3d138d860c09c9_side-lunges/i/Alternating-Side-Lunge.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Alternating Side Lunge | The 53 Best Leg Exercises Out There ...",
+      "htmlSnippet": "Alternating \u003cb\u003eSide Lunge\u003c/b\u003e | The 53 Best Leg \u003cb\u003eExercises\u003c/b\u003e Out There ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/36123288/image/36123668/Alternating-Side-Lunge",
+        "height": 1456,
+        "width": 1456,
+        "byteSize": 93826,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqoKzSRt6oAHtxzfYKBLJV_MFAjYe4PVdpgKYtybsgKPZSergy4S7BSwQ8&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 150
+      }
+    }
+  ]
+}

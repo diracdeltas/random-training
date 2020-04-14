@@ -1,0 +1,250 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - leg raises exercise",
+        "totalResults": "1640000000",
+        "searchTerms": "leg raises exercise",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - leg raises exercise",
+        "totalResults": "1640000000",
+        "searchTerms": "leg raises exercise",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.80891,
+    "formattedSearchTime": "0.81",
+    "totalResults": "1640000000",
+    "formattedTotalResults": "1,640,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Lying Leg Raises - YouTube",
+      "htmlTitle": "Lying \u003cb\u003eLeg Raises\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/Wp4BlxcFTkE/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Lying Leg Raises - YouTube",
+      "htmlSnippet": "Lying \u003cb\u003eLeg Raises\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=Wp4BlxcFTkE",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 19526,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8xZYJQf3DLsc77zhQ2x3OazygSUgpbgnTUMzJ74a5Q0BnO4qW0OjnpaW&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Straight Leg Raise | Leg raise exercise, Workout guide, Straight ...",
+      "htmlTitle": "Straight \u003cb\u003eLeg Raise\u003c/b\u003e | \u003cb\u003eLeg raise exercise\u003c/b\u003e, \u003cb\u003eWorkout\u003c/b\u003e guide, Straight ...",
+      "link": "https://i.pinimg.com/originals/4f/85/57/4f8557dda735f03227090cf15f6131e1.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Straight Leg Raise | Leg raise exercise, Workout guide, Straight ...",
+      "htmlSnippet": "Straight \u003cb\u003eLeg Raise\u003c/b\u003e | \u003cb\u003eLeg raise exercise\u003c/b\u003e, \u003cb\u003eWorkout\u003c/b\u003e guide, Straight ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/28780885101361371/",
+        "height": 720,
+        "width": 1080,
+        "byteSize": 32370,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeA9s-fXTBrr-FgvHk-IlR9qj-YQbUIiJLUbXPLGNpb_GmE9U9pOQQVAs&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Prone Straight Leg Raise - Exercise How-to - Workout Trainer by ...",
+      "htmlTitle": "Prone Straight \u003cb\u003eLeg Raise\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by ...",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1411502/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Prone Straight Leg Raise - Exercise How-to - Workout Trainer by ...",
+      "htmlSnippet": "Prone Straight \u003cb\u003eLeg Raise\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/30221-prone-straight-leg-raise-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 14449,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ihe81auOkCt2Y0c5xc5Xx_MWtMCWxWylGYhdTlL2aYFdUWG32jnZiUaq&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Straight Leg Raise | Straight leg raise, Workout guide, Leg raise ...",
+      "htmlTitle": "Straight \u003cb\u003eLeg Raise\u003c/b\u003e | Straight \u003cb\u003eleg raise\u003c/b\u003e, \u003cb\u003eWorkout\u003c/b\u003e guide, \u003cb\u003eLeg raise\u003c/b\u003e ...",
+      "link": "https://i.pinimg.com/originals/5e/c5/bd/5ec5bd2392161b7fb3532397c5697cc7.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Straight Leg Raise | Straight leg raise, Workout guide, Leg raise ...",
+      "htmlSnippet": "Straight \u003cb\u003eLeg Raise\u003c/b\u003e | Straight \u003cb\u003eleg raise\u003c/b\u003e, \u003cb\u003eWorkout\u003c/b\u003e guide, \u003cb\u003eLeg raise\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/546202261038642681/",
+        "height": 720,
+        "width": 1080,
+        "byteSize": 26940,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLxjDNyx4FZR73lvbFOuB-YTR506BOB23yRikTtbiSZJh1ZkFBSRibHk&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "leg raise exercises to strengthen hips - the straight leg raise ...",
+      "htmlTitle": "\u003cb\u003eleg raise\u003c/b\u003e exercises to strengthen hips - the straight \u003cb\u003eleg raise\u003c/b\u003e ...",
+      "link": "https://i.ytimg.com/vi/d8BITjLpD1o/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "leg raise exercises to strengthen hips - the straight leg raise ...",
+      "htmlSnippet": "\u003cb\u003eleg raise\u003c/b\u003e exercises to strengthen hips - the straight \u003cb\u003eleg raise\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=d8BITjLpD1o",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 38834,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToHyCzeFWc0OubDUNqjS3_qIz8WZ7d9ZU8K5fKkQTPapvIrXuXVelP9EjW&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Leg Raise Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eLeg Raise\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-vector/woman-doing-double-leg-raise-260nw-1338723998.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Leg Raise Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eLeg Raise\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/leg+raise",
+        "height": 280,
+        "width": 387,
+        "byteSize": 6964,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW3eaYx3XV0i4bnU7cby9CRWzNDQxUpDhTkYKUFle_YEz-5Sb8l71_4A&s",
+        "thumbnailHeight": 89,
+        "thumbnailWidth": 123
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "50x donkey leg raises each side . advance version of donkey kicks ...",
+      "htmlTitle": "50x donkey \u003cb\u003eleg raises\u003c/b\u003e each side . advance version of donkey kicks ...",
+      "link": "https://i.pinimg.com/originals/aa/cd/dc/aacddc959696fe90755531b378e261dc.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "50x donkey leg raises each side . advance version of donkey kicks ...",
+      "htmlSnippet": "50x donkey \u003cb\u003eleg raises\u003c/b\u003e each side . advance version of donkey kicks ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/327285097901080829/",
+        "height": 384,
+        "width": 384,
+        "byteSize": 20138,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvx8KhssHYKlgUKlbeoQH5jW48Daw1452pOdbKGGSTAdPumy6U296qw&s",
+        "thumbnailHeight": 123,
+        "thumbnailWidth": 123
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Leg+raises+exercise Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eLeg\u003c/b\u003e+\u003cb\u003eraises\u003c/b\u003e+\u003cb\u003eexercise\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-vector/leg-raises-tabata-exercises-fitness-260nw-1097123654.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Leg+raises+exercise Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eLeg\u003c/b\u003e+\u003cb\u003eraises\u003c/b\u003e+\u003cb\u003eexercise\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/leg+raises+exercise?search_source=search_form&search_tracking_id=BwSPcKMGqOh2ExG252uxbA&version=llv1&anyorall=all&safesearch=1&searchterm=cut%20cord&search_group=&orient=&search_cat=&searchtermx=&photographer_name=&people_gender=&people_age=&people_ethnicity=&people_number=&commercial_ok=&color=&show_color_wheel=1&clear_recent_searches=1&ref_context=keyword",
+        "height": 280,
+        "width": 289,
+        "byteSize": 5235,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLTSpBeAGr7FJg_n-jMsq1LXufQIHOYUTODLCGtVbsrlFjN8BTLRNNg&s",
+        "thumbnailHeight": 111,
+        "thumbnailWidth": 115
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Simple Ways to Do a Hanging Leg Raise: 14 Steps (with Pictures)",
+      "htmlTitle": "Simple Ways to Do a Hanging \u003cb\u003eLeg Raise\u003c/b\u003e: 14 Steps (with Pictures)",
+      "link": "https://www.wikihow.com/images/a/a7/Do-a-Hanging-Leg-Raise-Step-14-Version-2.jpg",
+      "displayLink": "www.wikihow.com",
+      "snippet": "Simple Ways to Do a Hanging Leg Raise: 14 Steps (with Pictures)",
+      "htmlSnippet": "Simple Ways to Do a Hanging \u003cb\u003eLeg Raise\u003c/b\u003e: 14 Steps (with Pictures)",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.wikihow.com/Do-a-Hanging-Leg-Raise",
+        "height": 2400,
+        "width": 3200,
+        "byteSize": 663486,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ_ovVZTJSmfxuPjRgNInjbSGuNSSChh2FaAVG-M8abJcB97wYyNzGm3Q&s",
+        "thumbnailHeight": 113,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Leg Raises",
+      "htmlTitle": "\u003cb\u003eLeg Raises\u003c/b\u003e",
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0911-leg-raises-1441032989.jpg?resize=480:*",
+      "displayLink": "www.womenshealthmag.com",
+      "snippet": "Leg Raises",
+      "htmlSnippet": "\u003cb\u003eLeg Raises\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.womenshealthmag.com/fitness/a20697369/leg-raises/",
+        "height": 480,
+        "width": 480,
+        "byteSize": 18791,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFfYp0xxWSYfnMUeIJhN1-aNaoaRLpHAFM9EBFa63jTgo0HQ15jQD266EPvg&s",
+        "thumbnailHeight": 129,
+        "thumbnailWidth": 129
+      }
+    }
+  ]
+}

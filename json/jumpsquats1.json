@@ -1,0 +1,250 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - jumping squats exercise",
+        "totalResults": "279000000",
+        "searchTerms": "jumping squats exercise",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - jumping squats exercise",
+        "totalResults": "279000000",
+        "searchTerms": "jumping squats exercise",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.292655,
+    "formattedSearchTime": "0.29",
+    "totalResults": "279000000",
+    "formattedTotalResults": "279,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "How to Do Jump Squats | POPSUGAR Fitness",
+      "htmlTitle": "How to Do \u003cb\u003eJump Squats\u003c/b\u003e | POPSUGAR Fitness",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/_gsXN6w15Fm3hLGdCX-rRUAv5vs/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2014/01/31/901/n/1922729/1545977b1743e558_Jump-Squat.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "How to Do Jump Squats | POPSUGAR Fitness",
+      "htmlSnippet": "How to Do \u003cb\u003eJump Squats\u003c/b\u003e | POPSUGAR Fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/How-Do-Jump-Squats-994573",
+        "height": 999,
+        "width": 1024,
+        "byteSize": 48935,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnWVkoZsXQYIUL6VwLdGGe8eFPP75ov7qhYPIIQ4Gnenw_Z36UHGNcbWn4&s",
+        "thumbnailHeight": 146,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Double Pulse Jump Squat - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Double Pulse \u003cb\u003eJump Squat\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1115357/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Double Pulse Jump Squat - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Double Pulse \u003cb\u003eJump Squat\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/21553-double-pulse-jump-squat-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 33897,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCN1aLu79xnpWqH3dRLO6yGJUxh4r_K7wvGR1cxhzp0RUh3RI5xmvgXMF7&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Jump Squat | Illustrated Exercise Guide",
+      "htmlTitle": "\u003cb\u003eJump Squat\u003c/b\u003e | Illustrated \u003cb\u003eExercise\u003c/b\u003e Guide",
+      "link": "https://www.cdn.spotebi.com/wp-content/uploads/2015/08/jump-squat-exercise-illustration.jpg",
+      "displayLink": "www.spotebi.com",
+      "snippet": "Jump Squat | Illustrated Exercise Guide",
+      "htmlSnippet": "\u003cb\u003eJump Squat\u003c/b\u003e | Illustrated \u003cb\u003eExercise\u003c/b\u003e Guide",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.spotebi.com/exercise-guide/jump-squat/",
+        "height": 720,
+        "width": 1080,
+        "byteSize": 52348,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR68FJioacoPhSZFuU9GHc2Lz5LUaD-EsWklISAg7Wnpx1FwbMgAWBpt-z&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Squat Jumps - YouTube",
+      "htmlTitle": "\u003cb\u003eSquat Jumps\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/CVaEhXotL7M/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Squat Jumps - YouTube",
+      "htmlSnippet": "\u003cb\u003eSquat Jumps\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=CVaEhXotL7M",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 28179,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqZ3Hw1Xaf-qPUxghz7xM05gFxM3vnEzcUwUcDSXrnHhXaonNZ-4JWeg&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Jump Squat Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eJump Squat\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-photo/jump-squat-young-man-doing-260nw-567668824.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Jump Squat Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eJump Squat\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/jump+squat",
+        "height": 280,
+        "width": 269,
+        "byteSize": 9502,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVgi0BRfV1nG7CTmFwvXj0jmenpiFNYi_g6P0Bj4iyIuTuWe5_D_xtw&s",
+        "thumbnailHeight": 114,
+        "thumbnailWidth": 110
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How To Do A Squat Jump—The Right Way",
+      "htmlTitle": "How To Do A \u003cb\u003eSquat Jump\u003c/b\u003e—The Right Way",
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/squat-jump-1541779788.jpg",
+      "displayLink": "www.womenshealthmag.com",
+      "snippet": "How To Do A Squat Jump—The Right Way",
+      "htmlSnippet": "How To Do A \u003cb\u003eSquat Jump\u003c/b\u003e—The Right Way",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.womenshealthmag.com/fitness/a20699322/squat-jump/",
+        "height": 1000,
+        "width": 1500,
+        "byteSize": 76608,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWGhDTZubowc1cThRwy6tk3q72qE0X-A9jtjX40TPvv8eJ0mxbfm_Gy0U&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Jump Squats Vector Stock Vectors, Images & Vector Art | Shutterstock",
+      "htmlTitle": "\u003cb\u003eJump Squats\u003c/b\u003e Vector Stock Vectors, Images &amp; Vector Art | Shutterstock",
+      "link": "https://image.shutterstock.com/image-vector/vector-cartoon-comic-style-flat-260nw-723110443.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Jump Squats Vector Stock Vectors, Images & Vector Art | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eJump Squats\u003c/b\u003e Vector Stock Vectors, Images &amp; Vector Art | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/jump+squats+vector?measurement=px&sort=popular&image_type=vector&safe=true&search_source=base_related_searches&language=en&saveFiltersLink=true",
+        "height": 280,
+        "width": 329,
+        "byteSize": 11646,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjoGF389GOWEWfzhiQ_Jl5VFbkWwdO2YIIIS81JIeJgI0FtcYJtYn4og&s",
+        "thumbnailHeight": 101,
+        "thumbnailWidth": 119
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Jump Squat | Workout guide, Jump squats, Exercise",
+      "htmlTitle": "\u003cb\u003eJump Squat\u003c/b\u003e | \u003cb\u003eWorkout\u003c/b\u003e guide, \u003cb\u003eJump squats\u003c/b\u003e, \u003cb\u003eExercise\u003c/b\u003e",
+      "link": "https://i.pinimg.com/originals/25/d9/49/25d94956be0562468862c7efbc098bb4.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Jump Squat | Workout guide, Jump squats, Exercise",
+      "htmlSnippet": "\u003cb\u003eJump Squat\u003c/b\u003e | \u003cb\u003eWorkout\u003c/b\u003e guide, \u003cb\u003eJump squats\u003c/b\u003e, \u003cb\u003eExercise\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/844493657677829/",
+        "height": 720,
+        "width": 1080,
+        "byteSize": 32677,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScN9u_Wvwostt13tKNAiX-O_lN4JVeQS-CAfM7nL95qptyq_L6UrCmEew&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Squat Split Jump - YouTube",
+      "htmlTitle": "\u003cb\u003eSquat\u003c/b\u003e Split \u003cb\u003eJump\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/IrhbjZc3ka0/hqdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Squat Split Jump - YouTube",
+      "htmlSnippet": "\u003cb\u003eSquat\u003c/b\u003e Split \u003cb\u003eJump\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=IrhbjZc3ka0",
+        "height": 360,
+        "width": 480,
+        "byteSize": 21806,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx843LvwkZ50s49Oqmh18n8IRfG9toMaQ-BtDtpqoFDzC_mKWkyom7lZ_5&s",
+        "thumbnailHeight": 97,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Kettlebell jumping Squats - Exercise How-to - Workout Trainer by ...",
+      "htmlTitle": "Kettlebell \u003cb\u003ejumping Squats\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by ...",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1588993/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Kettlebell jumping Squats - Exercise How-to - Workout Trainer by ...",
+      "htmlSnippet": "Kettlebell \u003cb\u003ejumping Squats\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/37215-kettlebell-jumping-squats-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 30566,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdI1aIgA1Mmvp09nYHVOVwExhpOE3NulnR0pMeHu-5TPO2mj5ouOJfznq&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    }
+  ]
+}

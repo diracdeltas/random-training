@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - jumping squats exercise",
+        "totalResults": "279000000",
+        "searchTerms": "jumping squats exercise",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - jumping squats exercise",
+        "totalResults": "279000000",
+        "searchTerms": "jumping squats exercise",
+        "count": 10,
+        "startIndex": 21,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - jumping squats exercise",
+        "totalResults": "279000000",
+        "searchTerms": "jumping squats exercise",
+        "count": 10,
+        "startIndex": 31,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.285308,
+    "formattedSearchTime": "0.29",
+    "totalResults": "279000000",
+    "formattedTotalResults": "279,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Jump Squat | Workout guide, Squat workout, Squats",
+      "htmlTitle": "\u003cb\u003eJump Squat\u003c/b\u003e | \u003cb\u003eWorkout\u003c/b\u003e guide, \u003cb\u003eSquat workout\u003c/b\u003e, \u003cb\u003eSquats\u003c/b\u003e",
+      "link": "https://i.pinimg.com/originals/36/94/75/369475faada2be9f0314e54648a06e48.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Jump Squat | Workout guide, Squat workout, Squats",
+      "htmlSnippet": "\u003cb\u003eJump Squat\u003c/b\u003e | \u003cb\u003eWorkout\u003c/b\u003e guide, \u003cb\u003eSquat workout\u003c/b\u003e, \u003cb\u003eSquats\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/515662226071010891/",
+        "height": 720,
+        "width": 1080,
+        "byteSize": 36696,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpCttu8JVEmlGmhP_Adw0I_L18_h5gcbROSqEW_-93wqW-0bHOI9wAt8&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Squat Jump Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eSquat Jump\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-illustration/squats-exercise-legs-on-white-260nw-613697462.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Squat Jump Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eSquat Jump\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/squat+jump",
+        "height": 280,
+        "width": 260,
+        "byteSize": 6750,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWKZWiUvVTAWRRGAuKNfwHQdGrEKqIF3oth1tdgNsY5cqBZ_nm_3tPw&s",
+        "thumbnailHeight": 114,
+        "thumbnailWidth": 106
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Amazing Benefits of Jump Squats That You Must Know - The CrapLess",
+      "htmlTitle": "Amazing Benefits of \u003cb\u003eJump Squats\u003c/b\u003e That You Must Know - The CrapLess",
+      "link": "http://thecrapless.com/wp-content/uploads/2020/02/Jump-Squats.jpg",
+      "displayLink": "thecrapless.com",
+      "snippet": "Amazing Benefits of Jump Squats That You Must Know - The CrapLess",
+      "htmlSnippet": "Amazing Benefits of \u003cb\u003eJump Squats\u003c/b\u003e That You Must Know - The CrapLess",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "http://thecrapless.com/amazing-benefits-of-jump-squats-that-you-must-know",
+        "height": 450,
+        "width": 950,
+        "byteSize": 6462,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScdkYP5GlRyf6qtlDwbiumrabhSk1xLVti7vUUgQ34ZhbB0XdG-UsKZ3-e&s",
+        "thumbnailHeight": 70,
+        "thumbnailWidth": 148
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Jump Squats Squat Sport Exersice Silhouettes Stock Vector (Royalty ...",
+      "htmlTitle": "\u003cb\u003eJump Squats Squat\u003c/b\u003e Sport Exersice Silhouettes Stock Vector (Royalty ...",
+      "link": "https://image.shutterstock.com/z/stock-vector-jump-squats-squat-sport-exersice-silhouettes-of-woman-doing-exercise-workout-training-vector-1266250858.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Jump Squats Squat Sport Exersice Silhouettes Stock Vector (Royalty ...",
+      "htmlSnippet": "\u003cb\u003eJump Squats Squat\u003c/b\u003e Sport Exersice Silhouettes Stock Vector (Royalty ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-vector/jump-squats-squat-sport-exersice-silhouettes-1266250858",
+        "height": 1600,
+        "width": 1500,
+        "byteSize": 684157,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQsFWb01IXGuDGxvCj-ZPQreKUZG-ZcBEuzZrAkOhRGZ4tAVFgXIKQrGX&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 141
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Jump Squat - YouTube",
+      "htmlTitle": "\u003cb\u003eJump Squat\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/Azl5tkCzDcc/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Jump Squat - YouTube",
+      "htmlSnippet": "\u003cb\u003eJump Squat\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=Azl5tkCzDcc",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 16592,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgSRII_X7jC6_k-AyzrL6hhZXLIil3W5ChZXnI-OZZA5ZFo3xovrZ6laMb&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Jumping Jack Exercise Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eJumping\u003c/b\u003e Jack \u003cb\u003eExercise\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-vector/young-beautiful-woman-doing-jump-260nw-1186733545.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Jumping Jack Exercise Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eJumping\u003c/b\u003e Jack \u003cb\u003eExercise\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/jumping+jack+exercise",
+        "height": 280,
+        "width": 260,
+        "byteSize": 8063,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEDtKbPaI9kB8vhrwcn4T8SunW6f4GHY7HyDiR860ePYYMrXH0lLGH_Co&s",
+        "thumbnailHeight": 114,
+        "thumbnailWidth": 106
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pin on health",
+      "htmlTitle": "Pin on health",
+      "link": "https://i.pinimg.com/originals/4b/52/cf/4b52cf0f422154c04e81443c95fcef96.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Pin on health",
+      "htmlSnippet": "Pin on health",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/453948837426058539/",
+        "height": 999,
+        "width": 1024,
+        "byteSize": 56135,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCAUYKu1tdnl9w-I4sg-Xu_xaT-VIvUXcIjxM-fH7lMGO5DPUrqz7kop8itw&s",
+        "thumbnailHeight": 146,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Squats Exercise Legs On White Background Stock Vector (Royalty ...",
+      "htmlTitle": "\u003cb\u003eSquats Exercise\u003c/b\u003e Legs On White Background Stock Vector (Royalty ...",
+      "link": "https://image.shutterstock.com/z/stock-vector-squats-exercise-for-legs-on-white-background-healthy-lifestyle-workout-for-legs-exercises-for-557254453.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Squats Exercise Legs On White Background Stock Vector (Royalty ...",
+      "htmlSnippet": "\u003cb\u003eSquats Exercise\u003c/b\u003e Legs On White Background Stock Vector (Royalty ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-vector/squats-exercise-legs-on-white-background-557254453",
+        "height": 1600,
+        "width": 1500,
+        "byteSize": 220550,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi6phBzWsd9h0T_ntXI9nErEzZ4fq-LABct15BspVSS3sxgDi_7Tw0okAXSg&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 141
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pin on fitness",
+      "htmlTitle": "Pin on fitness",
+      "link": "https://i.pinimg.com/originals/9b/b8/4f/9bb84ffc89dc70e70d44f509c0366722.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Pin on fitness",
+      "htmlSnippet": "Pin on fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/171770173265343176/",
+        "height": 634,
+        "width": 650,
+        "byteSize": 31260,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRbJsyCYJ0Nn6Xe7mgaEY9C2YC1w435V_Q3t6WP1gCZuKh0O5hilasNj8O&s",
+        "thumbnailHeight": 134,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How To Do Jump Squat on a Step",
+      "htmlTitle": "How To Do \u003cb\u003eJump Squat\u003c/b\u003e on a Step",
+      "link": "https://3i133rqau023qjc1k3txdvr1-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/Jump-Squat-on-Step_Exercse.jpg",
+      "displayLink": "gethealthyu.com",
+      "snippet": "How To Do Jump Squat on a Step",
+      "htmlSnippet": "How To Do \u003cb\u003eJump Squat\u003c/b\u003e on a Step",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://gethealthyu.com/exercise/jump-squat-on-step/",
+        "height": 550,
+        "width": 800,
+        "byteSize": 57217,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTyQVYbex2DzchKLScXbwL_bci0D9zSjAxVYusCRDV_XUTE0n9mAGcL3s&s",
+        "thumbnailHeight": 98,
+        "thumbnailWidth": 143
+      }
+    }
+  ]
+}

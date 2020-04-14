@@ -4,12 +4,7 @@
 let exerciseSeconds = [20, 20, 20, 20, 30, 30, 30, 30, 30, 60, 60, 90]
 
 const restSeconds = [5, 5, 5, 5, 10, 10, 10, 10, 10, 20, 20, 30, 60]
-const CX = '016260358267380303853:hhm1wdid5ti'
-const KEY = window.location.hostname === 'localhost'
-  ? 'AIzaSyBdMbfcLElXZVEhjIgHdfCoOaetzGjbMVY'
-  : 'AIzaSyAIuKK4Gwa081NEzODhO2kkvFlH-VKz_DA'
 
-const cachedSearchJson = {}
 const synth = window.speechSynthesis
 
 const sayExercise = (seconds, exercise) => {
@@ -23,18 +18,12 @@ const sayCountdown = (number) => {
 }
 
 const setBackground = (exercise) => {
-  const searchTerm = exercise === 'Rest' ? 'resting' : `${exercise.replace(/ /g, '+')}+exercise`
-  const url = `https://www.googleapis.com/customsearch/v1?key=${KEY}&cx=${CX}&q=${searchTerm}&searchType=image&fileType=jpg&alt=json`
-  if (!cachedSearchJson[exercise]) {
-    window.fetch(url).then(async (response) => {
-      const json = await response.json()
-      cachedSearchJson[exercise] = json
-      pickRandomImage(json)
-    })
-  } else {
-    console.log('using cached images')
-    pickRandomImage(cachedSearchJson[exercise])
-  }
+  const index = uniform([0, 1, 2, 3, 4, 5])
+  const url = `/json/${exercise.replace(/ /g, '')}${index}.json`
+  window.fetch(url).then(async (response) => {
+    const json = await response.json()
+    pickRandomImage(json)
+  })
 }
 
 const pickRandomImage = (json) => {
@@ -50,7 +39,7 @@ const exercises = [
     'high knees',
     'climbers',
     'squats',
-    'jumping squats',
+    'jump squats',
     'glute bridges'
   ],
   [

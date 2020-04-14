@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - push ups exercise",
+        "totalResults": "2060000000",
+        "searchTerms": "push ups exercise",
+        "count": 10,
+        "startIndex": 30,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - push ups exercise",
+        "totalResults": "2060000000",
+        "searchTerms": "push ups exercise",
+        "count": 10,
+        "startIndex": 40,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - push ups exercise",
+        "totalResults": "2060000000",
+        "searchTerms": "push ups exercise",
+        "count": 10,
+        "startIndex": 50,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.295442,
+    "formattedSearchTime": "0.30",
+    "totalResults": "2060000000",
+    "formattedTotalResults": "2,060,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "How To Do A Pushup: Pushup Variations",
+      "htmlTitle": "How To Do A \u003cb\u003ePushup\u003c/b\u003e: \u003cb\u003ePushup\u003c/b\u003e Variations",
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/files/images/bosu-pushup-1446644701.jpg?resize=480:*",
+      "displayLink": "www.womenshealthmag.com",
+      "snippet": "How To Do A Pushup: Pushup Variations",
+      "htmlSnippet": "How To Do A \u003cb\u003ePushup\u003c/b\u003e: \u003cb\u003ePushup\u003c/b\u003e Variations",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.womenshealthmag.com/fitness/a19907322/pushup-exercises-make-it-harder-see-results/",
+        "height": 200,
+        "width": 450,
+        "byteSize": 8233,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4nG2EAjS7OTS7ogeex85VSfqjS3hNtzBUwBPM-ChleBE9eaNTqqhfk2c&s",
+        "thumbnailHeight": 56,
+        "thumbnailWidth": 127
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Push-up stand orientation for muscle group emphasis. | Push up ...",
+      "htmlTitle": "\u003cb\u003ePush\u003c/b\u003e-\u003cb\u003eup\u003c/b\u003e stand orientation for muscle group emphasis. | \u003cb\u003ePush up\u003c/b\u003e ...",
+      "link": "https://i.pinimg.com/originals/ed/28/d1/ed28d16650331f01364eea54af381abd.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Push-up stand orientation for muscle group emphasis. | Push up ...",
+      "htmlSnippet": "\u003cb\u003ePush\u003c/b\u003e-\u003cb\u003eup\u003c/b\u003e stand orientation for muscle group emphasis. | \u003cb\u003ePush up\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/378372806164956937/",
+        "height": 788,
+        "width": 636,
+        "byteSize": 57685,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYCHArNQw7f462yIP517kwMtm6k7XOoBf_xDkOojH26fpNXis1pt2j6_A&s",
+        "thumbnailHeight": 143,
+        "thumbnailWidth": 115
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "4 Ways to Do a Push Up - wikiHow",
+      "htmlTitle": "4 Ways to Do a \u003cb\u003ePush Up\u003c/b\u003e - wikiHow",
+      "link": "https://www.wikihow.com/images/thumb/0/0c/Do-a-Push-Up-Step-2-preview-Version-5.jpg/550px-nowatermark-Do-a-Push-Up-Step-2-preview-Version-5.jpg",
+      "displayLink": "www.wikihow.com",
+      "snippet": "4 Ways to Do a Push Up - wikiHow",
+      "htmlSnippet": "4 Ways to Do a \u003cb\u003ePush Up\u003c/b\u003e - wikiHow",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.wikihow.com/Do-a-Push-Up",
+        "height": 309,
+        "width": 550,
+        "byteSize": 13919,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPQkhZAepo_4CU9jiWJ0xQlfxck6qJYw93mrseFfDTdAv_b9773Bbvec&s",
+        "thumbnailHeight": 75,
+        "thumbnailWidth": 133
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Push Up | Illustrated Exercise Guide",
+      "htmlTitle": "\u003cb\u003ePush Up\u003c/b\u003e | Illustrated \u003cb\u003eExercise\u003c/b\u003e Guide",
+      "link": "https://www.cdn.spotebi.com/wp-content/uploads/2014/10/push-up-exercise-illustration.jpg",
+      "displayLink": "www.spotebi.com",
+      "snippet": "Push Up | Illustrated Exercise Guide",
+      "htmlSnippet": "\u003cb\u003ePush Up\u003c/b\u003e | Illustrated \u003cb\u003eExercise\u003c/b\u003e Guide",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.spotebi.com/exercise-guide/push-up/",
+        "height": 720,
+        "width": 1080,
+        "byteSize": 47473,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJaRFx9LFg5YYZ2doYInpPmSpxFpnrcMOiSgDF4H6Y5ybIdsSiOfMxx0&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Muay Thai explosive push ups | Workout guide, Bodyweight strength ...",
+      "htmlTitle": "Muay Thai explosive \u003cb\u003epush ups\u003c/b\u003e | \u003cb\u003eWorkout\u003c/b\u003e guide, Bodyweight strength ...",
+      "link": "https://i.pinimg.com/originals/f4/69/e7/f469e78e36cb152c737119ea1f92206f.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Muay Thai explosive push ups | Workout guide, Bodyweight strength ...",
+      "htmlSnippet": "Muay Thai explosive \u003cb\u003epush ups\u003c/b\u003e | \u003cb\u003eWorkout\u003c/b\u003e guide, Bodyweight strength ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/679480662508681914/",
+        "height": 751,
+        "width": 750,
+        "byteSize": 68213,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStITBU7Catcf_XWn6oNEDuSE-k3Xw_5HDSufl6mxKfug_f54EOry-e4Mah&s",
+        "thumbnailHeight": 141,
+        "thumbnailWidth": 141
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Push-ups Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003ePush\u003c/b\u003e-\u003cb\u003eups\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-vector/step-instruction-push-woman-cartoon-260nw-454190938.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Push-ups Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003ePush\u003c/b\u003e-\u003cb\u003eups\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/push-ups",
+        "height": 280,
+        "width": 380,
+        "byteSize": 8231,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1WiSjpnGWd3I5qSWGDi8sgcSOVcFGI0GG2mt-EZMarKaPHrvp-bD7LsY&s",
+        "thumbnailHeight": 91,
+        "thumbnailWidth": 123
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "30-Day Push-Up Challenge | POPSUGAR Fitness",
+      "htmlTitle": "30-Day \u003cb\u003ePush\u003c/b\u003e-\u003cb\u003eUp\u003c/b\u003e Challenge | POPSUGAR Fitness",
+      "link": "https://media2.onsugar.com/files/2014/10/31/679/n/1922729/a046ccf4cd8cec70_t-push-up.xxxlarge.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "30-Day Push-Up Challenge | POPSUGAR Fitness",
+      "htmlSnippet": "30-Day \u003cb\u003ePush\u003c/b\u003e-\u003cb\u003eUp\u003c/b\u003e Challenge | POPSUGAR Fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/30-Day-Push-Up-Challenge-30974208",
+        "height": 1024,
+        "width": 1024,
+        "byteSize": 115859,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7rl9JWgqaCZKGMFfgNIiOOElZssrADvT1YXXcxPpf08k9leMIrwrtsJcH&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "30-Day Push-Up Challenge | POPSUGAR Fitness",
+      "htmlTitle": "30-Day \u003cb\u003ePush\u003c/b\u003e-\u003cb\u003eUp\u003c/b\u003e Challenge | POPSUGAR Fitness",
+      "link": "https://media3.onsugar.com/files/2014/10/31/682/n/1922729/26132925016bd96b_flip.xxxlarge.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "30-Day Push-Up Challenge | POPSUGAR Fitness",
+      "htmlSnippet": "30-Day \u003cb\u003ePush\u003c/b\u003e-\u003cb\u003eUp\u003c/b\u003e Challenge | POPSUGAR Fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/30-Day-Push-Up-Challenge-30974208",
+        "height": 886,
+        "width": 1024,
+        "byteSize": 114404,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-IxFch32IR2GElA1mOaCCcUXyeMtHTz9jm8kjREHnluWYIBG0qOWcw4cm&s",
+        "thumbnailHeight": 130,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Push ups from the floor exercises (With images) | Gym ...",
+      "htmlTitle": "How to \u003cb\u003ePush ups\u003c/b\u003e from the floor \u003cb\u003eexercises\u003c/b\u003e (With images) | Gym ...",
+      "link": "https://i.pinimg.com/originals/f7/40/49/f740493649b2ce4929b961fa2c2f9c18.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "How to Push ups from the floor exercises (With images) | Gym ...",
+      "htmlSnippet": "How to \u003cb\u003ePush ups\u003c/b\u003e from the floor \u003cb\u003eexercises\u003c/b\u003e (With images) | Gym ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/666955026048868168/",
+        "height": 1080,
+        "width": 1080,
+        "byteSize": 133451,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerXDSfdhHxw1n3Ly0zNe2SkEP0h9zTj4UH-6KQDHr3RvMo5n2Rz1KlukBoA&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Quickly Strengthen Your Upper Body With Pyramid Push-Ups | STACK",
+      "htmlTitle": "Quickly Strengthen Your Upper Body With Pyramid \u003cb\u003ePush\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e | STACK",
+      "link": "http://upl.stack.com/wp-content/uploads/Quickly-Strengthen-Your-Upper-Body-With-Pyramid-Push-Ups.jpg",
+      "displayLink": "www.stack.com",
+      "snippet": "Quickly Strengthen Your Upper Body With Pyramid Push-Ups | STACK",
+      "htmlSnippet": "Quickly Strengthen Your Upper Body With Pyramid \u003cb\u003ePush\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e | STACK",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.stack.com/a/pyramid-push-ups",
+        "height": 383,
+        "width": 540,
+        "byteSize": 33478,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lhxNCjxBCPu2ZANxzbjruSYgYurOhjtDtK767IvY2jQiI3J3Si0u8sxN&s",
+        "thumbnailHeight": 94,
+        "thumbnailWidth": 132
+      }
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - sit-ups exercise",
+        "totalResults": "2070000000",
+        "searchTerms": "sit-ups exercise",
+        "count": 10,
+        "startIndex": 10,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - sit-ups exercise",
+        "totalResults": "2070000000",
+        "searchTerms": "sit-ups exercise",
+        "count": 10,
+        "startIndex": 20,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - sit-ups exercise",
+        "totalResults": "2070000000",
+        "searchTerms": "sit-ups exercise",
+        "count": 10,
+        "startIndex": 30,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.276754,
+    "formattedSearchTime": "0.28",
+    "totalResults": "2070000000",
+    "formattedTotalResults": "2,070,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Star Toe Touch Sit Ups | Workout guide, Oblique workout, Exercise",
+      "htmlTitle": "Star Toe Touch \u003cb\u003eSit Ups\u003c/b\u003e | \u003cb\u003eWorkout\u003c/b\u003e guide, Oblique \u003cb\u003eworkout\u003c/b\u003e, \u003cb\u003eExercise\u003c/b\u003e",
+      "link": "https://i.pinimg.com/originals/24/04/e4/2404e4fc18ca742fae9964c927c84788.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Star Toe Touch Sit Ups | Workout guide, Oblique workout, Exercise",
+      "htmlSnippet": "Star Toe Touch \u003cb\u003eSit Ups\u003c/b\u003e | \u003cb\u003eWorkout\u003c/b\u003e guide, Oblique \u003cb\u003eworkout\u003c/b\u003e, \u003cb\u003eExercise\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/28780885101361268/",
+        "height": 720,
+        "width": 1080,
+        "byteSize": 36241,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttstJM1c5R_XnyprmN3eqojZy024XwX5dXiXXDPaJfL1cGNzi2sS3TOch&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Situps Sport Exercises Stage Situp Exercises Stock Vector (Royalty ...",
+      "htmlTitle": "\u003cb\u003eSitups\u003c/b\u003e Sport \u003cb\u003eExercises\u003c/b\u003e Stage Situp \u003cb\u003eExercises\u003c/b\u003e Stock Vector (Royalty ...",
+      "link": "https://image.shutterstock.com/image-vector/situps-sport-exercises-stage-situp-600w-733545670.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Situps Sport Exercises Stage Situp Exercises Stock Vector (Royalty ...",
+      "htmlSnippet": "\u003cb\u003eSitups\u003c/b\u003e Sport \u003cb\u003eExercises\u003c/b\u003e Stage Situp \u003cb\u003eExercises\u003c/b\u003e Stock Vector (Royalty ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-vector/situps-sport-exercises-stage-sit-free-733545670",
+        "height": 620,
+        "width": 600,
+        "byteSize": 28512,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8jKax1ojfhwu_G9338KeCXOYh9A_38Ls2tUL2KxdsQKTZpMsMECUrweH5SA&s",
+        "thumbnailHeight": 136,
+        "thumbnailWidth": 132
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Abs - Bodyweight Sit Up - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Abs - Bodyweight \u003cb\u003eSit Up\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1424405/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Abs - Bodyweight Sit Up - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Abs - Bodyweight \u003cb\u003eSit Up\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/30651-abs---bodyweight-sit-up-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 14517,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZcCh54TFg-Y7KZFTJ9xTLvMKNVtK6XKMHZiW2Ti05HsC8v1qUyCDr3u2&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Core: Full Sit-Ups | 25 No-Equipment Moves That Transform Your ...",
+      "htmlTitle": "Core: Full \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e | 25 No-Equipment Moves That Transform Your ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/rYl65QpSWf-082ClXw2nRl1OOIo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/03/17/884/n/1922729/79bc07ee5cb226ab_woman-doing-sit-ups/i/Core-Full-Sit-Ups.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Core: Full Sit-Ups | 25 No-Equipment Moves That Transform Your ...",
+      "htmlSnippet": "Core: Full \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e | 25 No-Equipment Moves That Transform Your ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/34376556/image/34377573/Core-Full-Sit-Ups",
+        "height": 1100,
+        "width": 1100,
+        "byteSize": 72279,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_I8tf-BWkbzUa0X7u_akrZzVPqJrdoDVd2PRf7E3SjhrPRLO6j6SpfQRp4g&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Kimura Sit-Ups - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Kimura \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/21393/skimble-workout-trainer-exercise-kimura-sit-ups-2_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Kimura Sit-Ups - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Kimura \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/1811-kimura-sit-ups-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 34512,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR40ek9lanK2h0dB-u6tSGiTBpM5yXgrYzZKNPQMOeVV7YnL2D8dK2-SYkd&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Exercise Library: L Sit-Ups - YouTube",
+      "htmlTitle": "\u003cb\u003eExercise\u003c/b\u003e Library: L \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/GmrgJGwmBFY/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Exercise Library: L Sit-Ups - YouTube",
+      "htmlSnippet": "\u003cb\u003eExercise\u003c/b\u003e Library: L \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=GmrgJGwmBFY",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 40377,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqMcv7A0mb-7gBsRuVLXYPQyTK3i1W20ENimVLCbTgL0PEbkLXowITxps&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Butterfly Situps - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Butterfly \u003cb\u003eSitups\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1150369/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Butterfly Situps - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Butterfly \u003cb\u003eSitups\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/22567-butterfly-situps-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 27170,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDtGWkrP-qCFM1OLn_zaLC29rDXnvshKftFRB8s0hvC9spG9YBdiQpzNnJg&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How To Do Full Sit-Up",
+      "htmlTitle": "How To Do Full \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUp\u003c/b\u003e",
+      "link": "https://3i133rqau023qjc1k3txdvr1-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/Full-Sit-Up_Exercise.jpg",
+      "displayLink": "gethealthyu.com",
+      "snippet": "How To Do Full Sit-Up",
+      "htmlSnippet": "How To Do Full \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUp\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://gethealthyu.com/exercise/full-sit-up/",
+        "height": 515,
+        "width": 500,
+        "byteSize": 27876,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0SAfR6GCxlbvLorlww2rz7aR88Jj8hw4FJQBeFT0ulMzeuDBjaNu7CsM&s",
+        "thumbnailHeight": 131,
+        "thumbnailWidth": 127
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Sit Ups with Ball Zig Zags - Exercise How-to - Workout Trainer by ...",
+      "htmlTitle": "\u003cb\u003eSit Ups\u003c/b\u003e with Ball Zig Zags - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by ...",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/13040/skimble-workout-trainer-exercise-sit-ups-with-ball-zig-zags-7_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Sit Ups with Ball Zig Zags - Exercise How-to - Workout Trainer by ...",
+      "htmlSnippet": "\u003cb\u003eSit Ups\u003c/b\u003e with Ball Zig Zags - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/1758-sit-ups-with-ball-zig-zags-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 24769,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTmn-0fJYU2y3pyjXWnz9pnNWz7DxabmTfl3X4CUkIwwJbE7whnKZckYOoWA&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Standing Sit Ups | Extreme ab workout, Abs workout, Abs workout ...",
+      "htmlTitle": "Standing \u003cb\u003eSit Ups\u003c/b\u003e | Extreme ab \u003cb\u003eworkout\u003c/b\u003e, Abs \u003cb\u003eworkout\u003c/b\u003e, Abs \u003cb\u003eworkout\u003c/b\u003e ...",
+      "link": "https://i.pinimg.com/originals/2a/4c/e1/2a4ce17ab65eab0531065bc78dbb4b94.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Standing Sit Ups | Extreme ab workout, Abs workout, Abs workout ...",
+      "htmlSnippet": "Standing \u003cb\u003eSit Ups\u003c/b\u003e | Extreme ab \u003cb\u003eworkout\u003c/b\u003e, Abs \u003cb\u003eworkout\u003c/b\u003e, Abs \u003cb\u003eworkout\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/522839837961610311/",
+        "height": 450,
+        "width": 650,
+        "byteSize": 23584,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gImGg2oTu_y7B_H3d3QbZ0_RJ6th8Pn-OTxpNiolk6WOqKedujMkjbIW&s",
+        "thumbnailHeight": 95,
+        "thumbnailWidth": 137
+      }
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - shoulder taps exercise",
+        "totalResults": "1050000000",
+        "searchTerms": "shoulder taps exercise",
+        "count": 10,
+        "startIndex": 10,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - shoulder taps exercise",
+        "totalResults": "1050000000",
+        "searchTerms": "shoulder taps exercise",
+        "count": 10,
+        "startIndex": 20,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - shoulder taps exercise",
+        "totalResults": "1050000000",
+        "searchTerms": "shoulder taps exercise",
+        "count": 10,
+        "startIndex": 30,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.230348,
+    "formattedSearchTime": "0.23",
+    "totalResults": "1050000000",
+    "formattedTotalResults": "1,050,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Partner Push-Ups with Shoulder Taps - Exercise How-to - Workout ...",
+      "htmlTitle": "Partner Push-Ups with \u003cb\u003eShoulder Taps\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e ...",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/51564/skimble-workout-trainer-exercise-partner-push-ups-with-shoulder-taps-1_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Partner Push-Ups with Shoulder Taps - Exercise How-to - Workout ...",
+      "htmlSnippet": "Partner Push-Ups with \u003cb\u003eShoulder Taps\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/2118-partner-push-ups-with-shoulder-taps-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 35472,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0MaJiKX0BdT3VrQ5uUXzwgBWaR7czk_ZhSmVZBZZdo0eQFt1fa6Ou4_3C&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Resilient Performance PT - Bear Shoulder Taps - YouTube",
+      "htmlTitle": "Resilient Performance PT - Bear \u003cb\u003eShoulder Taps\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/jGgx4LoMRlY/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Resilient Performance PT - Bear Shoulder Taps - YouTube",
+      "htmlSnippet": "Resilient Performance PT - Bear \u003cb\u003eShoulder Taps\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=jGgx4LoMRlY",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 151380,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcN5CjcPOhbGVb377kpXklOkW8YLetV1Zrr-tREFYu0H5iaNJGDCIXlVk&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Plank with Shoulder Taps - Exercise How-to - Workout Trainer by ...",
+      "htmlTitle": "Plank with \u003cb\u003eShoulder Taps\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by ...",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/4093/skimble-workout-trainer-exercise-plank-with-shoulder-taps-3_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Plank with Shoulder Taps - Exercise How-to - Workout Trainer by ...",
+      "htmlSnippet": "Plank with \u003cb\u003eShoulder Taps\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/1037-plank-with-shoulder-taps-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 23766,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnWsVCfCL360oi6IBbU5YKH3qR8rTRpRh6CZpdNMm6I8NuwzZmKuxoO6He&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Plank Shoulder Taps. Sport Exersice. Silhouettes Of Woman Doing ...",
+      "htmlTitle": "Plank \u003cb\u003eShoulder Taps\u003c/b\u003e. Sport Exersice. Silhouettes Of Woman Doing ...",
+      "link": "https://previews.123rf.com/images/comotomo/comotomo1901/comotomo190100407/115269453-plank-shoulder-taps-sport-exersice-silhouettes-of-woman-doing-exercise-workout-training-vector-illus.jpg",
+      "displayLink": "www.123rf.com",
+      "snippet": "Plank Shoulder Taps. Sport Exersice. Silhouettes Of Woman Doing ...",
+      "htmlSnippet": "Plank \u003cb\u003eShoulder Taps\u003c/b\u003e. Sport Exersice. Silhouettes Of Woman Doing ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.123rf.com/photo_115269453_stock-vector-plank-shoulder-taps-sport-exersice-silhouettes-of-woman-doing-exercise-workout-training-vector-illus.html",
+        "height": 1300,
+        "width": 1300,
+        "byteSize": 105414,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkb2yQrokdk9rJIUjUu1hUVmXs3-Kn_P6eiILgPK7btz_Jvh5QC-PM7mTlg&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Shoulder tap push-up | Workout guide, Ectomorph workout, Chest ...",
+      "htmlTitle": "\u003cb\u003eShoulder tap\u003c/b\u003e push-up | \u003cb\u003eWorkout\u003c/b\u003e guide, Ectomorph \u003cb\u003eworkout\u003c/b\u003e, Chest ...",
+      "link": "https://i.pinimg.com/originals/eb/30/99/eb3099247d7d5cc40e595d562b3748c9.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Shoulder tap push-up | Workout guide, Ectomorph workout, Chest ...",
+      "htmlSnippet": "\u003cb\u003eShoulder tap\u003c/b\u003e push-up | \u003cb\u003eWorkout\u003c/b\u003e guide, Ectomorph \u003cb\u003eworkout\u003c/b\u003e, Chest ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/707698528918767271/",
+        "height": 439,
+        "width": 474,
+        "byteSize": 34962,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGQsFT32QTVP4vVe0IcmDKIA5gmWcgCsdXi0BBpsyKrgnXGg6EYnVQdSo&s",
+        "thumbnailHeight": 119,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Fitness Exercise Shoulder Taps Work Out Stock Vector (Royalty Free ...",
+      "htmlTitle": "Fitness \u003cb\u003eExercise Shoulder Taps\u003c/b\u003e Work Out Stock Vector (Royalty Free ...",
+      "link": "https://image.shutterstock.com/image-vector/fitness-exercise-shoulder-taps-work-260nw-1260367933.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Fitness Exercise Shoulder Taps Work Out Stock Vector (Royalty Free ...",
+      "htmlSnippet": "Fitness \u003cb\u003eExercise Shoulder Taps\u003c/b\u003e Work Out Stock Vector (Royalty Free ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-vector/fitness-exercise-shoulder-taps-work-out-1260367933",
+        "height": 280,
+        "width": 260,
+        "byteSize": 5451,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Fvg2zEgxJ5zimoOmEDkrT8HZiXmkvoVwcdeAQ0vQBy8dNIaxzL9odQ&s",
+        "thumbnailHeight": 114,
+        "thumbnailWidth": 106
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Partner Push-Ups with Shoulder Taps - Exercise How-to - Workout ...",
+      "htmlTitle": "Partner Push-Ups with \u003cb\u003eShoulder Taps\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e ...",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/51572/skimble-workout-trainer-exercise-partner-push-ups-with-shoulder-taps-2_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Partner Push-Ups with Shoulder Taps - Exercise How-to - Workout ...",
+      "htmlSnippet": "Partner Push-Ups with \u003cb\u003eShoulder Taps\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/2118-partner-push-ups-with-shoulder-taps-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 35913,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQFin1fxWA5laVAyEqhyrBxsn5jCdGHKPS8PmHgN2qgzrRMCUcGdtPpivow&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to do Plank With Shoulder Tap | Joanna Soh - YouTube",
+      "htmlTitle": "How to do Plank With \u003cb\u003eShoulder Tap\u003c/b\u003e | Joanna Soh - YouTube",
+      "link": "https://i.ytimg.com/vi/0PrTUpElJ44/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "How to do Plank With Shoulder Tap | Joanna Soh - YouTube",
+      "htmlSnippet": "How to do Plank With \u003cb\u003eShoulder Tap\u003c/b\u003e | Joanna Soh - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=0PrTUpElJ44",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 63977,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJl4_sRErDM1MuQkqkEy_CjMwYxSaaAmzDVXJigfa4EwA22au7zfwy7MUY&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Looking to Up Your Plank Game? Try This Shoulder Tap Exercise ...",
+      "htmlTitle": "Looking to Up Your Plank Game? Try This \u003cb\u003eShoulder Tap Exercise\u003c/b\u003e ...",
+      "link": "https://bodymindbeautyhealth.files.wordpress.com/2015/03/shouldertapplank.jpg",
+      "displayLink": "bodymindbeautyhealth.wordpress.com",
+      "snippet": "Looking to Up Your Plank Game? Try This Shoulder Tap Exercise ...",
+      "htmlSnippet": "Looking to Up Your Plank Game? Try This \u003cb\u003eShoulder Tap Exercise\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://bodymindbeautyhealth.wordpress.com/2015/03/24/looking-to-up-your-plank-game-try-this-shoulder-tap-exercise/",
+        "height": 798,
+        "width": 1147,
+        "byteSize": 24758,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8YGsYLwQb4IM-NBJ3Gv-iWIHNxHga8NhKAxHmBAN4LakDQL-rlZuBX8IQ&s",
+        "thumbnailHeight": 104,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Beast Shoulder Taps - YouTube",
+      "htmlTitle": "Beast \u003cb\u003eShoulder Taps\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/M0dc2tH9mHQ/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Beast Shoulder Taps - YouTube",
+      "htmlSnippet": "Beast \u003cb\u003eShoulder Taps\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=M0dc2tH9mHQ",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 164242,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdUD929CpIg5_kS7ZWElIQhahR5uVTHrpPnG0rSz5D-SZFxavwpJAs8s&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    }
+  ]
+}

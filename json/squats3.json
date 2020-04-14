@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - squats exercise",
+        "totalResults": "304000000",
+        "searchTerms": "squats exercise",
+        "count": 10,
+        "startIndex": 20,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - squats exercise",
+        "totalResults": "304000000",
+        "searchTerms": "squats exercise",
+        "count": 10,
+        "startIndex": 30,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - squats exercise",
+        "totalResults": "304000000",
+        "searchTerms": "squats exercise",
+        "count": 10,
+        "startIndex": 40,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.379856,
+    "formattedSearchTime": "0.38",
+    "totalResults": "304000000",
+    "formattedTotalResults": "304,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Squat Man Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eSquat\u003c/b\u003e Man Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-vector/man-making-squats-exercise-butt-260nw-1348704479.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Squat Man Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eSquat\u003c/b\u003e Man Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/squat+man",
+        "height": 280,
+        "width": 260,
+        "byteSize": 8907,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoHpZemzYeagRdVeQG05CX4xYDD9-v1P193Z9OljEUIL87CSmYYabc5w&s",
+        "thumbnailHeight": 114,
+        "thumbnailWidth": 106
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Most Effective Squat Challenge: 100 Rep Fitness Blender Squat ...",
+      "htmlTitle": "The Most Effective \u003cb\u003eSquat\u003c/b\u003e Challenge: 100 Rep Fitness Blender \u003cb\u003eSquat\u003c/b\u003e ...",
+      "link": "https://i.ytimg.com/vi/mGvzVjuY8SY/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "The Most Effective Squat Challenge: 100 Rep Fitness Blender Squat ...",
+      "htmlSnippet": "The Most Effective \u003cb\u003eSquat\u003c/b\u003e Challenge: 100 Rep Fitness Blender \u003cb\u003eSquat\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=mGvzVjuY8SY",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 42321,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGRbyFNjZZgusrX0QFHFj5rb0v4TqPBAQMpyVf8DTkpZSClbSTP3e4V7U&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pin on big booty hoes come wit it",
+      "htmlTitle": "Pin on big booty hoes come wit it",
+      "link": "https://i.pinimg.com/originals/85/0e/33/850e337cfe81bd1efabc77a6ab3fa6bc.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Pin on big booty hoes come wit it",
+      "htmlSnippet": "Pin on big booty hoes come wit it",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/70720656621570791/",
+        "height": 3504,
+        "width": 3896,
+        "byteSize": 976750,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAfhZx4zN2gK8UhHmXdtipsMZyyA_PjpBdFj7J6hkB7lnRRYV2lJ3c_TuW&s",
+        "thumbnailHeight": 135,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Squats Exercise Vector Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eSquats Exercise\u003c/b\u003e Vector Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-vector/correct-step-doing-workout-squat-260nw-715198879.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Squats Exercise Vector Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eSquats Exercise\u003c/b\u003e Vector Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/squats+exercise+vector",
+        "height": 280,
+        "width": 374,
+        "byteSize": 8174,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsdc1qltATi9znSOVOBqMa_bE2shT9xBX2GBPmoXic-l6SDcP-J4tqEA&s",
+        "thumbnailHeight": 91,
+        "thumbnailWidth": 122
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Leg exercise - wall squats - YouTube",
+      "htmlTitle": "Leg \u003cb\u003eexercise\u003c/b\u003e - wall \u003cb\u003esquats\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/3J99J5NxNSQ/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Leg exercise - wall squats - YouTube",
+      "htmlSnippet": "Leg \u003cb\u003eexercise\u003c/b\u003e - wall \u003cb\u003esquats\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=3J99J5NxNSQ",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 18325,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjNSIU7oM08dwNkVcQ3pXk7qZEeQUk0d-IoN3425xf6j-3NetLaYpR2zU&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Squat | Illustrated Exercise Guide",
+      "htmlTitle": "\u003cb\u003eSquat\u003c/b\u003e | Illustrated \u003cb\u003eExercise\u003c/b\u003e Guide",
+      "link": "https://www.cdn.spotebi.com/wp-content/uploads/2014/10/squat-exercise-illustration.jpg",
+      "displayLink": "www.spotebi.com",
+      "snippet": "Squat | Illustrated Exercise Guide",
+      "htmlSnippet": "\u003cb\u003eSquat\u003c/b\u003e | Illustrated \u003cb\u003eExercise\u003c/b\u003e Guide",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.spotebi.com/exercise-guide/squat/",
+        "height": 720,
+        "width": 1080,
+        "byteSize": 54917,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDnyDMM3iDCHuJgqFiRCRtx3yGSf9-7xtV1kJTQkByyPs7ZG5y9wjOY28&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How To Do a Basic Squat - Get Healthy U",
+      "htmlTitle": "How To Do a Basic \u003cb\u003eSquat\u003c/b\u003e - Get Healthy U",
+      "link": "https://gethealthyu.com/wp-content/uploads/2014/09/Basic-Squat_Exercise.jpg",
+      "displayLink": "gethealthyu.com",
+      "snippet": "How To Do a Basic Squat - Get Healthy U",
+      "htmlSnippet": "How To Do a Basic \u003cb\u003eSquat\u003c/b\u003e - Get Healthy U",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://gethealthyu.com/exercise/basic-squat/",
+        "height": 500,
+        "width": 450,
+        "byteSize": 31309,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZy4mAZMhoUJfQ4UL1P2NYplfmJFoK5NNeRbDAgDqSow5iDQeTY-SdiJG&s",
+        "thumbnailHeight": 130,
+        "thumbnailWidth": 117
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Woman Doing Plie Squats Exercise Workout Stock Vector (Royalty ...",
+      "htmlTitle": "Woman Doing Plie \u003cb\u003eSquats Exercise Workout\u003c/b\u003e Stock Vector (Royalty ...",
+      "link": "https://image.shutterstock.com/image-vector/woman-doing-plie-squats-exercise-260nw-1438773191.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Woman Doing Plie Squats Exercise Workout Stock Vector (Royalty ...",
+      "htmlSnippet": "Woman Doing Plie \u003cb\u003eSquats Exercise Workout\u003c/b\u003e Stock Vector (Royalty ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-vector/woman-doing-plie-squats-exercise-workout-1438773191",
+        "height": 280,
+        "width": 260,
+        "byteSize": 7904,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh_OlSrCIPFp2NaraQi33vKrUvQQmmoL5SiqfMqOmwTA7g_8v_GqVFFdM&s",
+        "thumbnailHeight": 114,
+        "thumbnailWidth": 106
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Squat Exercise",
+      "htmlTitle": "\u003cb\u003eSquat Exercise\u003c/b\u003e",
+      "link": "https://i.pinimg.com/236x/74/e7/a8/74e7a84fc6d6fb967860d4ce64460966--butt-workouts-fitness-workouts.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Squat Exercise",
+      "htmlSnippet": "\u003cb\u003eSquat Exercise\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/Glory2God18/squat-exercise/",
+        "height": 728,
+        "width": 236,
+        "byteSize": 41453,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRlom7mpBZ0GdXg5GkipWNsxPQ_MAdGTJluAuIoT7s88A9mw34nY63lA&s",
+        "thumbnailHeight": 141,
+        "thumbnailWidth": 46
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Woman Doing Sports Exercises Wide Squats Stock Illustration 1503081899",
+      "htmlTitle": "Woman Doing Sports \u003cb\u003eExercises\u003c/b\u003e Wide \u003cb\u003eSquats\u003c/b\u003e Stock Illustration 1503081899",
+      "link": "https://image.shutterstock.com/image-illustration/woman-doing-sports-exercises-wide-600w-1503081899.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Woman Doing Sports Exercises Wide Squats Stock Illustration 1503081899",
+      "htmlSnippet": "Woman Doing Sports \u003cb\u003eExercises\u003c/b\u003e Wide \u003cb\u003eSquats\u003c/b\u003e Stock Illustration 1503081899",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-illustration/woman-doing-sports-exercises-wide-squats-1503081899",
+        "height": 438,
+        "width": 600,
+        "byteSize": 34591,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkQkZXzsvVTxVGNOJLlWwo2MvtRktEJNCkEfOFpouHvetpD2UNibhom4&s",
+        "thumbnailHeight": 99,
+        "thumbnailWidth": 135
+      }
+    }
+  ]
+}

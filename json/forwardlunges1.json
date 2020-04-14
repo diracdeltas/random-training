@@ -1,0 +1,264 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - forward lunges exercise",
+        "totalResults": "127000000",
+        "searchTerms": "forward lunges exercise",
+        "count": 10,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - forward lunges exercise",
+        "totalResults": "127000000",
+        "searchTerms": "forward lunges exercise",
+        "count": 10,
+        "startIndex": 10,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - forward lunges exercise",
+        "totalResults": "127000000",
+        "searchTerms": "forward lunges exercise",
+        "count": 10,
+        "startIndex": 20,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.590681,
+    "formattedSearchTime": "0.59",
+    "totalResults": "127000000",
+    "formattedTotalResults": "127,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Forward Backwards Jump Lunges - Exercise How-to - Workout Trainer ...",
+      "htmlTitle": "\u003cb\u003eForward\u003c/b\u003e Backwards Jump \u003cb\u003eLunges\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer ...",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1412486/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Forward Backwards Jump Lunges - Exercise How-to - Workout Trainer ...",
+      "htmlSnippet": "\u003cb\u003eForward\u003c/b\u003e Backwards Jump \u003cb\u003eLunges\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/30263-forward-backwards-jump-lunges-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 23607,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnuMmS33LTu_7unbKCfnf3kOb_qXdoUoNG1qAH2tCmUC1ji5bD-48JjjS7zQ&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Lunges | Illustrated Exercise Guide",
+      "htmlTitle": "\u003cb\u003eLunges\u003c/b\u003e | Illustrated \u003cb\u003eExercise\u003c/b\u003e Guide",
+      "link": "https://www.cdn.spotebi.com/wp-content/uploads/2014/10/lunges-exercise-illustration.jpg",
+      "displayLink": "www.spotebi.com",
+      "snippet": "Lunges | Illustrated Exercise Guide",
+      "htmlSnippet": "\u003cb\u003eLunges\u003c/b\u003e | Illustrated \u003cb\u003eExercise\u003c/b\u003e Guide",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.spotebi.com/exercise-guide/lunges/",
+        "height": 720,
+        "width": 1080,
+        "byteSize": 48596,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjiI9CTzLhZJAXDopjt5gGHSy0hE96uXP1ktjzeEqfy5ZRjtTaXVKcknjs&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Exercise 1: Forward Lunge",
+      "htmlTitle": "\u003cb\u003eExercise\u003c/b\u003e 1: \u003cb\u003eForward Lunge\u003c/b\u003e",
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wm-el-forward-lunge-1441032989.jpg?resize=480:*",
+      "displayLink": "www.womenshealthmag.com",
+      "snippet": "Exercise 1: Forward Lunge",
+      "htmlSnippet": "\u003cb\u003eExercise\u003c/b\u003e 1: \u003cb\u003eForward Lunge\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.womenshealthmag.com/fitness/exercise-1-forward-lunge",
+        "height": 300,
+        "width": 300,
+        "byteSize": 8479,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWqzGaqnk5FD6y63WJLzSGSj4Kb-TSz6W7d9jjALyOVhRWa6jvDrcuQ&s",
+        "thumbnailHeight": 116,
+        "thumbnailWidth": 116
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Forward Lunge With Bicep Curl | If You Want to Burn Fat and Grow ...",
+      "htmlTitle": "\u003cb\u003eForward Lunge\u003c/b\u003e With Bicep Curl | If You Want to Burn Fat and Grow ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/fdxO83y9x1eHKwgWiQspRyVbLGc/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/03/12/804/n/1922729/d38d34ed5aa6c459184cb3.42867458_Alternating-lunge-with-hammer-curl/i/Forward-Lunge-Bicep-Curl.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Forward Lunge With Bicep Curl | If You Want to Burn Fat and Grow ...",
+      "htmlSnippet": "\u003cb\u003eForward Lunge\u003c/b\u003e With Bicep Curl | If You Want to Burn Fat and Grow ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/44736761/image/44855398/Forward-Lunge-Bicep-Curl",
+        "height": 1723,
+        "width": 2048,
+        "byteSize": 146279,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8n9NNsyy8iy6bdUtVH5jD0IBbDp25OBmpd0BWGdug4UfbxlyQwTPk_wf&s",
+        "thumbnailHeight": 126,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "5 Different Lunges to Try",
+      "htmlTitle": "5 Different \u003cb\u003eLunges\u003c/b\u003e to Try",
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/766/images/new-lunges-02-1492274161.jpg?resize=480:*",
+      "displayLink": "www.womenshealthmag.com",
+      "snippet": "5 Different Lunges to Try",
+      "htmlSnippet": "5 Different \u003cb\u003eLunges\u003c/b\u003e to Try",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.womenshealthmag.com/fitness/a19983441/new-lunge-exercises/",
+        "height": 576,
+        "width": 480,
+        "byteSize": 24503,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsKBBJTSbWXJkr5gkZi6HbFxx_o3ct3Cnd43L_57uwTNn9Jt-8UCwCwEGi&s",
+        "thumbnailHeight": 134,
+        "thumbnailWidth": 112
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Do the Perfect Forward Lunge | Openfit",
+      "htmlTitle": "How to Do the Perfect \u003cb\u003eForward Lunge\u003c/b\u003e | Openfit",
+      "link": "https://cdn.prod.openfit.com/uploads/2016/07/13103937/forward-lunge-dumbbell-man.jpg",
+      "displayLink": "www.openfit.com",
+      "snippet": "How to Do the Perfect Forward Lunge | Openfit",
+      "htmlSnippet": "How to Do the Perfect \u003cb\u003eForward Lunge\u003c/b\u003e | Openfit",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.openfit.com/how-to-do-the-perfect-forward-lunge",
+        "height": 1000,
+        "width": 2000,
+        "byteSize": 50803,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReglpzNfuUj8rtRWeKCM8NAiB0FHDaPCTrLy777U80rrAJUx-zmOiJZwFm&s",
+        "thumbnailHeight": 75,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Forward Lunge - DIME Injury Prevention",
+      "htmlTitle": "\u003cb\u003eForward Lunge\u003c/b\u003e - DIME Injury Prevention",
+      "link": "http://dimeinjuryprevention.weebly.com/uploads/2/6/3/8/26386850/header_images/1392931259.jpg",
+      "displayLink": "dimeinjuryprevention.weebly.com",
+      "snippet": "Forward Lunge - DIME Injury Prevention",
+      "htmlSnippet": "\u003cb\u003eForward Lunge\u003c/b\u003e - DIME Injury Prevention",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://dimeinjuryprevention.weebly.com/forward-lunge.html",
+        "height": 292,
+        "width": 872,
+        "byteSize": 27400,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6DvdwWeY4-d7VWz1njd86bGE7rO9p5ngvygjQj-FtdlOkicT9OXuA02MH&s",
+        "thumbnailHeight": 49,
+        "thumbnailWidth": 146
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Demonstration Wood Manikin Forward Lunges Exercise | Sports ...",
+      "htmlTitle": "Demonstration Wood Manikin \u003cb\u003eForward Lunges Exercise\u003c/b\u003e | Sports ...",
+      "link": "https://image.shutterstock.com/z/stock-photo-demonstration-of-wood-manikin-in-forward-lunges-exercise-pose-on-white-background-603528053.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Demonstration Wood Manikin Forward Lunges Exercise | Sports ...",
+      "htmlSnippet": "Demonstration Wood Manikin \u003cb\u003eForward Lunges Exercise\u003c/b\u003e | Sports ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-photo/demonstration-wood-manikin-forward-lunges-exercise-603528053",
+        "height": 1600,
+        "width": 1500,
+        "byteSize": 319806,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3OkNb3aqoKbJqIXR-rUyLtlB9OO36jXs0R-EekT_0V80HlAOR9mJ9Qxsvvg&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 141
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Forward Lunge Like a Pro | Lunges, Leg workout at home, 7 min workout",
+      "htmlTitle": "\u003cb\u003eForward Lunge\u003c/b\u003e Like a Pro | \u003cb\u003eLunges\u003c/b\u003e, Leg \u003cb\u003eworkout\u003c/b\u003e at home, 7 min \u003cb\u003eworkout\u003c/b\u003e",
+      "link": "https://i.pinimg.com/originals/5d/00/2d/5d002d90baa85a64c9cd1984322d23ac.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Forward Lunge Like a Pro | Lunges, Leg workout at home, 7 min workout",
+      "htmlSnippet": "\u003cb\u003eForward Lunge\u003c/b\u003e Like a Pro | \u003cb\u003eLunges\u003c/b\u003e, Leg \u003cb\u003eworkout\u003c/b\u003e at home, 7 min \u003cb\u003eworkout\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/207939707780938990/",
+        "height": 744,
+        "width": 558,
+        "byteSize": 51498,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtY3JqHpp-rRChSkPZ38rIijAVuLyKDPVd3FukxT0iwHqELxdXwL9LEy2J&s",
+        "thumbnailHeight": 141,
+        "thumbnailWidth": 106
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Forward Lunges Swiss Ball Vector Illustration Stock Vector ...",
+      "htmlTitle": "\u003cb\u003eForward Lunges\u003c/b\u003e Swiss Ball Vector Illustration Stock Vector ...",
+      "link": "https://image.shutterstock.com/image-vector/forward-lunges-swiss-ball-vector-600w-1483963637.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Forward Lunges Swiss Ball Vector Illustration Stock Vector ...",
+      "htmlSnippet": "\u003cb\u003eForward Lunges\u003c/b\u003e Swiss Ball Vector Illustration Stock Vector ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-vector/forward-lunges-swiss-ball-vector-illustration-1483963637",
+        "height": 620,
+        "width": 600,
+        "byteSize": 32148,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLKLCzU2ODBjGZ7_qqV1pRilC70pWyNCBiENLvuO3ehoNdZbZvt8c2CG-GA&s",
+        "thumbnailHeight": 136,
+        "thumbnailWidth": 132
+      }
+    }
+  ]
+}

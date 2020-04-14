@@ -1,0 +1,264 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - leg raises exercise",
+        "totalResults": "1630000000",
+        "searchTerms": "leg raises exercise",
+        "count": 10,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - leg raises exercise",
+        "totalResults": "1630000000",
+        "searchTerms": "leg raises exercise",
+        "count": 10,
+        "startIndex": 10,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - leg raises exercise",
+        "totalResults": "1630000000",
+        "searchTerms": "leg raises exercise",
+        "count": 10,
+        "startIndex": 20,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.821609,
+    "formattedSearchTime": "0.82",
+    "totalResults": "1630000000",
+    "formattedTotalResults": "1,630,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Leg Raises",
+      "htmlTitle": "\u003cb\u003eLeg Raises\u003c/b\u003e",
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0911-leg-raises-1441032989.jpg?resize=480:*",
+      "displayLink": "www.womenshealthmag.com",
+      "snippet": "Leg Raises",
+      "htmlSnippet": "\u003cb\u003eLeg Raises\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.womenshealthmag.com/fitness/a20697369/leg-raises/",
+        "height": 480,
+        "width": 480,
+        "byteSize": 18791,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFfYp0xxWSYfnMUeIJhN1-aNaoaRLpHAFM9EBFa63jTgo0HQ15jQD266EPvg&s",
+        "thumbnailHeight": 129,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Do These 9 Exercises to Strengthen Weak Knees | Knee strengthening ...",
+      "htmlTitle": "Do These 9 Exercises to Strengthen Weak Knees | \u003cb\u003eKnee\u003c/b\u003e strengthening ...",
+      "link": "https://i.pinimg.com/600x315/a8/b7/e5/a8b7e50c93edb28f209bf919539279ea.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Do These 9 Exercises to Strengthen Weak Knees | Knee strengthening ...",
+      "htmlSnippet": "Do These 9 Exercises to Strengthen Weak Knees | \u003cb\u003eKnee\u003c/b\u003e strengthening ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/222928250290449516/",
+        "height": 281,
+        "width": 500,
+        "byteSize": 6684,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBGs9LWZboWVDsDb2ffMbXB_T8SzeNRx4WYsT8mRWQHzeHVtrd6b2TzIx&s",
+        "thumbnailHeight": 73,
+        "thumbnailWidth": 130
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Alternating Leg Raise - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Alternating \u003cb\u003eLeg Raise\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1170885/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Alternating Leg Raise - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Alternating \u003cb\u003eLeg Raise\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/23072-alternating-leg-raise-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 17996,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyNqiw69hjaKHn3vewvbkuBoX1etwrJsYF7jo5boWQ-82vigNTxupQAaxz&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Exercise Library: Plank Leg Raises - YouTube",
+      "htmlTitle": "\u003cb\u003eExercise\u003c/b\u003e Library: Plank \u003cb\u003eLeg Raises\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/IexgiQZetb8/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Exercise Library: Plank Leg Raises - YouTube",
+      "htmlSnippet": "\u003cb\u003eExercise\u003c/b\u003e Library: Plank \u003cb\u003eLeg Raises\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=IexgiQZetb8",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 46399,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTue2Apq5BLk8eM7uKpcMyvVUAR9G-VAr5pRLJObb6avFszC0vNSn9oPKc&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Straight Leg Raise - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Straight \u003cb\u003eLeg Raise\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1389108/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Straight Leg Raise - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Straight \u003cb\u003eLeg Raise\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/29454-straight-leg-raise-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 13670,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgE7PCJQLa0W6hanS5wFpH0H-tZOc_WOpJz9Cb_Y3ZZcHxAC6zfPu0GrCzTw&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Leg Raise Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eLeg Raise\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-vector/woman-doing-straightleg-raises-outside-260nw-1095552173.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Leg Raise Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eLeg Raise\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/leg+raise",
+        "height": 280,
+        "width": 380,
+        "byteSize": 9779,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZms1XdeltFsRPk9ziUJ-bMJ3gr9CN9hH527eb5Yqu1CaOjfkqZqxxMQ&s",
+        "thumbnailHeight": 91,
+        "thumbnailWidth": 123
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Standing Side-Leg Raises | This Is the Easiest 30-Minute ...",
+      "htmlTitle": "Standing Side-\u003cb\u003eLeg Raises\u003c/b\u003e | This Is the Easiest 30-Minute ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/aNJzo1YHYq-C1R0Ytyw2LV5yG0A/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/01/12/839/n/44223267/06c3dfc01a32bcd1_sidelegraisescrop_edited-1/i/Standing-Side-Leg-Raises.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Standing Side-Leg Raises | This Is the Easiest 30-Minute ...",
+      "htmlSnippet": "Standing Side-\u003cb\u003eLeg Raises\u003c/b\u003e | This Is the Easiest 30-Minute ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/44497612/image/44497626/Standing-Side-Leg-Raises",
+        "height": 1636,
+        "width": 2048,
+        "byteSize": 60769,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL_rkm-2L70VHxdp4zmJ_pqPWWVY24MiYQWbiIamG1zWnPeJwZw59ut4I&s",
+        "thumbnailHeight": 120,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Exercise Library: Side Leg Raises - YouTube",
+      "htmlTitle": "\u003cb\u003eExercise\u003c/b\u003e Library: Side \u003cb\u003eLeg Raises\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/H8RrfDOLiZU/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Exercise Library: Side Leg Raises - YouTube",
+      "htmlSnippet": "\u003cb\u003eExercise\u003c/b\u003e Library: Side \u003cb\u003eLeg Raises\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=H8RrfDOLiZU",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 39523,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7XjngsOy8Ix65ieeoyoD2m8DXggreeypgLoCM-hX5aDKFYvr5qUlIr5Y&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Alternate Seated Leg Raises - Exercise How-to - Workout Trainer by ...",
+      "htmlTitle": "Alternate Seated \u003cb\u003eLeg Raises\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by ...",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1436908/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Alternate Seated Leg Raises - Exercise How-to - Workout Trainer by ...",
+      "htmlSnippet": "Alternate Seated \u003cb\u003eLeg Raises\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/31107-alternate-seated-leg-raises-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 21454,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQc6s6OYduZGaafmXaeJ0PpsgCC7GWpG2o1XNOfnS9YJDP_HcSyF27ff3EPA&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Double Leg Lifts | This No-Equipment Workout Will Ignite Parts of ...",
+      "htmlTitle": "Double \u003cb\u003eLeg Lifts\u003c/b\u003e | This No-Equipment \u003cb\u003eWorkout\u003c/b\u003e Will Ignite Parts of ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/ihWsKhCzRX4oV66RYBsfxX7VlsY/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2017/05/09/939/n/1922729/2f920c2530db584f_Double-Leg-Lifts/i/Double-Leg-Lifts.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Double Leg Lifts | This No-Equipment Workout Will Ignite Parts of ...",
+      "htmlSnippet": "Double \u003cb\u003eLeg Lifts\u003c/b\u003e | This No-Equipment \u003cb\u003eWorkout\u003c/b\u003e Will Ignite Parts of ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/43519603/image/43519606/Double-Leg-Lifts",
+        "height": 711,
+        "width": 1024,
+        "byteSize": 27036,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRSDinNE0-_FQTeC_h4TM7YANc2PtJlW4RJP1_w56F3QauEuHWpxDq_TA&s",
+        "thumbnailHeight": 104,
+        "thumbnailWidth": 150
+      }
+    }
+  ]
+}

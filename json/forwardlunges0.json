@@ -1,0 +1,250 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - forward lunges exercise",
+        "totalResults": "127000000",
+        "searchTerms": "forward lunges exercise",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - forward lunges exercise",
+        "totalResults": "127000000",
+        "searchTerms": "forward lunges exercise",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.246545,
+    "formattedSearchTime": "0.25",
+    "totalResults": "127000000",
+    "formattedTotalResults": "127,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Exercise 1: Forward Lunge",
+      "htmlTitle": "\u003cb\u003eExercise\u003c/b\u003e 1: \u003cb\u003eForward Lunge\u003c/b\u003e",
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/wm-el-forward-lunge-1441032989.jpg",
+      "displayLink": "www.womenshealthmag.com",
+      "snippet": "Exercise 1: Forward Lunge",
+      "htmlSnippet": "\u003cb\u003eExercise\u003c/b\u003e 1: \u003cb\u003eForward Lunge\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.womenshealthmag.com/fitness/exercise-1-forward-lunge",
+        "height": 300,
+        "width": 300,
+        "byteSize": 9370,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZF5dPda2kZ_U4VlwAUY7MqYJxMC8qMGpzC4V7yxc9uUhrOz-d3lUcYw&s",
+        "thumbnailHeight": 116,
+        "thumbnailWidth": 116
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Do Alternating Forward Lunges - Get Healthy U",
+      "htmlTitle": "How to Do Alternating \u003cb\u003eForward Lunges\u003c/b\u003e - Get Healthy U",
+      "link": "https://3i133rqau023qjc1k3txdvr1-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/Alternating-Forward-Lunges_Exercise.jpg",
+      "displayLink": "gethealthyu.com",
+      "snippet": "How to Do Alternating Forward Lunges - Get Healthy U",
+      "htmlSnippet": "How to Do Alternating \u003cb\u003eForward Lunges\u003c/b\u003e - Get Healthy U",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://gethealthyu.com/exercise/alternating-forward-lunge/",
+        "height": 500,
+        "width": 750,
+        "byteSize": 45857,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDtl5Pd3-CZtjqZCeTKlFz9gPEDQMJnFPAyM6vaoNk2HlJGUPyOH-rLd8&s",
+        "thumbnailHeight": 94,
+        "thumbnailWidth": 141
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Forward Backward Lunge | The 14 Best Exercises For Leg Day ...",
+      "htmlTitle": "\u003cb\u003eForward\u003c/b\u003e Backward \u003cb\u003eLunge\u003c/b\u003e | The 14 Best \u003cb\u003eExercises\u003c/b\u003e For Leg Day ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/_jryyXHrOsIauEOw6FJ-9d8aziU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2017/03/06/622/n/1922729/0d933c6fc1c1394c_93fe9be856df29af_forward-backward-lunge/i/Forward-Backward-Lunge.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Forward Backward Lunge | The 14 Best Exercises For Leg Day ...",
+      "htmlSnippet": "\u003cb\u003eForward\u003c/b\u003e Backward \u003cb\u003eLunge\u003c/b\u003e | The 14 Best \u003cb\u003eExercises\u003c/b\u003e For Leg Day ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/43158190/image/43269856/Forward-Backward-Lunge",
+        "height": 2573,
+        "width": 2048,
+        "byteSize": 206410,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0cR8IVuNEABiJ8962_JZnl3Klhj7MZK8KYPycMqAub1-CYgRWcnjyZk&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 119
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pin on Fitness & Exercise",
+      "htmlTitle": "Pin on Fitness &amp; \u003cb\u003eExercise\u003c/b\u003e",
+      "link": "https://i.pinimg.com/600x315/cd/35/79/cd35791723d504f237e95f02a0e9f158.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Pin on Fitness & Exercise",
+      "htmlSnippet": "Pin on Fitness &amp; \u003cb\u003eExercise\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/95842298289868986/",
+        "height": 300,
+        "width": 300,
+        "byteSize": 8479,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOuX0NKZAFBa4GQJrCW_h8w73O69ux2Xw6N4Vfg2jPOiK0Fl_UbIQvQ&s",
+        "thumbnailHeight": 116,
+        "thumbnailWidth": 116
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Alternating Forward Lunges With Hammer Curl | 15 Essential ...",
+      "htmlTitle": "Alternating \u003cb\u003eForward Lunges\u003c/b\u003e With Hammer Curl | 15 Essential ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/WbmsGdu-7-qwtypp9xfTlZlCTN0/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2017/09/28/687/n/1922729/da3809294c62be6c_Dumbbell-Lunge/i/Alternating-Forward-Lunges-Hammer-Curl.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Alternating Forward Lunges With Hammer Curl | 15 Essential ...",
+      "htmlSnippet": "Alternating \u003cb\u003eForward Lunges\u003c/b\u003e With Hammer Curl | 15 Essential ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/44209128/image/44209189/Alternating-Forward-Lunges-Hammer-Curl",
+        "height": 1991,
+        "width": 2048,
+        "byteSize": 163312,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwuZA_fr9ZPF79X7fILJG8vEaE3JmyxlF7nRji2yG0UZmT_X_8hINMFyF&s",
+        "thumbnailHeight": 146,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Front And Back Lunges | Illustrated Exercise Guide",
+      "htmlTitle": "Front And Back \u003cb\u003eLunges\u003c/b\u003e | Illustrated \u003cb\u003eExercise\u003c/b\u003e Guide",
+      "link": "https://www.cdn.spotebi.com/wp-content/uploads/2016/09/front-and-back-lunges-exercise-illustration-spotebi.jpg",
+      "displayLink": "www.spotebi.com",
+      "snippet": "Front And Back Lunges | Illustrated Exercise Guide",
+      "htmlSnippet": "Front And Back \u003cb\u003eLunges\u003c/b\u003e | Illustrated \u003cb\u003eExercise\u003c/b\u003e Guide",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.spotebi.com/exercise-guide/front-and-back-lunges/",
+        "height": 720,
+        "width": 1080,
+        "byteSize": 61186,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdozn3kVOkKBPcytCxNb5-0lvDvE5aVEzfnfoQHzztUc4XSwF6Y4D3IuLV&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Do a Lunge | POPSUGAR Fitness",
+      "htmlTitle": "How to Do a \u003cb\u003eLunge\u003c/b\u003e | POPSUGAR Fitness",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/XBjqBbublGCisq8WJ589r9Ljlws/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/12/28/137/n/1922729/tmp_1KPWA3_4a8efb52e5e289b7_PS17_0001_GetFit_Fitness_Workout_0738.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "How to Do a Lunge | POPSUGAR Fitness",
+      "htmlSnippet": "How to Do a \u003cb\u003eLunge\u003c/b\u003e | POPSUGAR Fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/How-Do-Lunge-22901753",
+        "height": 1256,
+        "width": 2048,
+        "byteSize": 69771,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXow7sPFeou_LXLtN4X_9E7q1Y4Q4JB8y_0EVGtSUXxzokGON6uyJ9s5g&s",
+        "thumbnailHeight": 92,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Forward Dumbbell Lunges - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "\u003cb\u003eForward\u003c/b\u003e Dumbbell \u003cb\u003eLunges\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1347045/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Forward Dumbbell Lunges - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "\u003cb\u003eForward\u003c/b\u003e Dumbbell \u003cb\u003eLunges\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/27942-forward-dumbbell-lunges-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 15486,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4DnPPAEVUJxZlv1_JPPhGg4XHfIVwEn-FlLAvxkHfq5FuNVxZyGVkRI0kA&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Demonstration Wood Manikin Forward Lunges Exercise | Sports ...",
+      "htmlTitle": "Demonstration Wood Manikin \u003cb\u003eForward Lunges Exercise\u003c/b\u003e | Sports ...",
+      "link": "https://image.shutterstock.com/image-photo/demonstration-wood-manikin-forward-lunges-600w-603528053.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Demonstration Wood Manikin Forward Lunges Exercise | Sports ...",
+      "htmlSnippet": "Demonstration Wood Manikin \u003cb\u003eForward Lunges Exercise\u003c/b\u003e | Sports ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-photo/demonstration-wood-manikin-forward-lunges-exercise-603528053",
+        "height": 620,
+        "width": 600,
+        "byteSize": 30990,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJUbaoD6RnBsQQAg_-k6_DxaGRdGjVLkpc-vHb8SvnJcOE9pCWU10NQ9y3&s",
+        "thumbnailHeight": 136,
+        "thumbnailWidth": 132
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Forward Backwards Jump Lunges - Exercise How-to - Workout Trainer ...",
+      "htmlTitle": "\u003cb\u003eForward\u003c/b\u003e Backwards Jump \u003cb\u003eLunges\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer ...",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1412486/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Forward Backwards Jump Lunges - Exercise How-to - Workout Trainer ...",
+      "htmlSnippet": "\u003cb\u003eForward\u003c/b\u003e Backwards Jump \u003cb\u003eLunges\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/30263-forward-backwards-jump-lunges-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 23607,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnuMmS33LTu_7unbKCfnf3kOb_qXdoUoNG1qAH2tCmUC1ji5bD-48JjjS7zQ&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    }
+  ]
+}

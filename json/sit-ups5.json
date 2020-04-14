@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - sit-ups exercise",
+        "totalResults": "2070000000",
+        "searchTerms": "sit-ups exercise",
+        "count": 10,
+        "startIndex": 40,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - sit-ups exercise",
+        "totalResults": "2070000000",
+        "searchTerms": "sit-ups exercise",
+        "count": 10,
+        "startIndex": 50,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - sit-ups exercise",
+        "totalResults": "2070000000",
+        "searchTerms": "sit-ups exercise",
+        "count": 10,
+        "startIndex": 60,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.265785,
+    "formattedSearchTime": "0.27",
+    "totalResults": "2070000000",
+    "formattedTotalResults": "2,070,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "6 Ab Exercises That Work Better Than Sit-Ups - YouTube",
+      "htmlTitle": "6 Ab \u003cb\u003eExercises\u003c/b\u003e That Work Better Than \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/2-AI_4hvGmE/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "6 Ab Exercises That Work Better Than Sit-Ups - YouTube",
+      "htmlSnippet": "6 Ab \u003cb\u003eExercises\u003c/b\u003e That Work Better Than \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=2-AI_4hvGmE",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 108780,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl73FVpbnDdgkFaShNJ1fbS8sKvQNWHgV4r-hH8pJZVznzQ-2kd17Nb_Y&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Butterfly Situp",
+      "htmlTitle": "Butterfly Situp",
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1207-lean-toned-2-1441032989.jpg",
+      "displayLink": "www.womenshealthmag.com",
+      "snippet": "Butterfly Situp",
+      "htmlSnippet": "Butterfly Situp",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.womenshealthmag.com/fitness/a20698027/butterfly-situp/",
+        "height": 300,
+        "width": 300,
+        "byteSize": 11209,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ymsXK-A_QPcIUXu8CPUWkmQnGvckxk3KbnxigyUtAEli60uN5GS_h1w&s",
+        "thumbnailHeight": 116,
+        "thumbnailWidth": 116
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Crunches vs Sit Ups: which one is best and how to do it - YouTube",
+      "htmlTitle": "Crunches vs \u003cb\u003eSit Ups\u003c/b\u003e: which one is best and how to do it - YouTube",
+      "link": "https://i.ytimg.com/vi/A7Y2-G4zOUA/hqdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Crunches vs Sit Ups: which one is best and how to do it - YouTube",
+      "htmlSnippet": "Crunches vs \u003cb\u003eSit Ups\u003c/b\u003e: which one is best and how to do it - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=A7Y2-G4zOUA",
+        "height": 360,
+        "width": 480,
+        "byteSize": 24944,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBWBreU3gWyVfCnDPfEY-mhCM2-3HNr_-Km5wo1QgQIGcrzypi7CjJAug6&s",
+        "thumbnailHeight": 97,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "4 Ways to Perform the Medicine Ball Sit up Exercise - wikiHow",
+      "htmlTitle": "4 Ways to Perform the Medicine Ball \u003cb\u003eSit up Exercise\u003c/b\u003e - wikiHow",
+      "link": "https://www.wikihow.com/images/f/fd/Perform-the-Medicine-Ball-Sit-up-Exercise-Step-5.jpg",
+      "displayLink": "www.wikihow.com",
+      "snippet": "4 Ways to Perform the Medicine Ball Sit up Exercise - wikiHow",
+      "htmlSnippet": "4 Ways to Perform the Medicine Ball \u003cb\u003eSit up Exercise\u003c/b\u003e - wikiHow",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.wikihow.com/Perform-the-Medicine-Ball-Sit-up-Exercise",
+        "height": 2457,
+        "width": 3071,
+        "byteSize": 622698,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT7xqRLrYmrHbPOVSFcGMxxtGIJFMQQiuRNenb-ro434wogusdbtVFrKU&s",
+        "thumbnailHeight": 120,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "BACK EXERCISES: PARTIAL SIT UPS - YouTube",
+      "htmlTitle": "BACK \u003cb\u003eEXERCISES\u003c/b\u003e: PARTIAL \u003cb\u003eSIT UPS\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/FgjA0C0Wik4/hqdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "BACK EXERCISES: PARTIAL SIT UPS - YouTube",
+      "htmlSnippet": "BACK \u003cb\u003eEXERCISES\u003c/b\u003e: PARTIAL \u003cb\u003eSIT UPS\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=FgjA0C0Wik4",
+        "height": 360,
+        "width": 480,
+        "byteSize": 13922,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaqByBhAHenw3JWUO79NVi3WqlT2uPynumJMPQ3X-SQbnRr-PaIRK3F3e4&s",
+        "thumbnailHeight": 97,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Why You Should Do Crunches And Sit Ups - 20 Ab Exercises",
+      "htmlTitle": "Why You Should Do Crunches And \u003cb\u003eSit Ups\u003c/b\u003e - 20 Ab \u003cb\u003eExercises\u003c/b\u003e",
+      "link": "https://redefiningstrength.com/wp-content/uploads/2015/12/sit-ups-and-crunches.jpg",
+      "displayLink": "redefiningstrength.com",
+      "snippet": "Why You Should Do Crunches And Sit Ups - 20 Ab Exercises",
+      "htmlSnippet": "Why You Should Do Crunches And \u003cb\u003eSit Ups\u003c/b\u003e - 20 Ab \u003cb\u003eExercises\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://redefiningstrength.com/crunches-sit-ups-20-ab-exercises/",
+        "height": 1536,
+        "width": 2048,
+        "byteSize": 600736,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJokOW3qM4j6UbKTb8no79iMCMaYb33eV0fjBFiBR6H2h2tj_7QqofxMc&s",
+        "thumbnailHeight": 113,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Sprinter Sit Ups - YouTube",
+      "htmlTitle": "Sprinter \u003cb\u003eSit Ups\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/j-jOwapHaa0/hqdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Sprinter Sit Ups - YouTube",
+      "htmlSnippet": "Sprinter \u003cb\u003eSit Ups\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=j-jOwapHaa0",
+        "height": 360,
+        "width": 480,
+        "byteSize": 18018,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXMo8LFIEda1xDKif9QujZpZrfInN7WymfMT4MNUpFcINmgYAxY6Bf8fI&s",
+        "thumbnailHeight": 97,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Sit Up. Sport Exersice. Silhouettes Of Woman Doing Exercise ...",
+      "htmlTitle": "\u003cb\u003eSit Up\u003c/b\u003e. Sport Exersice. Silhouettes Of Woman Doing \u003cb\u003eExercise\u003c/b\u003e ...",
+      "link": "https://previews.123rf.com/images/comotomo/comotomo1806/comotomo180600022/104495018-sit-up-sport-exersice-silhouettes-of-woman-doing-exercise-workout-training-.jpg",
+      "displayLink": "www.123rf.com",
+      "snippet": "Sit Up. Sport Exersice. Silhouettes Of Woman Doing Exercise ...",
+      "htmlSnippet": "\u003cb\u003eSit Up\u003c/b\u003e. Sport Exersice. Silhouettes Of Woman Doing \u003cb\u003eExercise\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.123rf.com/photo_104495018_stock-vector-sit-up-sport-exersice-silhouettes-of-woman-doing-exercise-workout-training-.html",
+        "height": 1300,
+        "width": 1300,
+        "byteSize": 98594,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xF_rnvgkd7_zd091ItY5qrrDFaMWHGgI309_YZw7mvLuOHKFgvjoH_OT8w&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Barbell Press Sit Ups - YouTube",
+      "htmlTitle": "Barbell Press \u003cb\u003eSit Ups\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/CrM9fcsUbI0/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Barbell Press Sit Ups - YouTube",
+      "htmlSnippet": "Barbell Press \u003cb\u003eSit Ups\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=CrM9fcsUbI0",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 88963,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hLH68GA3ZheZO5NZM9KT32CZJgytihN1qqopNhvmOJrbIk3WjLPEtvU&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Stop Doing Sit-Ups and Start Doing This Exercise Instead ...",
+      "htmlTitle": "Stop Doing \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e and Start Doing This \u003cb\u003eExercise\u003c/b\u003e Instead ...",
+      "link": "http://fitlife.tv/wp-content/uploads/2015/12/JV_Sep22_01_Stop-Doing-Sit-Ups-and-Start-Doing-This-Exercise-Instead_-According-to-Research.jpg",
+      "displayLink": "fitlife.tv",
+      "snippet": "Stop Doing Sit-Ups and Start Doing This Exercise Instead ...",
+      "htmlSnippet": "Stop Doing \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e and Start Doing This \u003cb\u003eExercise\u003c/b\u003e Instead ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://fitlife.tv/this-60-second-exercise-is-more-powerful-than-1000-sit-ups_original/fitness/",
+        "height": 630,
+        "width": 1200,
+        "byteSize": 103771,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLwPcWchpfROOPbY4t2Ui0bCflxPom68dlVlVQhp3ecp1eomYuAyQ1Gx3j&s",
+        "thumbnailHeight": 79,
+        "thumbnailWidth": 150
+      }
+    }
+  ]
+}

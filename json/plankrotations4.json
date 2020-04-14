@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - plank rotations exercise",
+        "totalResults": "57700000",
+        "searchTerms": "plank rotations exercise",
+        "count": 10,
+        "startIndex": 30,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - plank rotations exercise",
+        "totalResults": "57700000",
+        "searchTerms": "plank rotations exercise",
+        "count": 10,
+        "startIndex": 40,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - plank rotations exercise",
+        "totalResults": "57700000",
+        "searchTerms": "plank rotations exercise",
+        "count": 10,
+        "startIndex": 50,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.314763,
+    "formattedSearchTime": "0.31",
+    "totalResults": "57700000",
+    "formattedTotalResults": "57,700,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Pin on Workout Tip Sheets",
+      "htmlTitle": "Pin on \u003cb\u003eWorkout\u003c/b\u003e Tip Sheets",
+      "link": "https://i.pinimg.com/originals/5c/80/f0/5c80f0dafdd4307f396e25908d706479.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Pin on Workout Tip Sheets",
+      "htmlSnippet": "Pin on \u003cb\u003eWorkout\u003c/b\u003e Tip Sheets",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/568368415448361227/",
+        "height": 400,
+        "width": 660,
+        "byteSize": 18803,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfKVT3YxbNUF9KAbdBnzHYRHkbT4CJI3f4kOP9_ocadDf9WwJ4GAt1cI&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 138
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Silhouette+plank+woman Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "Silhouette+\u003cb\u003eplank\u003c/b\u003e+woman Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-vector/plank-rotation-exercise-active-healthy-260nw-1524127331.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Silhouette+plank+woman Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "Silhouette+\u003cb\u003eplank\u003c/b\u003e+woman Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/silhouette+plank+woman?section=1&searchterm=silhouette%20plank%20woman&sort=popular&safe=true&search_source=base_related_searches&language=en&page=2",
+        "height": 280,
+        "width": 390,
+        "byteSize": 8984,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrV0LBEa64sFX6zKoDoDECkZCfj2rX9b1rdsiz4Dz3SyKlwrR_FPWSlqo&s",
+        "thumbnailHeight": 88,
+        "thumbnailWidth": 123
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Day 18: 100 Side Plank Rotations! | #100AbChallenge w/ Jason Chen ...",
+      "htmlTitle": "Day 18: 100 Side \u003cb\u003ePlank Rotations\u003c/b\u003e! | #100AbChallenge w/ Jason Chen ...",
+      "link": "https://i.ytimg.com/vi/SmVY52V0rZI/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Day 18: 100 Side Plank Rotations! | #100AbChallenge w/ Jason Chen ...",
+      "htmlSnippet": "Day 18: 100 Side \u003cb\u003ePlank Rotations\u003c/b\u003e! | #100AbChallenge w/ Jason Chen ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=SmVY52V0rZI",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 95714,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndYh4jYT8m-TmdB4kkatyzdtFMdIit3KVATgLkVeqlolulMKJ1IbX8JvU&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ilustraciones, imágenes y vectores de stock sobre Isolated Planks ...",
+      "htmlTitle": "Ilustraciones, imágenes y vectores de stock sobre Isolated \u003cb\u003ePlanks\u003c/b\u003e ...",
+      "link": "https://image.shutterstock.com/image-vector/fitness-exercise-plank-rotations-work-260nw-1260367939.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Ilustraciones, imágenes y vectores de stock sobre Isolated Planks ...",
+      "htmlSnippet": "Ilustraciones, imágenes y vectores de stock sobre Isolated \u003cb\u003ePlanks\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/es/search/isolated+planks?image_type=illustration&section=1&category=People&search_source=base_related_searches&saveFiltersLink=true&page=2",
+        "height": 280,
+        "width": 260,
+        "byteSize": 5351,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcaO2dqLgsKtzFjEPq8brfll8mJHD8c0jYrQi1dC4EIn0j7rDIlpwhTQ&s",
+        "thumbnailHeight": 114,
+        "thumbnailWidth": 106
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pin on Switzerland",
+      "htmlTitle": "Pin on Switzerland",
+      "link": "https://i.pinimg.com/474x/78/50/7f/78507f685fe40eb45fb3e34cc2ad6001.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Pin on Switzerland",
+      "htmlSnippet": "Pin on Switzerland",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/497366352597774687/",
+        "height": 417,
+        "width": 251,
+        "byteSize": 10832,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkvG_TcxZFw8k0S75RiXftweHKyU2J-c50QMlpWu2uqjLqVqkg6MHZlC8&s",
+        "thumbnailHeight": 125,
+        "thumbnailWidth": 75
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Body of Rotation Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "Body of \u003cb\u003eRotation\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-photo/young-woman-doing-exercise-kneeling-260nw-499551535.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Body of Rotation Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "Body of \u003cb\u003eRotation\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/body+of+rotation",
+        "height": 280,
+        "width": 463,
+        "byteSize": 9896,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgYM3ZakVbYVodIoaZOgfmlCfZu-6iAqUb8xrfA4fA_MdM0DGeFPZK3qL5&s",
+        "thumbnailHeight": 77,
+        "thumbnailWidth": 128
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Side Plank Rotation • Julie Lohre",
+      "htmlTitle": "Side \u003cb\u003ePlank Rotation\u003c/b\u003e • Julie Lohre",
+      "link": "https://julielohre.com/wp-content/uploads/2017/12/Side-Plank-Rotation.jpg",
+      "displayLink": "julielohre.com",
+      "snippet": "Side Plank Rotation • Julie Lohre",
+      "htmlSnippet": "Side \u003cb\u003ePlank Rotation\u003c/b\u003e • Julie Lohre",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://julielohre.com/side-plank-rotation/",
+        "height": 1328,
+        "width": 1000,
+        "byteSize": 95831,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJUZWDPdr2Rwwo_WeS3lnuiPTmi-ovt7tI2zdc-hRVGdAdQGzs4ACFBs30&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 113
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Rotating Elbow Plank - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "\u003cb\u003eRotating\u003c/b\u003e Elbow \u003cb\u003ePlank\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/66565/skimble-workout-trainer-exercise-square-rotating-elbow-plank-4_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Rotating Elbow Plank - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "\u003cb\u003eRotating\u003c/b\u003e Elbow \u003cb\u003ePlank\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/1165-rotating-elbow-plank-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 22026,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSNCRgtDnmeyutSakeh_vD7ZcZwpgFAvFE4WGkXr4XJcwRjF4sdtGp_243&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Exercise Library: Plank Rotations - YouTube",
+      "htmlTitle": "\u003cb\u003eExercise\u003c/b\u003e Library: \u003cb\u003ePlank Rotations\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/VBd6DBVNUYg/sddefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Exercise Library: Plank Rotations - YouTube",
+      "htmlSnippet": "\u003cb\u003eExercise\u003c/b\u003e Library: \u003cb\u003ePlank Rotations\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=VBd6DBVNUYg&list=PL_zlnsvktQ74nmdbKmLXv0R_AeY8VozgF&index=9&t=0s",
+        "height": 480,
+        "width": 640,
+        "byteSize": 17659,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-FgH8MW85MbXwedv_cK_16FVKnFvEeHybCfUsbrDR3JDBukmH7BXV-tI9&s",
+        "thumbnailHeight": 103,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pin on Workout Tip Sheets",
+      "htmlTitle": "Pin on \u003cb\u003eWorkout\u003c/b\u003e Tip Sheets",
+      "link": "https://i.pinimg.com/474x/5c/80/f0/5c80f0dafdd4307f396e25908d706479--hard-core-workouts-the-rock.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Pin on Workout Tip Sheets",
+      "htmlSnippet": "Pin on \u003cb\u003eWorkout\u003c/b\u003e Tip Sheets",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/568368415448361227/",
+        "height": 287,
+        "width": 474,
+        "byteSize": 11758,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLOtbaUN1f7YWr4cbJ3uSoFIOiMuBUe4LGuOsxjxuEUmowtwCL5VbTFw&s",
+        "thumbnailHeight": 78,
+        "thumbnailWidth": 129
+      }
+    }
+  ]
+}

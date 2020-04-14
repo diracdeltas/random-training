@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - elbow plank exercise",
+        "totalResults": "636000000",
+        "searchTerms": "elbow plank exercise",
+        "count": 10,
+        "startIndex": 30,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - elbow plank exercise",
+        "totalResults": "636000000",
+        "searchTerms": "elbow plank exercise",
+        "count": 10,
+        "startIndex": 40,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - elbow plank exercise",
+        "totalResults": "636000000",
+        "searchTerms": "elbow plank exercise",
+        "count": 10,
+        "startIndex": 50,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.400602,
+    "formattedSearchTime": "0.40",
+    "totalResults": "636000000",
+    "formattedTotalResults": "636,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "4-Move Bodyweight Ab Workout | POPSUGAR Fitness",
+      "htmlTitle": "4-Move Bodyweight Ab \u003cb\u003eWorkout\u003c/b\u003e | POPSUGAR Fitness",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/yFSN9d1Nrri6sc_JcV_O65_iK-0/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2017/06/14/793/n/1922729/16188185239df188_elbow_plank_side_bridge/i/Side-Plank-Right.JPG",
+      "displayLink": "www.popsugar.com",
+      "snippet": "4-Move Bodyweight Ab Workout | POPSUGAR Fitness",
+      "htmlSnippet": "4-Move Bodyweight Ab \u003cb\u003eWorkout\u003c/b\u003e | POPSUGAR Fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/4-move-bodyweight-ab-workout-47256689",
+        "height": 683,
+        "width": 1024,
+        "byteSize": 26061,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5YGcLfWysSe8lBb15FFKLu9O0Nl9ENcC1eNrRAvPL6I3AQw-Y2G6gg7I-&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Elbow Plank Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eElbow Plank\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-photo/fitness-woman-elbow-plank-workout-260nw-655345168.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Elbow Plank Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eElbow Plank\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/elbow+plank",
+        "height": 280,
+        "width": 390,
+        "byteSize": 13921,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfVsEAYsEGo64RCQlM9A4ZkGthGSBKLYLQ_gt85rPSLAGtHoxvahhZw&s",
+        "thumbnailHeight": 88,
+        "thumbnailWidth": 123
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Plank with Side Step Start in an elbow plank. Extend your left leg ...",
+      "htmlTitle": "\u003cb\u003ePlank\u003c/b\u003e with Side Step Start in an \u003cb\u003eelbow plank\u003c/b\u003e. Extend your left leg ...",
+      "link": "https://i.pinimg.com/originals/9d/3e/9f/9d3e9f4bc8ca3c2096045a632faf005f.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Plank with Side Step Start in an elbow plank. Extend your left leg ...",
+      "htmlSnippet": "\u003cb\u003ePlank\u003c/b\u003e with Side Step Start in an \u003cb\u003eelbow plank\u003c/b\u003e. Extend your left leg ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/159244536797615523/",
+        "height": 500,
+        "width": 500,
+        "byteSize": 24711,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsvM_AVNY7h8aHm5Ur-Lej2R8AT4Z8pMc1vkcTr-O1GH_DsoRqb8-C_jA4Sw&s",
+        "thumbnailHeight": 130,
+        "thumbnailWidth": 130
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Plank Exercise Women On White Background | Royalty-Free Stock Image",
+      "htmlTitle": "\u003cb\u003ePlank Exercise\u003c/b\u003e Women On White Background | Royalty-Free Stock Image",
+      "link": "https://image.shutterstock.com/z/stock-vector-plank-exercise-for-women-on-white-background-elbow-plank-and-straight-plank-healthy-lifestyle-561884578.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Plank Exercise Women On White Background | Royalty-Free Stock Image",
+      "htmlSnippet": "\u003cb\u003ePlank Exercise\u003c/b\u003e Women On White Background | Royalty-Free Stock Image",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-vector/plank-exercise-women-on-white-background-561884578",
+        "height": 844,
+        "width": 1500,
+        "byteSize": 173140,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtiNnBQDVqWhHRX45RlkozjITNavIfXCXYXd9mnhIdp5aluglCjnoSzY&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Do a Spiderman Plank | Abs Workout - YouTube",
+      "htmlTitle": "How to Do a Spiderman \u003cb\u003ePlank\u003c/b\u003e | Abs \u003cb\u003eWorkout\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/HVyHcalg61g/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "How to Do a Spiderman Plank | Abs Workout - YouTube",
+      "htmlSnippet": "How to Do a Spiderman \u003cb\u003ePlank\u003c/b\u003e | Abs \u003cb\u003eWorkout\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=HVyHcalg61g",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 65465,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCzmTC-M6c4FSZAWM3gcoZ9HfVyGzv8aPLk3RfYgKlbeLrXbOuB7925M1I&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Inchworm Elbow Plank Young Woman Doing Stock Photo (Edit Now ...",
+      "htmlTitle": "Inchworm \u003cb\u003eElbow Plank\u003c/b\u003e Young Woman Doing Stock Photo (Edit Now ...",
+      "link": "https://image.shutterstock.com/z/stock-photo-inchworm-elbow-plank-young-woman-doing-sport-exercise-500090146.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Inchworm Elbow Plank Young Woman Doing Stock Photo (Edit Now ...",
+      "htmlSnippet": "Inchworm \u003cb\u003eElbow Plank\u003c/b\u003e Young Woman Doing Stock Photo (Edit Now ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-photo/inchworm-elbow-plank-young-woman-doing-500090146",
+        "height": 1101,
+        "width": 1500,
+        "byteSize": 189298,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL4_XNqpQMCfN21j50Xq9V-ncMTj0tCZdniHHFHlwXWIFQSVsDJuPDjP7s&s",
+        "thumbnailHeight": 110,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Core Activating Exercises | POPSUGAR Fitness",
+      "htmlTitle": "Core Activating \u003cb\u003eExercises\u003c/b\u003e | POPSUGAR Fitness",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/Oyr7aUKZjWoIYd5QD6BTu9B3AvY/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/03/21/017/n/1922729/9236c3795ab2e9be5a0617.24139848_Begin-lying-your-left-side/i/Side-Plank.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Core Activating Exercises | POPSUGAR Fitness",
+      "htmlSnippet": "Core Activating \u003cb\u003eExercises\u003c/b\u003e | POPSUGAR Fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/Core-Activating-Exercises-45871205",
+        "height": 683,
+        "width": 1024,
+        "byteSize": 32455,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YLR7d6sWV1ZfhF3qeEC8qu--82INxp2ra2KDTqeRwQoLQKaSNeFsXEFv&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Elbow Plank Young Woman Doing Sport Stock Photo (Edit Now) 499551520",
+      "htmlTitle": "\u003cb\u003eElbow Plank\u003c/b\u003e Young Woman Doing Sport Stock Photo (Edit Now) 499551520",
+      "link": "https://image.shutterstock.com/z/stock-photo-elbow-plank-young-woman-doing-sport-exercise-499551520.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Elbow Plank Young Woman Doing Sport Stock Photo (Edit Now) 499551520",
+      "htmlSnippet": "\u003cb\u003eElbow Plank\u003c/b\u003e Young Woman Doing Sport Stock Photo (Edit Now) 499551520",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/image-photo/elbow-plank-young-woman-doing-sport-499551520",
+        "height": 1101,
+        "width": 1500,
+        "byteSize": 212195,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBpNPeBtM2hypIAvJuo3YVp-N6hsuxtKXjHciXsA7xBMEwPZs4Fe5oq5j&s",
+        "thumbnailHeight": 110,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Inching Elbow Plank Video - Watch Proper Form, Get Tips & More ...",
+      "htmlTitle": "Inching \u003cb\u003eElbow Plank\u003c/b\u003e Video - Watch Proper Form, Get Tips &amp; More ...",
+      "link": "https://cdn-ami-drupal.heartyhosting.com/sites/muscleandfitness.com/files/styles/188x188/public/studio/739/739_A.jpg?itok=vKXcB5wa",
+      "displayLink": "www.muscleandfitness.com",
+      "snippet": "Inching Elbow Plank Video - Watch Proper Form, Get Tips & More ...",
+      "htmlSnippet": "Inching \u003cb\u003eElbow Plank\u003c/b\u003e Video - Watch Proper Form, Get Tips &amp; More ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.muscleandfitness.com/workouts/abs-and-core-exercises/videos/inching-elbow-plank",
+        "height": 315,
+        "width": 315,
+        "byteSize": 6925,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuw2EgBRj2X7XVF7N1INwyTpDsfmX7nBFCCrTtKMd7IJJxwPKygPwuvYk&s",
+        "thumbnailHeight": 117,
+        "thumbnailWidth": 117
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Elbow Plank Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eElbow Plank\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-photo/sporty-young-woman-doing-elbow-260nw-420783406.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Elbow Plank Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eElbow Plank\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/elbow+plank",
+        "height": 280,
+        "width": 390,
+        "byteSize": 23071,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAKB5NEFuJBKcC56IhvQDwV2h2T5HjMyrqLUdUIeKV5ETwUewIQmWl-50&s",
+        "thumbnailHeight": 88,
+        "thumbnailWidth": 123
+      }
+    }
+  ]
+}

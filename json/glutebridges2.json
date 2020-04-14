@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - glute bridges exercise",
+        "totalResults": "51900000",
+        "searchTerms": "glute bridges exercise",
+        "count": 10,
+        "startIndex": 10,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - glute bridges exercise",
+        "totalResults": "51900000",
+        "searchTerms": "glute bridges exercise",
+        "count": 10,
+        "startIndex": 20,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - glute bridges exercise",
+        "totalResults": "51900000",
+        "searchTerms": "glute bridges exercise",
+        "count": 10,
+        "startIndex": 30,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.258655,
+    "formattedSearchTime": "0.26",
+    "totalResults": "51900000",
+    "formattedTotalResults": "51,900,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Elevated Glute Bridge - YouTube",
+      "htmlTitle": "Elevated \u003cb\u003eGlute Bridge\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/p80zWFdRK6I/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Elevated Glute Bridge - YouTube",
+      "htmlSnippet": "Elevated \u003cb\u003eGlute Bridge\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=p80zWFdRK6I",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 90003,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcKNwLj4ECRR0hdrxbktk-yCoHB29F2H32lmz7Lygwkd9aTVq9d1yatrW&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Dumbell Glute Bridge - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Dumbell \u003cb\u003eGlute Bridge\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1360842/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Dumbell Glute Bridge - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Dumbell \u003cb\u003eGlute Bridge\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/28371-dumbell-glute-bridge-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 20079,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLYOqz3lj_TPVu-i7sN0GLKlLjq4LfXfijjgGvXLj8A6wkVCkAFLfCNP6OQ&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Glute Bridge | Illustrated Exercise Guide",
+      "htmlTitle": "\u003cb\u003eGlute Bridge\u003c/b\u003e | Illustrated \u003cb\u003eExercise\u003c/b\u003e Guide",
+      "link": "https://www.cdn.spotebi.com/wp-content/uploads/2015/01/glute-bridge-exercise-illustration.jpg",
+      "displayLink": "www.spotebi.com",
+      "snippet": "Glute Bridge | Illustrated Exercise Guide",
+      "htmlSnippet": "\u003cb\u003eGlute Bridge\u003c/b\u003e | Illustrated \u003cb\u003eExercise\u003c/b\u003e Guide",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.spotebi.com/exercise-guide/glute-bridge/",
+        "height": 721,
+        "width": 1080,
+        "byteSize": 48464,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Yy8Zr2FRHeZDREIg27-Vlx_ejSMc-zSmBgtmP66WZ34T-AaXtJjw3Qg&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Banded Glute Bridge - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Banded \u003cb\u003eGlute Bridge\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1706757/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Banded Glute Bridge - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Banded \u003cb\u003eGlute Bridge\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/42357-banded-glute-bridge-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 21638,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-pEZ3SLDnxsDaQACWME6vkCGb1tP0cyChCJYBckPjeywcLEVKRxmZU9tDA&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Superset 1, Exercise 1: Single-Leg Glute Bridge | Get a Bigger ...",
+      "htmlTitle": "Superset 1, \u003cb\u003eExercise\u003c/b\u003e 1: Single-Leg \u003cb\u003eGlute Bridge\u003c/b\u003e | Get a Bigger ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/-Cbpe7TUudWSURru8ReTqXjQWGg/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/09/28/914/n/40863086/3bee5f7d01a820af_Single-Leg-Bridge_1_/i/Superset-1-Exercise-1-Single-Leg-Glute-Bridge.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Superset 1, Exercise 1: Single-Leg Glute Bridge | Get a Bigger ...",
+      "htmlSnippet": "Superset 1, \u003cb\u003eExercise\u003c/b\u003e 1: Single-Leg \u003cb\u003eGlute Bridge\u003c/b\u003e | Get a Bigger ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/46502812/image/46502815/Superset-1-Exercise-1-Single-Leg-Glute-Bridge",
+        "height": 1024,
+        "width": 1024,
+        "byteSize": 69669,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcJIsJ9SAKTM8Sirf1xT3iup9I4Kl0CJxsqRGx2fLsjWMf3abyEiyExq1&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Basic Workout: Glute Bridge March",
+      "htmlTitle": "Basic \u003cb\u003eWorkout\u003c/b\u003e: \u003cb\u003eGlute Bridge\u003c/b\u003e March",
+      "link": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0905-poster-glute-bridge-march-1441032989.jpg?resize=480:*",
+      "displayLink": "www.womenshealthmag.com",
+      "snippet": "Basic Workout: Glute Bridge March",
+      "htmlSnippet": "Basic \u003cb\u003eWorkout\u003c/b\u003e: \u003cb\u003eGlute Bridge\u003c/b\u003e March",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.womenshealthmag.com/fitness/a20700060/basic-workout-glute-bridge-march/",
+        "height": 480,
+        "width": 480,
+        "byteSize": 16357,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRMwP2UiaYSpolnGrQbEhCwJRyjP8QamzG8GeMR2LGYkRqKYfaWbx9G6H&s",
+        "thumbnailHeight": 129,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "10 Butt-Building Glute Bridges - YouTube",
+      "htmlTitle": "10 Butt-Building \u003cb\u003eGlute Bridges\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/aSBadGJ2COM/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "10 Butt-Building Glute Bridges - YouTube",
+      "htmlSnippet": "10 Butt-Building \u003cb\u003eGlute Bridges\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=aSBadGJ2COM",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 53732,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgQNSABsO7Z1aScp6pZjzlpOTGJ-v_4wOrXFBQt27e0qBYgn5m0YCMfnu&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pin on fitness",
+      "htmlTitle": "Pin on fitness",
+      "link": "https://i.pinimg.com/originals/e9/e6/b1/e9e6b1ad145470bd6e350e5694d00eaf.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Pin on fitness",
+      "htmlSnippet": "Pin on fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/14144186308648744/",
+        "height": 400,
+        "width": 300,
+        "byteSize": 12392,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY65w6edexmMFWQPqTx2Bw__ESui5WWR-DdMeYXFkp8a-5XcqINgfNnDw&s",
+        "thumbnailHeight": 124,
+        "thumbnailWidth": 93
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Glute Bridge | 6 Exercises You Need to Ease Your Pesky Back Pain ...",
+      "htmlTitle": "\u003cb\u003eGlute Bridge\u003c/b\u003e | 6 \u003cb\u003eExercises\u003c/b\u003e You Need to Ease Your Pesky Back Pain ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/kwZHBf3v1TaBjFTxOjxNk-7AYRs/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/04/11/713/n/40863086/4c8b8adb67e17e4a_b5d94435_bridge-use/i/Glute-Bridge.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Glute Bridge | 6 Exercises You Need to Ease Your Pesky Back Pain ...",
+      "htmlSnippet": "\u003cb\u003eGlute Bridge\u003c/b\u003e | 6 \u003cb\u003eExercises\u003c/b\u003e You Need to Ease Your Pesky Back Pain ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/44739309/image/44739312/Glute-Bridge",
+        "height": 1365,
+        "width": 2048,
+        "byteSize": 89991,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRGV4TVQvauMPcnLmh6AJTejhKMcdBpy-wXt-h0XYgjDEXYPCDCbC3iLJQ&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Band Glute Bridge Burn - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Band \u003cb\u003eGlute Bridge\u003c/b\u003e Burn - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/911646/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Band Glute Bridge Burn - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Band \u003cb\u003eGlute Bridge\u003c/b\u003e Burn - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/15817-band-glute-bridge-burn-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 69606,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ971nTLCETRky93Zkmso1Y3gI9YZrWDh8sRaAnhrqlanxk7ij5y2cFVeM&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - glute bridges exercise",
+        "totalResults": "51900000",
+        "searchTerms": "glute bridges exercise",
+        "count": 10,
+        "startIndex": 30,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - glute bridges exercise",
+        "totalResults": "51900000",
+        "searchTerms": "glute bridges exercise",
+        "count": 10,
+        "startIndex": 40,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - glute bridges exercise",
+        "totalResults": "51900000",
+        "searchTerms": "glute bridges exercise",
+        "count": 10,
+        "startIndex": 50,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.252813,
+    "formattedSearchTime": "0.25",
+    "totalResults": "51900000",
+    "formattedTotalResults": "51,900,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "How To Do A Glute Bridge - Get Healthy U",
+      "htmlTitle": "How To Do A \u003cb\u003eGlute Bridge\u003c/b\u003e - Get Healthy U",
+      "link": "https://gethealthyu.com/wp-content/uploads/2014/08/Glute-Bridge_Featured.jpg",
+      "displayLink": "gethealthyu.com",
+      "snippet": "How To Do A Glute Bridge - Get Healthy U",
+      "htmlSnippet": "How To Do A \u003cb\u003eGlute Bridge\u003c/b\u003e - Get Healthy U",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://gethealthyu.com/exercise/glute-bridge/",
+        "height": 300,
+        "width": 300,
+        "byteSize": 13427,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvX0qic5dOz54-iMRD3wXcwG4_ZL4m8ceKfOntxnEexl4KEc_eEB8Tg&s",
+        "thumbnailHeight": 116,
+        "thumbnailWidth": 116
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "This Weight Training Workout for Seniors Can Help You Keep Active ...",
+      "htmlTitle": "This Weight Training \u003cb\u003eWorkout\u003c/b\u003e for Seniors Can Help You Keep Active ...",
+      "link": "https://i.pinimg.com/originals/41/c5/37/41c537dd34e678a8dc7cbcd3f6063f12.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "This Weight Training Workout for Seniors Can Help You Keep Active ...",
+      "htmlSnippet": "This Weight Training \u003cb\u003eWorkout\u003c/b\u003e for Seniors Can Help You Keep Active ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/309059593166399920/",
+        "height": 1045,
+        "width": 735,
+        "byteSize": 42854,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnRZK7c2mM0fnkA4dMw9IlpAuATpTNQBAjLa_zsmEeoQaPcr5xwsZMKug&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 106
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Glute Bridge Pyramid With Band - Exercise How-to - Workout Trainer ...",
+      "htmlTitle": "\u003cb\u003eGlute Bridge\u003c/b\u003e Pyramid With Band - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer ...",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/1795854/image_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Glute Bridge Pyramid With Band - Exercise How-to - Workout Trainer ...",
+      "htmlSnippet": "\u003cb\u003eGlute Bridge\u003c/b\u003e Pyramid With Band - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/45625-glute-bridge-pyramid-with-band-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 20392,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4d8N8ooDp2ui9_l8JnVvk7cXw3qrR62pQ5ojoRyJM8aJL1e-Mb6xhP3g5pg&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Why Glue Bridges are a Great Workout for Horse Riders – The ...",
+      "htmlTitle": "Why Glue \u003cb\u003eBridges\u003c/b\u003e are a Great \u003cb\u003eWorkout\u003c/b\u003e for Horse Riders – The ...",
+      "link": "http://cdn.shopify.com/s/files/1/0515/7121/files/glute-bridge.jpg?16725524099385889523",
+      "displayLink": "thejodhpurscompany.com",
+      "snippet": "Why Glue Bridges are a Great Workout for Horse Riders – The ...",
+      "htmlSnippet": "Why Glue \u003cb\u003eBridges\u003c/b\u003e are a Great \u003cb\u003eWorkout\u003c/b\u003e for Horse Riders – The ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://thejodhpurscompany.com/blogs/the-jodhpurs-company-blog/18873799-workout-wednesday-strengthen-your-butt-and-hamstrings-with-glute-bridges",
+        "height": 363,
+        "width": 530,
+        "byteSize": 14205,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQM3QgWvw3qF_J3DFBAcBpev4eqtfv0rgJaSDG1doHP_sN1Z0cPnYjxI4&s",
+        "thumbnailHeight": 90,
+        "thumbnailWidth": 132
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Toes Up Supine/Glute Bridge Exercise - Kinetic U - YouTube",
+      "htmlTitle": "Toes Up Supine/\u003cb\u003eGlute Bridge Exercise\u003c/b\u003e - Kinetic U - YouTube",
+      "link": "https://i.ytimg.com/vi/TCeMphwSyNI/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Toes Up Supine/Glute Bridge Exercise - Kinetic U - YouTube",
+      "htmlSnippet": "Toes Up Supine/\u003cb\u003eGlute Bridge Exercise\u003c/b\u003e - Kinetic U - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=TCeMphwSyNI",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 100091,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGJ5z39tidEn-mTCRfU-RBEQSRwYpU70FrHJPbNNTi7o14N9zv8It6mQFD&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Bridge Exercise Variations | POPSUGAR Fitness",
+      "htmlTitle": "\u003cb\u003eBridge Exercise\u003c/b\u003e Variations | POPSUGAR Fitness",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/cq22A_RWvig_hLVlX0xY19Cjvso/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2016/02/22/806/n/1922729/382053e8_edit_img_cover_file_40284922_1456163090_Bridge-Squeeze/i/Bridge-Exercise-Variations.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Bridge Exercise Variations | POPSUGAR Fitness",
+      "htmlSnippet": "\u003cb\u003eBridge Exercise\u003c/b\u003e Variations | POPSUGAR Fitness",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/Bridge-Exercise-Variations-40284922",
+        "height": 728,
+        "width": 728,
+        "byteSize": 26025,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw54b5Z-FT-_NVblqmtN-jGavBQcfhPMzcBelVTp4PUahG6duLh4Esoipfmg&s",
+        "thumbnailHeight": 141,
+        "thumbnailWidth": 141
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Glute Bridge Exercise: How to Get a Better, Sexy Butt | Openfit",
+      "htmlTitle": "\u003cb\u003eGlute Bridge Exercise\u003c/b\u003e: How to Get a Better, Sexy Butt | Openfit",
+      "link": "https://cdn.prod.openfit.com/uploads/2016/09/Glute-Bridge-A.B.jpg",
+      "displayLink": "www.openfit.com",
+      "snippet": "Glute Bridge Exercise: How to Get a Better, Sexy Butt | Openfit",
+      "htmlSnippet": "\u003cb\u003eGlute Bridge Exercise\u003c/b\u003e: How to Get a Better, Sexy Butt | Openfit",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.openfit.com/master-the-bridge-exercise-for-a-stronger-sexy-butt",
+        "height": 572,
+        "width": 600,
+        "byteSize": 142413,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoVRfxvU3kSsl1e9UZfOhVh7WLwbA1ioa1bWZQs9OxoLxC7ML2J6VM_8T6AA&s",
+        "thumbnailHeight": 129,
+        "thumbnailWidth": 135
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Stability Ball Glute Bridge - YouTube",
+      "htmlTitle": "Stability Ball \u003cb\u003eGlute Bridge\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/RpZ6P4AFDmE/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Stability Ball Glute Bridge - YouTube",
+      "htmlSnippet": "Stability Ball \u003cb\u003eGlute Bridge\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=RpZ6P4AFDmE",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 95285,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSONg-TsRuC2KqXm8YC6NtOr3kb32fLBjqbmkJoH7fVS9vC8QPYhkAzFuFN&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tip Toe Glute Bridge - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Tip Toe \u003cb\u003eGlute Bridge\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/52150/skimble-workout-trainer-exercise-tip-toe-glute-bridge-3_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Tip Toe Glute Bridge - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Tip Toe \u003cb\u003eGlute Bridge\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/2203-tip-toe-glute-bridge-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 22264,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qeGWcOrlEhMkewHYTH5HlAR3bZKlH308IqtwrSmQ1kUDYiXVpUbqeWBOzA&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to Perform Single Leg Glute Bridges | Bodyweight Exercise ...",
+      "htmlTitle": "How to Perform Single Leg \u003cb\u003eGlute Bridges\u003c/b\u003e | Bodyweight \u003cb\u003eExercise\u003c/b\u003e ...",
+      "link": "https://i.ytimg.com/vi/onibEea6FHE/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "How to Perform Single Leg Glute Bridges | Bodyweight Exercise ...",
+      "htmlSnippet": "How to Perform Single Leg \u003cb\u003eGlute Bridges\u003c/b\u003e | Bodyweight \u003cb\u003eExercise\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=onibEea6FHE",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 95896,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS943Fs9vnB0OIx3quGxd_8NmqpMCBJ4XGC7Uepc_o4pyFWKtyUE87sGsU-&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    }
+  ]
+}

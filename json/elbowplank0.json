@@ -1,0 +1,250 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - elbow plank exercise",
+        "totalResults": "636000000",
+        "searchTerms": "elbow plank exercise",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - elbow plank exercise",
+        "totalResults": "636000000",
+        "searchTerms": "elbow plank exercise",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.264704,
+    "formattedSearchTime": "0.26",
+    "totalResults": "636000000",
+    "formattedTotalResults": "636,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Elbow Plank | The 25 Best Exercises to Tone Your Abs (and None of ...",
+      "htmlTitle": "\u003cb\u003eElbow Plank\u003c/b\u003e | The 25 Best \u003cb\u003eExercises\u003c/b\u003e to Tone Your Abs (and None of ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/CrcoTyubZOBrmXRoqQ4Kno5eO7U/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/11/14/743/n/1922729/579264c6a62e36c3_Elbow-Plank/i/Elbow-Plank.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Elbow Plank | The 25 Best Exercises to Tone Your Abs (and None of ...",
+      "htmlSnippet": "\u003cb\u003eElbow Plank\u003c/b\u003e | The 25 Best \u003cb\u003eExercises\u003c/b\u003e to Tone Your Abs (and None of ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/7859508/image/25316618/Elbow-Plank",
+        "height": 541,
+        "width": 1024,
+        "byteSize": 37549,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyRkYRZi0QLHY_wNokmzQC8dOn3zuoleIU87GGcLKszdAtK04Dp4Z34KE&s",
+        "thumbnailHeight": 79,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Elbow Plank - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "\u003cb\u003eElbow Plank\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/2380/skimble-workout-trainer-exercise-elbow-plank_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Elbow Plank - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "\u003cb\u003eElbow Plank\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/789-elbow-plank-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 18303,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFJiGCGWg_XFyJiFT2pJLxM2fmbu6cwKtkq9arnzPaeAi5o52S-8QYzH_GfQ&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Elbow Plank | The 25 Best Exercises to Tone Your Abs (and None of ...",
+      "htmlTitle": "\u003cb\u003eElbow Plank\u003c/b\u003e | The 25 Best \u003cb\u003eExercises\u003c/b\u003e to Tone Your Abs (and None of ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/cCBIUPmjxTLm4HUKc0MNGKART4I/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2014/11/14/743/n/1922729/579264c6a62e36c3_Elbow-Plank/i/Elbow-Plank.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Elbow Plank | The 25 Best Exercises to Tone Your Abs (and None of ...",
+      "htmlSnippet": "\u003cb\u003eElbow Plank\u003c/b\u003e | The 25 Best \u003cb\u003eExercises\u003c/b\u003e to Tone Your Abs (and None of ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/7859508/image/25316618/Elbow-Plank",
+        "height": 630,
+        "width": 1200,
+        "byteSize": 37075,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqyZJEgWWR74-lkrTkv0LY1tuHSlA-fA_AWNAlMHuXxSCWbYZCpwJ9q8o&s",
+        "thumbnailHeight": 79,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Elbows to Hands Plank - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "\u003cb\u003eElbows\u003c/b\u003e to Hands \u003cb\u003ePlank\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/53875/skimble-workout-trainer-exercise-elbows-to-hands-plank-1_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Elbows to Hands Plank - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "\u003cb\u003eElbows\u003c/b\u003e to Hands \u003cb\u003ePlank\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/1010-elbows-to-hands-plank-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 19803,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOKMMRnKFnvza9G1ktjBDxujAl2EKdCp05HDZPKhMVM7N4DUXMEVNMISCNQ&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Exercise Library: Elbow Plank Leg Raises - YouTube",
+      "htmlTitle": "\u003cb\u003eExercise\u003c/b\u003e Library: \u003cb\u003eElbow Plank\u003c/b\u003e Leg Raises - YouTube",
+      "link": "https://i.ytimg.com/vi/Akf3IP0H9fA/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Exercise Library: Elbow Plank Leg Raises - YouTube",
+      "htmlSnippet": "\u003cb\u003eExercise\u003c/b\u003e Library: \u003cb\u003eElbow Plank\u003c/b\u003e Leg Raises - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=Akf3IP0H9fA",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 25468,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzwz7lOwATFiVkK_vazVe80hG80g52JAei5GoDpm1pkuPhZth-cBCwqsg&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Reverse Elbow Plank - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Reverse \u003cb\u003eElbow Plank\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/20860/skimble-workout-trainer-exercise-reverse-elbow-plank-4_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Reverse Elbow Plank - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Reverse \u003cb\u003eElbow Plank\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/1680-reverse-elbow-plank-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 23530,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CBDiy4vk3NDLdgH1XBTj-tOANrjqRizfnEI-tbesQ4Wnr8LU9vSonWdf&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Exercise Library: Elbow Plank Arm Raises - YouTube",
+      "htmlTitle": "\u003cb\u003eExercise\u003c/b\u003e Library: \u003cb\u003eElbow Plank\u003c/b\u003e Arm Raises - YouTube",
+      "link": "https://i.ytimg.com/vi/VFFaS0KKtps/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Exercise Library: Elbow Plank Arm Raises - YouTube",
+      "htmlSnippet": "\u003cb\u003eExercise\u003c/b\u003e Library: \u003cb\u003eElbow Plank\u003c/b\u003e Arm Raises - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=VFFaS0KKtps",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 46670,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ09a9boElF6jqsbDV2E_UDHyjKuulVVTkMjozEZAnCTlryYV3NL-YDswc&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Elbow Plank - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "\u003cb\u003eElbow Plank\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "http://s3.amazonaws.com/prod.skimble/assets/5527/skimble-workout-trainer-exercise-yoga-elbow-plank_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Elbow Plank - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "\u003cb\u003eElbow Plank\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/789-elbow-plank-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 21804,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMExKZOJ33qloHYs6eLoR9kp01O_gEB0ILvjzj3nHlYhODdom0aSjqCeJb&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Side Elbow Plank | Skip the Crunches and Strengthen Your Abs With ...",
+      "htmlTitle": "Side \u003cb\u003eElbow Plank\u003c/b\u003e | Skip the Crunches and Strengthen Your Abs With ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/udC9AvvejnyoGgjlYIlBLLUVsiE/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2013/10/25/907/n/1922729/0c32a38f0232b343_elbow-plank-twist-2/i/Side-Elbow-Plank.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Side Elbow Plank | Skip the Crunches and Strengthen Your Abs With ...",
+      "htmlSnippet": "Side \u003cb\u003eElbow Plank\u003c/b\u003e | Skip the Crunches and Strengthen Your Abs With ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/45203997/image/45204105/Side-Elbow-Plank",
+        "height": 1798,
+        "width": 2048,
+        "byteSize": 103826,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj2cTrcckGe6NWCRYS4MGDQDxd6oKh5y_PU8Vl9Kh3w6c_GqctNADCUeqa&s",
+        "thumbnailHeight": 132,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Rotating Elbow Plank - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Rotating \u003cb\u003eElbow Plank\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/66567/skimble-workout-trainer-exercise-square-rotating-elbow-plank-3_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Rotating Elbow Plank - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Rotating \u003cb\u003eElbow Plank\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/1165-rotating-elbow-plank-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 20803,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1SAQP14xnEQBPb8bOz7UhYsErDJ21Zlp6iL8_gX9zM0PBHrCR-Q-j2ef&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    }
+  ]
+}

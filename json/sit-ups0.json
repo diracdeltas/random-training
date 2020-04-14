@@ -1,0 +1,250 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - sit-ups exercise",
+        "totalResults": "2070000000",
+        "searchTerms": "sit-ups exercise",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - sit-ups exercise",
+        "totalResults": "2070000000",
+        "searchTerms": "sit-ups exercise",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016260358267380303853:hhm1wdid5ti",
+        "fileType": "jpg",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "fitness stuff"
+  },
+  "searchInformation": {
+    "searchTime": 0.276431,
+    "formattedSearchTime": "0.28",
+    "totalResults": "2070000000",
+    "formattedTotalResults": "2,070,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Sit Ups Images, Stock Photos & Vectors | Shutterstock",
+      "htmlTitle": "\u003cb\u003eSit Ups\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "link": "https://image.shutterstock.com/image-vector/woman-who-fat-doing-sit-260nw-715195228.jpg",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Sit Ups Images, Stock Photos & Vectors | Shutterstock",
+      "htmlSnippet": "\u003cb\u003eSit Ups\u003c/b\u003e Images, Stock Photos &amp; Vectors | Shutterstock",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.shutterstock.com/search/sit+ups",
+        "height": 280,
+        "width": 361,
+        "byteSize": 8660,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4VsgvFPzBA6qTLp8fQhk_MBKYA0EleuY1ezigU3B0LHIC2vONeWVkuZs&s",
+        "thumbnailHeight": 94,
+        "thumbnailWidth": 121
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Crunches vs Sit Ups: which one is best and how to do it - YouTube",
+      "htmlTitle": "Crunches vs \u003cb\u003eSit Ups\u003c/b\u003e: which one is best and how to do it - YouTube",
+      "link": "https://i.ytimg.com/vi/A7Y2-G4zOUA/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Crunches vs Sit Ups: which one is best and how to do it - YouTube",
+      "htmlSnippet": "Crunches vs \u003cb\u003eSit Ups\u003c/b\u003e: which one is best and how to do it - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=A7Y2-G4zOUA",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 179916,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV7fil_0dnR80S39-0H2m9SFH3ydDp-9mViheSBNsQmayzBO4vAIuyc9v9&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Sit Up | Workout guide, Sit up, Exercise",
+      "htmlTitle": "\u003cb\u003eSit Up\u003c/b\u003e | \u003cb\u003eWorkout\u003c/b\u003e guide, \u003cb\u003eSit up\u003c/b\u003e, \u003cb\u003eExercise\u003c/b\u003e",
+      "link": "https://i.pinimg.com/originals/6a/2e/6b/6a2e6ba4491fb9ffd306461a027f7668.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Sit Up | Workout guide, Sit up, Exercise",
+      "htmlSnippet": "\u003cb\u003eSit Up\u003c/b\u003e | \u003cb\u003eWorkout\u003c/b\u003e guide, \u003cb\u003eSit up\u003c/b\u003e, \u003cb\u003eExercise\u003c/b\u003e",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/361906520037877723/",
+        "height": 720,
+        "width": 1080,
+        "byteSize": 36303,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AglEqK1j9t_9lWDmscmWI4tAy6pPxnKFM8-hO8X0CJKch-J-cmwFLXk&s",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "3 Exercises Better Than Sit Ups - YouTube",
+      "htmlTitle": "3 \u003cb\u003eExercises\u003c/b\u003e Better Than \u003cb\u003eSit Ups\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/pIvDbMEdAxI/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "3 Exercises Better Than Sit Ups - YouTube",
+      "htmlSnippet": "3 \u003cb\u003eExercises\u003c/b\u003e Better Than \u003cb\u003eSit Ups\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=pIvDbMEdAxI",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 123735,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1vRyCFmTkXiWINrP6uu9C2E_tvZ-UiVhodFy-JokAjhPd8jNZ6kow3w&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Sit-Ups | The 7 Exercises Everyone Should Know | POPSUGAR Fitness ...",
+      "htmlTitle": "\u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e | The 7 \u003cb\u003eExercises\u003c/b\u003e Everyone Should Know | POPSUGAR Fitness ...",
+      "link": "https://media1.popsugar-assets.com/files/thumbor/H-fK4_7_zgVsPw4eSV584Jm5aN4/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2017/08/30/908/n/1922729/6405c6aa84236a1b_Core-Full-Sit-Ups/i/Sit-Ups.jpg",
+      "displayLink": "www.popsugar.com",
+      "snippet": "Sit-Ups | The 7 Exercises Everyone Should Know | POPSUGAR Fitness ...",
+      "htmlSnippet": "\u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e | The 7 \u003cb\u003eExercises\u003c/b\u003e Everyone Should Know | POPSUGAR Fitness ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.popsugar.com/fitness/photo-gallery/43957727/image/43957788/Sit-Ups",
+        "height": 1024,
+        "width": 1024,
+        "byteSize": 71965,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksjXNzjsv2UncsfHNWdU4WV0kKcNtIieLjOMcZ1ESGad0jh9MnmSxqPg&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Sit-Ups - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "\u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/4921/skimble-workout-trainer-exercse-sit-ups-2_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Sit-Ups - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "\u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/788-sit-ups-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 24595,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7SA3hO7k4T5fABr135CSBFU9H2q5OM07byHG9D0J2NC68txRzVY36J1h-&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Sit-up Bodybuilding Expander Multifunction Leg Exerciser Pull Rope ...",
+      "htmlTitle": "\u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eup\u003c/b\u003e Bodybuilding Expander Multifunction Leg Exerciser Pull Rope ...",
+      "link": "https://i.pinimg.com/originals/70/b8/54/70b85467e389258e3d72edc66c63534d.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "Sit-up Bodybuilding Expander Multifunction Leg Exerciser Pull Rope ...",
+      "htmlSnippet": "\u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eup\u003c/b\u003e Bodybuilding Expander Multifunction Leg Exerciser Pull Rope ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/469711436127265754/",
+        "height": 942,
+        "width": 1500,
+        "byteSize": 126370,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_ERGM2lqrOGXl5pOjeFa7ONlgq2e_mXehiJQP_nBa9JTsDa1LTNRa-CH&s",
+        "thumbnailHeight": 94,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Partner Sit-ups - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Partner \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eups\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/58492/skimble-workout-trainer-exercise-partner-ab-crunches_2_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Partner Sit-ups - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Partner \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eups\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/1598-partner-sit-ups-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 29294,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDbdlSngOX-_w3ySqPY2G-aGtUwDnzdxsBuP6oi2Ta8BrHfIZaTf2SYlIwGg&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chair Sit Ups | Tutorial | How To | Ab Exercises - YouTube",
+      "htmlTitle": "Chair \u003cb\u003eSit Ups\u003c/b\u003e | Tutorial | How To | Ab \u003cb\u003eExercises\u003c/b\u003e - YouTube",
+      "link": "https://i.ytimg.com/vi/udyalrKYiuE/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Chair Sit Ups | Tutorial | How To | Ab Exercises - YouTube",
+      "htmlSnippet": "Chair \u003cb\u003eSit Ups\u003c/b\u003e | Tutorial | How To | Ab \u003cb\u003eExercises\u003c/b\u003e - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=udyalrKYiuE",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 94476,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUIVsbVtW115xPiVc92aJl6CYLhxMMHX6Gbh7kZ2b7ZS4OOTTEA60mUU&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Kimura Sit-Ups - Exercise How-to - Workout Trainer by Skimble",
+      "htmlTitle": "Kimura \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "link": "https://s3.amazonaws.com/prod.skimble/assets/21360/skimble-workout-trainer-exercise-kimura-sit-ups-6_iphone.jpg",
+      "displayLink": "www.skimble.com",
+      "snippet": "Kimura Sit-Ups - Exercise How-to - Workout Trainer by Skimble",
+      "htmlSnippet": "Kimura \u003cb\u003eSit\u003c/b\u003e-\u003cb\u003eUps\u003c/b\u003e - \u003cb\u003eExercise\u003c/b\u003e How-to - \u003cb\u003eWorkout\u003c/b\u003e Trainer by Skimble",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.skimble.com/exercises/1811-kimura-sit-ups-how-to-do-exercise",
+        "height": 640,
+        "width": 640,
+        "byteSize": 30988,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24Orv6xiB31HQc9BNHRwwPShV3FsN0rSKXSpkJaVfJmE9I3JvmvY0CtLmbA&s",
+        "thumbnailHeight": 137,
+        "thumbnailWidth": 137
+      }
+    }
+  ]
+}
