@@ -58,7 +58,7 @@ const exercises = [
     'plank rotations'
   ],
   [
-    'rest'
+    'Rest'
   ]
 ]
 
