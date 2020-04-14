@@ -52,6 +52,16 @@ h1 {
   margin-top: 0;
 }
 
+a {
+  text-decoration: underline;
+  color: #007db5;
+  text-decoration-color: #007db5;
+}
+
+a:hover {
+  color: #f98e1d;
+}
+
 #remaining {
   -webkit-text-stroke: 0px;
   background-color: white;
@@ -87,7 +97,6 @@ button:hover { opacity: 0.5; }
 .seconds-set { float: right; }
 
 .controlls {
-  -webkit-text-stroke: 1px white;
   font-family: sans-serif;
   font-weight: bolder;
   position: absolute;

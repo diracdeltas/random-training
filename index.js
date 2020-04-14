@@ -62,23 +62,36 @@ const exercises = [
   ]
 ]
 
+// Picks an integer at random from a range, excluding max
+function randRange (max, min) {
+  min = min || 0
+  const rand = Math.floor(Math.random() * (max - min))
+  return min + rand
+}
 // Picks an item at random from an array
 function uniform (array) {
-  return array[Math.floor(Math.random() * array.length)]
+  return array[randRange(array.length)]
 }
 
 let totalSecondsLeft = 0
 let exerciseType = uniform([0, 1, 2])
 
 function done () {
-  document.querySelector('h1').innerText = 'Done!'
+  const h1 = document.querySelector('h1')
+  h1.innerText = 'Done!\n'
   document.querySelector('.circle').style.display = 'none'
   document.querySelector('.controlls').style.display = 'none'
   document.querySelector('#remaining').style.display = 'none'
-  const iframe = document.querySelector('iframe')
-  iframe.style.display = 'none'
-  iframe.src = ''
   restart.style.display = 'none'
+  const iframe = document.querySelector('iframe')
+  iframe.src = ''
+  iframe.style.display = 'none'
+  const href = `https://www.allrecipes.com/recipe/${randRange(10000, 247479)}`
+  const a = document.createElement('a')
+  a.innerText = 'How about a snack?'
+  a.href = href
+  a.target = '_blank'
+  h1.appendChild(a)
 }
 let intervalTimer
 let timeLeft
@@ -101,7 +114,7 @@ let widget
 function trySoundcloudLoad (iframe) {
   let url
   let startTrack = 0
-  const id = Math.ceil(Math.random() * 786759307)
+  const id = randRange(1, 786759308)
   url = `https://api.soundcloud.com/tracks/${id}`
   iframe.src = `https://w.soundcloud.com/player/?url=${url}&color=%23ff5500&auto_play=true&show_reposts=false&show_teaser=true&visual=true&start_track=${startTrack}`
 }
@@ -138,7 +151,6 @@ function initTimer () {
   exercise = uniform(exercises[exerciseType])
   wholeTime = uniform(exercise === 'rest' ? restSeconds : exerciseSeconds)
   exerciseType = (exerciseType + 1) % 4
-  sayExercise(wholeTime, exercise)
   try {
     setBackground(exercise)
   } catch (e) {
@@ -148,6 +160,7 @@ function initTimer () {
   if (wholeTime > totalSecondsLeft) {
     wholeTime = totalSecondsLeft
   }
+  sayExercise(wholeTime, exercise)
   timeLeft = wholeTime
 
   document.querySelector('h1').innerText = exercise
@@ -164,6 +177,11 @@ function initTimer () {
       if (timeLeft < 0 && totalSecondsLeft > 0) {
         initTimer()
       } else {
+        if (timeLeft === -1) {
+          sayCountdown('You are now done. How about a snack?')
+          clearInterval(intervalTimer)
+          return
+        }
         if (timeLeft < 4) {
           sayCountdown(timeLeft)
         }
@@ -235,7 +253,7 @@ const restart = document.querySelector('#restart')
 let totalMinutes = 20
 start.onclick = () => {
   const input = document.querySelector('input')
-  totalMinutes = parseInt(input.value) || totalMinutes
+  totalMinutes = parseFloat(input.value) || totalMinutes
   totalSecondsLeft = 60 * totalMinutes
   document.querySelector('#circleTimer').style.display = 'block'
   document.querySelector('#head').style.display = 'none'
