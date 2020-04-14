@@ -60,7 +60,13 @@ a {
 }
 
 a:hover {
+  -webkit-text-stroke: 1px white;
   color: #f98e1d;
+  text-decoration-color: #f98e1d;
+}
+
+a:visited {
+  -webkit-text-stroke: 1px white;
 }
 
 #remaining {
@@ -107,10 +113,11 @@ button:hover { opacity: 0.5; }
 }
 
 .display-remain-time {
-  font-family: 'Roboto';
-  font-weight: 100;
+  font-family: Roboto;
+  font-weight: 700;
   font-size: 65px;
   color: #75cc7b;
+  -webkit-text-stroke: 1px white;
 }
 
 #pause {
