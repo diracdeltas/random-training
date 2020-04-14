@@ -55,6 +55,7 @@ h1 {
 #remaining {
   -webkit-text-stroke: 0px;
   background-color: white;
+  margin-top: 30px;
 }
 
 button {
@@ -159,3 +160,10 @@ button:hover { opacity: 0.5; }
 }
 
 #e-pointer { transition: transform 0.7s; }
+
+iframe {
+  margin-top: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

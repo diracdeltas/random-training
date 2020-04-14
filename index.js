@@ -1,7 +1,7 @@
 'use strict'
 /* global SC */
 
-let exerciseSeconds = [20, 20, 20, 20, 30, 30, 30, 30, 30, 60, 60, 60, 90, 90]
+let exerciseSeconds = [20, 20, 20, 20, 30, 30, 30, 30, 30, 45, 45, 60, 60, 60]
 
 const restSeconds = [10, 10, 10, 10, 20, 20, 20, 30]
 
