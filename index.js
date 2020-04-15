@@ -9,11 +9,14 @@ const synth = window.speechSynthesis
 
 const sayExercise = (seconds, exercise) => {
   const phrase = new window.SpeechSynthesisUtterance(`${exercise}, ${seconds} seconds`)
+  phrase.volume = 1
   synth.speak(phrase)
 }
 
 const sayCountdown = (number) => {
   const phrase = new window.SpeechSynthesisUtterance(`${number}`)
+  phrase.volume = 1
+  phrase.pitch = 1.5
   synth.speak(phrase)
 }
 
@@ -68,7 +71,7 @@ function uniform (array) {
 }
 
 let totalSecondsLeft = 0
-let exerciseType = 0
+let exerciseType = randRange(3)
 
 function done () {
   const h1 = document.querySelector('h1')
@@ -256,7 +259,7 @@ start.onclick = () => {
 }
 restart.onclick = () => {
   totalSecondsLeft = Math.ceil(60 * totalMinutes)
-  exerciseType = 0
+  exerciseType = randRange(3)
   restart.style.display = 'block'
   initTimer()
 }
