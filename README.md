@@ -1,2 +1,3 @@
 # random-training
-random exercise generator
+
+random workout generator. songs and recipes included.
