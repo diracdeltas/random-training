@@ -149,7 +149,10 @@ function initSoundcloud () {
 }
 
 function initTimer () {
-  initSoundcloud()
+
+  if (playMusic.checked) {
+    initSoundcloud()
+  }
   const pauseBtn = document.getElementById('pause')
   // circle start
   progressBar.style.strokeDasharray = length
@@ -266,6 +269,7 @@ function initTimer () {
 
 const start = document.querySelector('#start')
 const restart = document.querySelector('#restart')
+const playMusic = document.querySelector('#playmusic')
 let totalMinutes = 20
 start.addEventListener('click', () => {
   const input = document.querySelector('input')
