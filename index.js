@@ -18,17 +18,9 @@ const sayCountdown = (number) => {
 }
 
 const setBackground = (exercise) => {
-  const index = uniform([0, 1, 2, 3, 4, 5])
-  const url = `/json/${exercise.replace(/ /g, '')}${index}.json`
-  window.fetch(url).then(async (response) => {
-    const json = await response.json()
-    pickRandomImage(json)
-  })
-}
-
-const pickRandomImage = (json) => {
-  const item = uniform(json.items)
-  const url = item.link
+  const url =
+    `/img/${exercise.replace(/ /g, '')}-${randRange(6)}-${randRange(10)}.jpg`
+  console.log('setting background', url)
   document.body.style.backgroundImage = `url("${url}")`
 }
 
