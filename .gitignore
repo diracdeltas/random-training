@@ -103,5 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-json/*.js
+json/oneoff.js
 json/package-lock.json
+.DS_STORE
