@@ -238,7 +238,7 @@ function initTimer () {
     displayOutput.textContent = displayString
     update(timeLeft, wholeTime)
   }
-  pauseBtn.onclick = (e) => { pauseTimer() }
+  pauseBtn.addEventListener('click', (e) => { pauseTimer() })
   document.body.onkeydown = (e) => {
     if (e.keyCode === 32) {
       // spacebar was hit
@@ -253,7 +253,7 @@ function initTimer () {
 const start = document.querySelector('#start')
 const restart = document.querySelector('#restart')
 let totalMinutes = 20
-start.onclick = () => {
+start.addEventListener('click', () => {
   const input = document.querySelector('input')
   totalMinutes = parseFloat(input.value) || totalMinutes
   totalSecondsLeft = Math.ceil(60 * totalMinutes)
@@ -261,13 +261,13 @@ start.onclick = () => {
   document.querySelector('#head').style.display = 'none'
   restart.style.display = 'block'
   initTimer()
-}
-restart.onclick = () => {
+})
+restart.addEventListener('click', () => {
   totalSecondsLeft = Math.ceil(60 * totalMinutes)
   exerciseType = 0
   restart.style.display = 'block'
   initTimer()
-}
+})
 
 window.onload = () => {
   const input = document.querySelector('input')
@@ -275,7 +275,7 @@ window.onload = () => {
   input.select()
   input.onkeydown = (e) => {
     if (e.key === 'Enter') {
-      start.onclick()
+      start.click()
     }
   }
 }
