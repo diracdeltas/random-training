@@ -11,13 +11,6 @@ input {
   width: 60px;
 }
 
-img {
-  margin-top: 100px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
 #intro {
   margin-top: 50px;
 }
@@ -199,4 +192,17 @@ footer {
   bottom: 7px;
   text-align: center;
   font-size: 15px;
+}
+
+#recipe {
+  display: none;
+  background-color: #ffffff75;
+  font-weight: bold;
+  margin: auto;
+  padding: 15px;
+  width: 95%;
+}
+
+#recipe-title {
+  text-align: center;
 }

@@ -75,21 +75,40 @@ let exerciseType = randRange(3)
 
 function done () {
   const h1 = document.querySelector('h1')
-  h1.innerText = 'Done!\n'
+  h1.innerText = 'How about a snack?\n'
   document.querySelector('.circle').style.display = 'none'
   document.querySelector('.controlls').style.display = 'none'
   document.querySelector('#remaining').style.display = 'none'
   restart.style.display = 'none'
+
+  // delete sc widget
   const iframe = document.querySelector('iframe')
   iframe.src = ''
   iframe.style.display = 'none'
-  const href = `https://www.allrecipes.com/recipe/${randRange(10000, 247479)}`
-  const a = document.createElement('a')
-  a.innerText = 'How about a snack?'
-  a.href = href
-  a.target = '_blank'
-  h1.appendChild(a)
+
+  // display a random recipe
+  const id = randRange(0, 1274)
+  const url = `recipes/${id}.json`
+  window.fetch(url).then(async (resp) => {
+    const recipe = await resp.json()
+    document.querySelector('#recipe').style.display = 'block'
+    document.querySelector('#recipe-title').innerText = recipe.title
+    document.body.style.backgroundImage = `url("${recipe.image}")`
+    const instructions = document.querySelector('#instructions')
+    const ingredients = document.querySelector('#ingredients')
+    recipe.ingredients.forEach((i) => {
+      const li = document.createElement('li')
+      li.innerText = i
+      ingredients.appendChild(li)
+    })
+    recipe.instructions.split('\n').forEach((i) => {
+      const li = document.createElement('li')
+      li.innerText = i
+      instructions.appendChild(li)
+    })
+  })
 }
+
 let intervalTimer
 let timeLeft
 let wholeTime
