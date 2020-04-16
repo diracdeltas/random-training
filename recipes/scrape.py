@@ -14,10 +14,8 @@ def try_scrape():
     try:
         title = scraper.title()
     except NotImplementedError:
-        try_scrape()
         return
     if 'Johnsonville' in title:
-        try_scrape()
         return
     print(title)
     result = {
