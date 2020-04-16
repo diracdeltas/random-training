@@ -23,6 +23,7 @@ window.onload = () => {
   let exercise
   let isPaused
   let isStarted = false
+  let isDone = false
 
   const exerciseSeconds = [20, 20, 20, 20, 30, 30, 30, 30, 30, 45, 45, 60, 60]
   const restSeconds = [10, 10, 10, 10, 20, 20, 20, 30]
@@ -89,6 +90,9 @@ window.onload = () => {
   }
 
   const done = () => {
+    if (isDone) {
+      return
+    }
     h1.innerText = 'How about a snack?\n'
     document.querySelector('.circle').style.display = 'none'
     document.querySelector('.controlls').style.display = 'none'
@@ -119,6 +123,7 @@ window.onload = () => {
         li.innerText = i
         instructions.appendChild(li)
       })
+      isDone = true
     })
   }
 
@@ -157,11 +162,6 @@ window.onload = () => {
     // circle ends
     const displayOutput = document.querySelector('.display-remain-time')
 
-    if (totalSecondsLeft <= 0) {
-      done()
-      return
-    }
-
     exercise = uniform(exercises[exerciseType])
     wholeTime = uniform(exercise === 'rest' ? restSeconds : exerciseSeconds)
     exerciseType = (exerciseType + 1) % 4
@@ -191,15 +191,13 @@ window.onload = () => {
         if (timeLeft < 0 && totalSecondsLeft > 0) {
           initTimer()
         } else {
+          displayTimeLeft()
           if (timeLeft < 0) {
-            sayCountdown('You are now done. How about a snack?')
             clearInterval(intervalTimer)
-            return
-          }
-          if (timeLeft < 4) {
+            sayCountdown('You are now done. How about a snack?')
+          } else if (timeLeft < 4) {
             sayCountdown(timeLeft)
           }
-          displayTimeLeft()
         }
       }, 1000)
     }
@@ -245,7 +243,6 @@ window.onload = () => {
       if (totalSecondsLeft > 0) {
         totalSecondsLeft = totalSecondsLeft - 1
       } else {
-        // show that we are done
         done()
         return
       }
