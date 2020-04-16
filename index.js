@@ -104,7 +104,7 @@ window.onload = () => {
     iframe.style.display = 'none'
 
     // display a random recipe
-    const id = randRange(0, 1274)
+    const id = randRange(0, 1276)
     const url = `recipes/${id}.json`
     window.fetch(url).then(async (resp) => {
       const recipe = await resp.json()
