@@ -279,6 +279,7 @@ window.onload = () => {
     exerciseType = randRange(3)
     totalSecondsLeft = Math.ceil(60 * totalMinutes)
     restart.style.display = 'block'
+    isRest = false
     initTimer()
   }
 
