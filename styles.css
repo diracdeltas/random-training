@@ -33,14 +33,6 @@ input {
   margin: 0 auto;
 }
 
-#restart {
-  text-align: center;
-  margin: auto;
-  margin-top: 50px;
-  display: none;
-  color: #007db5;
-}
-
 h1 {
   color: #a83be0;
   -webkit-text-stroke: 1px white;
@@ -80,10 +72,20 @@ button {
   height: 30px;
   cursor: pointer;
   display: inline;
-  margin: 10px;
+  margin: 7px;
+  background-color: white;
 }
 
 button:hover { opacity: 0.5; }
+
+.restart {
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  display: none;
+  color: #007db5;
+}
+
 
 .center {
   text-align: center;

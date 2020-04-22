@@ -4,7 +4,7 @@
 window.onload = () => {
   const iframe = document.querySelector('iframe')
   const start = document.querySelector('#start')
-  const restart = document.querySelector('#restart')
+  const restart = document.querySelector('.restart')
   const progressBar = document.querySelector('.e-c-progress')
   const pointer = document.getElementById('e-pointer')
   const input = document.querySelector('input')
@@ -14,7 +14,7 @@ window.onload = () => {
   const length = Math.PI * 2 * 100
 
   let totalSecondsLeft = 0
-  let exerciseType = randRange(3)
+  let exerciseType
   let widget
   let totalMinutes = 20
   let intervalTimer
@@ -24,9 +24,10 @@ window.onload = () => {
   let isPaused
   let isStarted = false
   let isDone = false
+  let isRest = false
 
-  const exerciseSeconds = [20, 20, 20, 20, 30, 30, 30, 30, 30, 45, 45, 60, 60]
-  const restSeconds = [10, 10, 10, 10, 20, 20, 20, 30]
+  const exerciseSeconds = [20, 20, 20, 30, 30, 30, 30, 30, 30, 30, 45, 45]
+  const restSeconds = [10, 10, 10, 20, 20, 20, 20, 30, 30]
   const exercises = [
     [
       'forward lunges',
@@ -53,23 +54,30 @@ window.onload = () => {
       'plank rotations',
       'high plank',
       'elbow plank'
-    ],
-    [
-      'Rest'
     ]
   ]
+
+  const say = (phrase) => {
+    synth.speak(phrase)
+    try {
+      widget.setVolume(20)
+      phrase.onend = () => {
+        widget.setVolume(100)
+      }
+    } catch (e) {}
+  }
 
   const sayExercise = (seconds, exercise) => {
     const phrase = new window.SpeechSynthesisUtterance(`${exercise}, ${seconds} seconds`)
     phrase.volume = 1
-    synth.speak(phrase)
+    say(phrase)
   }
 
   const sayCountdown = (number) => {
     const phrase = new window.SpeechSynthesisUtterance(`${number}`)
     phrase.volume = 1
     phrase.pitch = 1.5
-    synth.speak(phrase)
+    say(phrase)
   }
 
   // Picks an integer at random from a range, excluding max
@@ -141,10 +149,10 @@ window.onload = () => {
     if (!widget) {
       widget = SC.Widget(iframe)
       widget.bind(SC.Widget.Events.ERROR, () => {
-        trySoundcloudLoad(iframe)
+        trySoundcloudLoad()
       })
       widget.bind(SC.Widget.Events.FINISH, () => {
-        trySoundcloudLoad(iframe)
+        trySoundcloudLoad()
       })
     }
   }
@@ -153,18 +161,21 @@ window.onload = () => {
     const pauseBtn = document.getElementById('pause')
     isPaused = false
 
-    // initialize soundcloud widget
-    iframe.style.display = 'block'
-    trySoundcloudLoad()
-
     // circle start
     progressBar.style.strokeDasharray = length
     // circle ends
     const displayOutput = document.querySelector('.display-remain-time')
 
-    exercise = uniform(exercises[exerciseType])
-    wholeTime = uniform(exercise === 'rest' ? restSeconds : exerciseSeconds)
-    exerciseType = (exerciseType + 1) % 4
+    if (isRest) {
+      exercise = 'Rest'
+      wholeTime = uniform(restSeconds)
+    } else {
+      exercise = uniform(exercises[exerciseType])
+      wholeTime = uniform(exerciseSeconds)
+      exerciseType = (exerciseType + 1) % 3
+    }
+    isRest = !isRest
+
     try {
       setBackground(exercise)
     } catch (e) {
@@ -264,19 +275,27 @@ window.onload = () => {
     pauseTimer(true)
   }
 
-  start.addEventListener('click', () => {
-    totalMinutes = parseFloat(input.value) || totalMinutes
+  function onRestart () {
+    exerciseType = randRange(3)
     totalSecondsLeft = Math.ceil(60 * totalMinutes)
+    restart.style.display = 'block'
+    initTimer()
+  }
+
+  start.addEventListener('click', () => {
+    // initialize soundcloud widget
+    iframe.style.display = 'block'
+    trySoundcloudLoad()
+    totalMinutes = parseFloat(input.value) || totalMinutes
     document.querySelector('#circleTimer').style.display = 'block'
     document.querySelector('#head').style.display = 'none'
-    restart.style.display = 'block'
-    initTimer()
+    onRestart()
   })
-  restart.addEventListener('click', () => {
-    totalSecondsLeft = Math.ceil(60 * totalMinutes)
-    exerciseType = randRange(3)
-    restart.style.display = 'block'
-    initTimer()
+  document.querySelector('#restart').addEventListener('click', () => {
+    onRestart()
+  })
+  document.querySelector('#newSong').addEventListener('click', () => {
+    trySoundcloudLoad()
   })
 
   input.focus()
