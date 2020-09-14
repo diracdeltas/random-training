@@ -1,5 +1,6 @@
 'use strict'
 /* global SC */
+/* eslint object-curly-spacing: 0 */
 
 window.onload = () => {
   const iframe = document.querySelector('iframe')
@@ -26,34 +27,32 @@ window.onload = () => {
   let isDone = false
   let isRest = false
 
-  const exerciseSeconds = [20, 20, 20, 30, 30, 30, 30, 30, 30, 30, 45, 45]
-  const restSeconds = [10, 10, 10, 20, 20, 20, 20, 30, 30]
   const exercises = [
     [
-      'forward lunges',
-      'side lunges',
-      'high knees',
-      'squats',
-      'jump squats',
-      'glute bridges',
-      'butt kicks'
+      {'forward lunges': [30, 61]},
+      {'side lunges': [30, 61]},
+      {'high knees': [30, 46]},
+      {'squats': [20, 46]},
+      {'jump squats': [10, 21]},
+      {'glute bridges': [60, 91]},
+      {'butt kicks': [20, 61]}
     ],
     [
-      'climbers',
-      'jumping jacks',
-      'crunches',
-      'flutter kicks',
-      'scissor kicks',
-      'russian twist',
-      'leg raises'
+      {'climbers': [60, 91]},
+      {'jumping jacks': [20, 46]},
+      {'crunches': [45, 91]},
+      {'flutter kicks': [45, 61]},
+      {'scissor kicks': [45, 61]},
+      {'russian twist': [60, 91]},
+      {'leg raises': [45, 91]}
     ],
     [
-      'superman',
-      'push ups',
-      'shoulder taps',
-      'plank rotations',
-      'high plank',
-      'elbow plank'
+      {'superman': [30, 61]},
+      {'push ups': [20, 46]},
+      {'shoulder taps': [90, 121]},
+      {'plank rotations': [90, 121]},
+      {'high plank': [60, 91]},
+      {'elbow plank': [60, 91]}
     ]
   ]
 
@@ -112,7 +111,7 @@ window.onload = () => {
     iframe.style.display = 'none'
 
     // display a random recipe
-    const id = randRange(0, 1276)
+    const id = randRange(1276)
     const url = `recipes/${id}.json`
     window.fetch(url).then(async (resp) => {
       const recipe = await resp.json()
@@ -142,7 +141,7 @@ window.onload = () => {
   }
 
   const trySoundcloudLoad = () => {
-    const id = randRange(1, 786759308)
+    const id = randRange(891662780, 100000000)
     const url = `https://api.soundcloud.com/tracks/${id}`
     iframe.src = `https://w.soundcloud.com/player/?url=${url}&color=%23ff5500&auto_play=true&show_reposts=false&show_teaser=true&visual=true`
 
@@ -151,9 +150,19 @@ window.onload = () => {
       widget.bind(SC.Widget.Events.ERROR, () => {
         trySoundcloudLoad()
       })
+      // Change songs every 120s
+      setInterval(() => {
+        if (!isPaused) {
+          trySoundcloudLoad()
+        }
+      }, 120 * 1000)
+      /*
+      // Soundcloud is not firing the FINISH event anymore
       widget.bind(SC.Widget.Events.FINISH, () => {
+        console.log('got finish event')
         trySoundcloudLoad()
       })
+      */
     }
   }
 
@@ -168,10 +177,12 @@ window.onload = () => {
 
     if (isRest) {
       exercise = 'Rest'
-      wholeTime = uniform(restSeconds)
+      wholeTime = randRange(11, 5)
     } else {
-      exercise = uniform(exercises[exerciseType])
-      wholeTime = uniform(exerciseSeconds)
+      let exerciseObject = uniform(exercises[exerciseType])
+      exercise = Object.keys(exerciseObject)[0]
+      let timeRange = exerciseObject[exercise]
+      wholeTime = randRange(timeRange[1], timeRange[0])
       exerciseType = (exerciseType + 1) % 3
     }
     isRest = !isRest
