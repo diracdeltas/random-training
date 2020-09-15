@@ -32,27 +32,27 @@ window.onload = () => {
       {'forward lunges': [30, 61]},
       {'side lunges': [30, 61]},
       {'high knees': [30, 46]},
-      {'squats': [20, 46]},
-      {'jump squats': [10, 21]},
-      {'glute bridges': [60, 91]},
-      {'butt kicks': [20, 61]}
+      {'squats': [15, 46]},
+      {'jump squats': [10, 31]},
+      {'glute bridges': [30, 61]},
+      {'jumping jacks': [30, 61]},
+      {'butt kicks': [30, 61]}
     ],
     [
-      {'climbers': [60, 91]},
-      {'jumping jacks': [20, 46]},
-      {'crunches': [45, 91]},
-      {'flutter kicks': [45, 61]},
-      {'scissor kicks': [45, 61]},
-      {'russian twist': [60, 91]},
-      {'leg raises': [45, 91]}
-    ],
-    [
+      {'crunches': [30, 61]},
+      {'flutter kicks': [15, 31]},
+      {'scissor kicks': [15, 31]},
+      {'russian twist': [45, 61]},
       {'superman': [30, 61]},
-      {'push ups': [20, 46]},
-      {'shoulder taps': [90, 121]},
-      {'plank rotations': [90, 121]},
-      {'high plank': [60, 91]},
-      {'elbow plank': [60, 91]}
+      {'leg raises': [10, 31]}
+    ],
+    [
+      {'climbers': [30, 61]},
+      {'push ups': [30, 46]},
+      {'plank rotations': [30, 61]},
+      {'high plank': [30, 61]},
+      {'elbow plank': [30, 61]},
+      {'shoulder taps': [30, 61]}
     ]
   ]
 
@@ -177,7 +177,7 @@ window.onload = () => {
 
     if (isRest) {
       exercise = 'Rest'
-      wholeTime = randRange(11, 5)
+      wholeTime = randRange(21, 5)
     } else {
       let exerciseObject = uniform(exercises[exerciseType])
       exercise = Object.keys(exerciseObject)[0]
