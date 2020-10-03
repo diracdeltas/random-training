@@ -32,27 +32,27 @@ window.onload = () => {
       {'forward lunges': [30, 61]},
       {'side lunges': [30, 61]},
       {'high knees': [30, 46]},
-      {'squats': [15, 46]},
-      {'jump squats': [10, 31]},
+      {'squats': [30, 46]},
+      {'jump squats': [20, 31]},
       {'glute bridges': [30, 61]},
-      {'jumping jacks': [30, 61]},
-      {'butt kicks': [30, 61]}
+      {'jumping jacks': [30, 46]},
+      {'butt kicks': [30, 46]}
     ],
     [
       {'crunches': [30, 61]},
-      {'flutter kicks': [15, 31]},
-      {'scissor kicks': [15, 31]},
-      {'russian twist': [45, 61]},
+      {'flutter kicks': [20, 46]},
+      {'scissor kicks': [20, 46]},
+      {'russian twist': [30, 46]},
       {'superman': [30, 61]},
-      {'leg raises': [10, 31]}
+      {'leg raises': [30, 46]}
     ],
     [
       {'climbers': [30, 61]},
-      {'push ups': [30, 46]},
-      {'plank rotations': [30, 61]},
+      {'push ups': [20, 31]},
+      {'plank rotations': [30, 46]},
       {'high plank': [30, 61]},
       {'elbow plank': [30, 61]},
-      {'shoulder taps': [30, 61]}
+      {'shoulder taps': [30, 46]}
     ]
   ]
 
