@@ -19,6 +19,7 @@ window.onload = () => {
   let widget
   let totalMinutes = 20
   let intervalTimer
+  let songTimer
   let timeLeft
   let wholeTime
   let exercise
@@ -106,8 +107,8 @@ window.onload = () => {
     document.querySelector('#remaining').style.display = 'none'
     restart.style.display = 'none'
 
-    // delete sc widget
-    iframe.src = ''
+    // change the music
+    trySoundcloudLoad()
     iframe.style.display = 'none'
 
     // display a random recipe
@@ -151,7 +152,10 @@ window.onload = () => {
         trySoundcloudLoad()
       })
       // Change songs every 120s
-      setInterval(() => {
+      if (songTimer) {
+        clearInterval(songTimer)
+      }
+      songTimer = setInterval(() => {
         if (!isPaused) {
           trySoundcloudLoad()
         }
