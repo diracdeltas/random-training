@@ -141,7 +141,7 @@ window.onload = () => {
   }
 
   const trySoundcloudLoad = () => {
-    const id = randRange(891662780, 100000000)
+    const id = randRange(1293837037, 800000000)
     const url = `https://api.soundcloud.com/tracks/${id}`
     iframe.src = `https://w.soundcloud.com/player/?url=${url}&color=%23ff5500&auto_play=true&show_reposts=false&show_teaser=true&visual=true`
 
