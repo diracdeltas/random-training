@@ -2,6 +2,10 @@
 /* global SC */
 /* eslint object-curly-spacing: 0 */
 
+// Update this periodically to get the latest soundcloud tracks
+const SC_MAX = 1997260627
+const SC_MIN = 800000000
+
 window.onload = () => {
   const iframe = document.querySelector('iframe')
   const start = document.querySelector('#start')
@@ -142,7 +146,7 @@ window.onload = () => {
   }
 
   const trySoundcloudLoad = () => {
-    const id = randRange(1293837037, 800000000)
+    const id = randRange(SC_MAX, SC_MIN)
     const url = `https://api.soundcloud.com/tracks/${id}`
     iframe.src = `https://w.soundcloud.com/player/?url=${url}&color=%23ff5500&auto_play=true&show_reposts=false&show_teaser=true&visual=true`
 
